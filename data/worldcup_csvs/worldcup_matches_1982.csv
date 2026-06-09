@@ -1,0 +1,53 @@
+Year,Date,Host_Country,Host_City,Stage,Home_Team,Away_Team,Home_Score,Away_Score,Penalties,Penalties_Home_Score,Penalties_Away_Score,Winner,Draw
+1982,1982-06-13,Spain,Barcelona,Group Stage,Argentina,Belgium,0,1,0,0,0,Belgium,0
+1982,1982-06-14,Spain,Seville,Group Stage,Brazil,Soviet Union,2,1,0,0,0,Brazil,0
+1982,1982-06-14,Spain,Vigo,Group Stage,Italy,Poland,0,0,0,0,0,,1
+1982,1982-06-15,Spain,Elche,Group Stage,Hungary,El Salvador,10,1,0,0,0,Hungary,0
+1982,1982-06-15,Spain,A Coruña,Group Stage,Peru,Cameroon,0,0,0,0,0,,1
+1982,1982-06-15,Spain,Málaga,Group Stage,Scotland,New Zealand,5,2,0,0,0,Scotland,0
+1982,1982-06-16,Spain,Bilbao,Group Stage,England,France,3,1,0,0,0,England,0
+1982,1982-06-16,Spain,Valencia,Group Stage,Spain,Honduras,1,1,0,0,0,,1
+1982,1982-06-16,Spain,Gijón,Group Stage,West Germany,Algeria,1,2,0,0,0,Algeria,0
+1982,1982-06-17,Spain,Oviedo,Group Stage,Chile,Austria,0,1,0,0,0,Austria,0
+1982,1982-06-17,Spain,Valladolid,Group Stage,Czechoslovakia,Kuwait,1,1,0,0,0,,1
+1982,1982-06-17,Spain,Zaragoza,Group Stage,Yugoslavia,Northern Ireland,0,0,0,0,0,,1
+1982,1982-06-18,Spain,Alicante,Group Stage,Argentina,Hungary,4,1,0,0,0,Argentina,0
+1982,1982-06-18,Spain,Seville,Group Stage,Brazil,Scotland,4,1,0,0,0,Brazil,0
+1982,1982-06-18,Spain,Vigo,Group Stage,Italy,Peru,1,1,0,0,0,,1
+1982,1982-06-19,Spain,Elche,Group Stage,Belgium,El Salvador,1,0,0,0,0,Belgium,0
+1982,1982-06-19,Spain,A Coruña,Group Stage,Poland,Cameroon,0,0,0,0,0,,1
+1982,1982-06-19,Spain,Málaga,Group Stage,Soviet Union,New Zealand,3,0,0,0,0,Soviet Union,0
+1982,1982-06-20,Spain,Bilbao,Group Stage,England,Czechoslovakia,2,0,0,0,0,England,0
+1982,1982-06-20,Spain,Valencia,Group Stage,Spain,Yugoslavia,2,1,0,0,0,Spain,0
+1982,1982-06-20,Spain,Gijón,Group Stage,West Germany,Chile,4,1,0,0,0,West Germany,0
+1982,1982-06-21,Spain,Oviedo,Group Stage,Algeria,Austria,0,2,0,0,0,Austria,0
+1982,1982-06-21,Spain,Valladolid,Group Stage,France,Kuwait,4,1,0,0,0,France,0
+1982,1982-06-21,Spain,Zaragoza,Group Stage,Honduras,Northern Ireland,1,1,0,0,0,,1
+1982,1982-06-22,Spain,Elche,Group Stage,Belgium,Hungary,1,1,0,0,0,,1
+1982,1982-06-22,Spain,A Coruña,Group Stage,Poland,Peru,5,1,0,0,0,Poland,0
+1982,1982-06-22,Spain,Málaga,Group Stage,Soviet Union,Scotland,2,2,0,0,0,,1
+1982,1982-06-23,Spain,Alicante,Group Stage,Argentina,El Salvador,2,0,0,0,0,Argentina,0
+1982,1982-06-23,Spain,Seville,Group Stage,Brazil,New Zealand,4,0,0,0,0,Brazil,0
+1982,1982-06-23,Spain,Vigo,Group Stage,Italy,Cameroon,1,1,0,0,0,,1
+1982,1982-06-24,Spain,Oviedo,Group Stage,Algeria,Chile,3,2,0,0,0,Algeria,0
+1982,1982-06-24,Spain,Valladolid,Group Stage,France,Czechoslovakia,1,1,0,0,0,,1
+1982,1982-06-24,Spain,Zaragoza,Group Stage,Honduras,Yugoslavia,0,1,0,0,0,Yugoslavia,0
+1982,1982-06-25,Spain,Bilbao,Group Stage,England,Kuwait,1,0,0,0,0,England,0
+1982,1982-06-25,Spain,Valencia,Group Stage,Spain,Northern Ireland,0,1,0,0,0,Northern Ireland,0
+1982,1982-06-25,Spain,Gijón,Group Stage,West Germany,Austria,1,0,0,0,0,West Germany,0
+1982,1982-06-28,Spain,Madrid,Group Stage,Austria,France,0,1,0,0,0,France,0
+1982,1982-06-28,Spain,Barcelona,Group Stage,Poland,Belgium,3,0,0,0,0,Poland,0
+1982,1982-06-29,Spain,Barcelona,Group Stage,Italy,Argentina,2,1,0,0,0,Italy,0
+1982,1982-06-29,Spain,Madrid,Group Stage,West Germany,England,0,0,0,0,0,,1
+1982,1982-07-01,Spain,Madrid,Group Stage,Austria,Northern Ireland,2,2,0,0,0,,1
+1982,1982-07-01,Spain,Barcelona,Group Stage,Belgium,Soviet Union,0,1,0,0,0,Soviet Union,0
+1982,1982-07-02,Spain,Barcelona,Group Stage,Argentina,Brazil,1,3,0,0,0,Brazil,0
+1982,1982-07-02,Spain,Madrid,Group Stage,West Germany,Spain,2,1,0,0,0,West Germany,0
+1982,1982-07-04,Spain,Madrid,Group Stage,France,Northern Ireland,4,1,0,0,0,France,0
+1982,1982-07-04,Spain,Barcelona,Group Stage,Soviet Union,Poland,0,0,0,0,0,,1
+1982,1982-07-05,Spain,Barcelona,Group Stage,Italy,Brazil,3,2,0,0,0,Italy,0
+1982,1982-07-05,Spain,Madrid,Group Stage,Spain,England,0,0,0,0,0,,1
+1982,1982-07-08,Spain,Barcelona,Semi-final,Poland,Italy,0,2,0,0,0,Italy,0
+1982,1982-07-08,Spain,Seville,Semi-final,West Germany,France,3,3,1,5,4,West Germany,1
+1982,1982-07-10,Spain,Alicante,Third place play-off,Poland,France,3,2,0,0,0,Poland,0
+1982,1982-07-11,Spain,Madrid,Final,Italy,West Germany,3,1,0,0,0,Italy,0

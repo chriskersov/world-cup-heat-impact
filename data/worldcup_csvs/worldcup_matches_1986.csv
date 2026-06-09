@@ -1,0 +1,53 @@
+Year,Date,Host_Country,Host_City,Stage,Home_Team,Away_Team,Home_Score,Away_Score,Penalties,Penalties_Home_Score,Penalties_Away_Score,Winner,Draw
+1986,1986-05-31,Mexico,Mexico City,Group Stage,Bulgaria,Italy,1,1,0,0,0,,1
+1986,1986-06-01,Mexico,León,Group Stage,Canada,France,0,1,0,0,0,France,0
+1986,1986-06-01,Mexico,Guadalajara,Group Stage,Spain,Brazil,0,1,0,0,0,Brazil,0
+1986,1986-06-02,Mexico,Mexico City,Group Stage,Argentina,South Korea,3,1,0,0,0,Argentina,0
+1986,1986-06-02,Mexico,San Nicolás de los Garza,Group Stage,Morocco,Poland,0,0,0,0,0,,1
+1986,1986-06-02,Mexico,Irapuato,Group Stage,Soviet Union,Hungary,6,0,0,0,0,Soviet Union,0
+1986,1986-06-03,Mexico,Zapopan,Group Stage,Algeria,Northern Ireland,1,1,0,0,0,,1
+1986,1986-06-03,Mexico,Mexico City,Group Stage,Belgium,Mexico,1,2,0,0,0,Mexico,0
+1986,1986-06-03,Mexico,Monterrey,Group Stage,Portugal,England,1,0,0,0,0,Portugal,0
+1986,1986-06-04,Mexico,Toluca,Group Stage,Paraguay,Iraq,1,0,0,0,0,Paraguay,0
+1986,1986-06-04,Mexico,Nezahualcóyotl,Group Stage,Scotland,Denmark,0,1,0,0,0,Denmark,0
+1986,1986-06-04,Mexico,Querétaro,Group Stage,Uruguay,West Germany,1,1,0,0,0,,1
+1986,1986-06-05,Mexico,León,Group Stage,France,Soviet Union,1,1,0,0,0,,1
+1986,1986-06-05,Mexico,Puebla,Group Stage,Italy,Argentina,1,1,0,0,0,,1
+1986,1986-06-05,Mexico,Mexico City,Group Stage,South Korea,Bulgaria,1,1,0,0,0,,1
+1986,1986-06-06,Mexico,Guadalajara,Group Stage,Brazil,Algeria,1,0,0,0,0,Brazil,0
+1986,1986-06-06,Mexico,Monterrey,Group Stage,England,Morocco,0,0,0,0,0,,1
+1986,1986-06-06,Mexico,Irapuato,Group Stage,Hungary,Canada,2,0,0,0,0,Hungary,0
+1986,1986-06-07,Mexico,Mexico City,Group Stage,Mexico,Paraguay,1,1,0,0,0,,1
+1986,1986-06-07,Mexico,Zapopan,Group Stage,Northern Ireland,Spain,1,2,0,0,0,Spain,0
+1986,1986-06-07,Mexico,San Nicolás de los Garza,Group Stage,Poland,Portugal,1,0,0,0,0,Poland,0
+1986,1986-06-08,Mexico,Nezahualcóyotl,Group Stage,Denmark,Uruguay,6,1,0,0,0,Denmark,0
+1986,1986-06-08,Mexico,Toluca,Group Stage,Iraq,Belgium,1,2,0,0,0,Belgium,0
+1986,1986-06-08,Mexico,Querétaro,Group Stage,West Germany,Scotland,2,1,0,0,0,West Germany,0
+1986,1986-06-09,Mexico,León,Group Stage,Hungary,France,0,3,0,0,0,France,0
+1986,1986-06-09,Mexico,Irapuato,Group Stage,Soviet Union,Canada,2,0,0,0,0,Soviet Union,0
+1986,1986-06-10,Mexico,Mexico City,Group Stage,Argentina,Bulgaria,2,0,0,0,0,Argentina,0
+1986,1986-06-10,Mexico,Puebla,Group Stage,South Korea,Italy,2,3,0,0,0,Italy,0
+1986,1986-06-11,Mexico,San Nicolás de los Garza,Group Stage,England,Poland,3,0,0,0,0,England,0
+1986,1986-06-11,Mexico,Mexico City,Group Stage,Iraq,Mexico,0,1,0,0,0,Mexico,0
+1986,1986-06-11,Mexico,Toluca,Group Stage,Paraguay,Belgium,2,2,0,0,0,,1
+1986,1986-06-11,Mexico,Zapopan,Group Stage,Portugal,Morocco,1,3,0,0,0,Morocco,0
+1986,1986-06-12,Mexico,Monterrey,Group Stage,Algeria,Spain,0,3,0,0,0,Spain,0
+1986,1986-06-12,Mexico,Guadalajara,Group Stage,Northern Ireland,Brazil,0,3,0,0,0,Brazil,0
+1986,1986-06-13,Mexico,Querétaro,Group Stage,Denmark,West Germany,2,0,0,0,0,Denmark,0
+1986,1986-06-13,Mexico,Nezahualcóyotl,Group Stage,Scotland,Uruguay,0,0,0,0,0,,1
+1986,1986-06-15,Mexico,Mexico City,Round of 16,Mexico,Bulgaria,2,0,0,0,0,Mexico,0
+1986,1986-06-15,Mexico,León,Round of 16,Soviet Union,Belgium,3,4,0,0,0,Belgium,0
+1986,1986-06-16,Mexico,Puebla,Round of 16,Argentina,Uruguay,1,0,0,0,0,Argentina,0
+1986,1986-06-16,Mexico,Guadalajara,Round of 16,Brazil,Poland,4,0,0,0,0,Brazil,0
+1986,1986-06-17,Mexico,Mexico City,Round of 16,Italy,France,0,2,0,0,0,France,0
+1986,1986-06-17,Mexico,San Nicolás de los Garza,Round of 16,Morocco,West Germany,0,1,0,0,0,West Germany,0
+1986,1986-06-18,Mexico,Querétaro,Round of 16,Denmark,Spain,1,5,0,0,0,Spain,0
+1986,1986-06-18,Mexico,Mexico City,Round of 16,England,Paraguay,3,0,0,0,0,England,0
+1986,1986-06-21,Mexico,Guadalajara,Quarter-final,Brazil,France,1,1,1,3,4,France,1
+1986,1986-06-21,Mexico,San Nicolás de los Garza,Quarter-final,West Germany,Mexico,0,0,1,4,1,West Germany,1
+1986,1986-06-22,Mexico,Mexico City,Quarter-final,Argentina,England,2,1,0,0,0,Argentina,0
+1986,1986-06-22,Mexico,Puebla,Quarter-final,Spain,Belgium,1,1,1,4,5,Belgium,1
+1986,1986-06-25,Mexico,Mexico City,Semi-final,Argentina,Belgium,2,0,0,0,0,Argentina,0
+1986,1986-06-25,Mexico,Guadalajara,Semi-final,France,West Germany,0,2,0,0,0,West Germany,0
+1986,1986-06-28,Mexico,Puebla,Third place play-off,Belgium,France,2,4,0,0,0,France,0
+1986,1986-06-29,Mexico,Mexico City,Final,Argentina,West Germany,3,2,0,0,0,Argentina,0

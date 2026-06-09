@@ -1,0 +1,65 @@
+Year,Date,Host_Country,Host_City,Stage,Home_Team,Away_Team,Home_Score,Away_Score,Penalties,Penalties_Home_Score,Penalties_Away_Score,Winner,Draw
+2006,2006-06-09,Germany,Munich,Group Stage,Germany,Costa Rica,4,2,0,0,0,Germany,0
+2006,2006-06-09,Germany,Gelsenkirchen,Group Stage,Poland,Ecuador,0,2,0,0,0,Ecuador,0
+2006,2006-06-10,Germany,Hamburg,Group Stage,Argentina,Ivory Coast,2,1,0,0,0,Argentina,0
+2006,2006-06-10,Germany,Frankfurt,Group Stage,England,Paraguay,1,0,0,0,0,England,0
+2006,2006-06-10,Germany,Dortmund,Group Stage,Trinidad and Tobago,Sweden,0,0,0,0,0,,1
+2006,2006-06-11,Germany,Cologne,Group Stage,Angola,Portugal,0,1,0,0,0,Portugal,0
+2006,2006-06-11,Germany,Nuremberg,Group Stage,Mexico,Iran,3,1,0,0,0,Mexico,0
+2006,2006-06-11,Germany,Leipzig,Group Stage,Serbia and Montenegro,Netherlands,0,1,0,0,0,Netherlands,0
+2006,2006-06-12,Germany,Kaiserslautern,Group Stage,Australia,Japan,3,1,0,0,0,Australia,0
+2006,2006-06-12,Germany,Hanover,Group Stage,Italy,Ghana,2,0,0,0,0,Italy,0
+2006,2006-06-12,Germany,Gelsenkirchen,Group Stage,United States,Czech Republic,0,3,0,0,0,Czech Republic,0
+2006,2006-06-13,Germany,Berlin,Group Stage,Brazil,Croatia,1,0,0,0,0,Brazil,0
+2006,2006-06-13,Germany,Stuttgart,Group Stage,France,Switzerland,0,0,0,0,0,,1
+2006,2006-06-13,Germany,Frankfurt,Group Stage,South Korea,Togo,2,1,0,0,0,South Korea,0
+2006,2006-06-14,Germany,Dortmund,Group Stage,Germany,Poland,1,0,0,0,0,Germany,0
+2006,2006-06-14,Germany,Leipzig,Group Stage,Spain,Ukraine,4,0,0,0,0,Spain,0
+2006,2006-06-14,Germany,Munich,Group Stage,Tunisia,Saudi Arabia,2,2,0,0,0,,1
+2006,2006-06-15,Germany,Hamburg,Group Stage,Ecuador,Costa Rica,3,0,0,0,0,Ecuador,0
+2006,2006-06-15,Germany,Nuremberg,Group Stage,England,Trinidad and Tobago,2,0,0,0,0,England,0
+2006,2006-06-15,Germany,Berlin,Group Stage,Sweden,Paraguay,1,0,0,0,0,Sweden,0
+2006,2006-06-16,Germany,Gelsenkirchen,Group Stage,Argentina,Serbia and Montenegro,6,0,0,0,0,Argentina,0
+2006,2006-06-16,Germany,Hanover,Group Stage,Mexico,Angola,0,0,0,0,0,,1
+2006,2006-06-16,Germany,Stuttgart,Group Stage,Netherlands,Ivory Coast,2,1,0,0,0,Netherlands,0
+2006,2006-06-17,Germany,Cologne,Group Stage,Czech Republic,Ghana,0,2,0,0,0,Ghana,0
+2006,2006-06-17,Germany,Kaiserslautern,Group Stage,Italy,United States,1,1,0,0,0,,1
+2006,2006-06-17,Germany,Frankfurt,Group Stage,Portugal,Iran,2,0,0,0,0,Portugal,0
+2006,2006-06-18,Germany,Munich,Group Stage,Brazil,Australia,2,0,0,0,0,Brazil,0
+2006,2006-06-18,Germany,Leipzig,Group Stage,France,South Korea,1,1,0,0,0,,1
+2006,2006-06-18,Germany,Nuremberg,Group Stage,Japan,Croatia,0,0,0,0,0,,1
+2006,2006-06-19,Germany,Hamburg,Group Stage,Saudi Arabia,Ukraine,0,4,0,0,0,Ukraine,0
+2006,2006-06-19,Germany,Stuttgart,Group Stage,Spain,Tunisia,3,1,0,0,0,Spain,0
+2006,2006-06-19,Germany,Dortmund,Group Stage,Togo,Switzerland,0,2,0,0,0,Switzerland,0
+2006,2006-06-20,Germany,Hanover,Group Stage,Costa Rica,Poland,1,2,0,0,0,Poland,0
+2006,2006-06-20,Germany,Berlin,Group Stage,Ecuador,Germany,0,3,0,0,0,Germany,0
+2006,2006-06-20,Germany,Kaiserslautern,Group Stage,Paraguay,Trinidad and Tobago,2,0,0,0,0,Paraguay,0
+2006,2006-06-20,Germany,Cologne,Group Stage,Sweden,England,2,2,0,0,0,,1
+2006,2006-06-21,Germany,Leipzig,Group Stage,Iran,Angola,1,1,0,0,0,,1
+2006,2006-06-21,Germany,Munich,Group Stage,Ivory Coast,Serbia and Montenegro,3,2,0,0,0,Ivory Coast,0
+2006,2006-06-21,Germany,Frankfurt,Group Stage,Netherlands,Argentina,0,0,0,0,0,,1
+2006,2006-06-21,Germany,Gelsenkirchen,Group Stage,Portugal,Mexico,2,1,0,0,0,Portugal,0
+2006,2006-06-22,Germany,Stuttgart,Group Stage,Croatia,Australia,2,2,0,0,0,,1
+2006,2006-06-22,Germany,Hamburg,Group Stage,Czech Republic,Italy,0,2,0,0,0,Italy,0
+2006,2006-06-22,Germany,Nuremberg,Group Stage,Ghana,United States,2,1,0,0,0,Ghana,0
+2006,2006-06-22,Germany,Dortmund,Group Stage,Japan,Brazil,1,4,0,0,0,Brazil,0
+2006,2006-06-23,Germany,Kaiserslautern,Group Stage,Saudi Arabia,Spain,0,1,0,0,0,Spain,0
+2006,2006-06-23,Germany,Hanover,Group Stage,Switzerland,South Korea,2,0,0,0,0,Switzerland,0
+2006,2006-06-23,Germany,Cologne,Group Stage,Togo,France,0,2,0,0,0,France,0
+2006,2006-06-23,Germany,Berlin,Group Stage,Ukraine,Tunisia,1,0,0,0,0,Ukraine,0
+2006,2006-06-24,Germany,Leipzig,Round of 16,Argentina,Mexico,2,1,0,0,0,Argentina,0
+2006,2006-06-24,Germany,Munich,Round of 16,Germany,Sweden,2,0,0,0,0,Germany,0
+2006,2006-06-25,Germany,Stuttgart,Round of 16,England,Ecuador,1,0,0,0,0,England,0
+2006,2006-06-25,Germany,Nuremberg,Round of 16,Portugal,Netherlands,1,0,0,0,0,Portugal,0
+2006,2006-06-26,Germany,Kaiserslautern,Round of 16,Italy,Australia,1,0,0,0,0,Italy,0
+2006,2006-06-26,Germany,Cologne,Round of 16,Switzerland,Ukraine,0,0,1,0,3,Ukraine,1
+2006,2006-06-27,Germany,Dortmund,Round of 16,Brazil,Ghana,3,0,0,0,0,Brazil,0
+2006,2006-06-27,Germany,Hanover,Round of 16,Spain,France,1,3,0,0,0,France,0
+2006,2006-06-30,Germany,Berlin,Quarter-final,Germany,Argentina,1,1,1,4,2,Germany,1
+2006,2006-06-30,Germany,Hamburg,Quarter-final,Italy,Ukraine,3,0,0,0,0,Italy,0
+2006,2006-07-01,Germany,Frankfurt,Quarter-final,Brazil,France,0,1,0,0,0,France,0
+2006,2006-07-01,Germany,Gelsenkirchen,Quarter-final,England,Portugal,0,0,1,1,3,Portugal,1
+2006,2006-07-04,Germany,Dortmund,Semi-final,Germany,Italy,0,2,0,0,0,Italy,0
+2006,2006-07-05,Germany,Munich,Semi-final,Portugal,France,0,1,0,0,0,France,0
+2006,2006-07-08,Germany,Stuttgart,Third place play-off,Germany,Portugal,3,1,0,0,0,Germany,0
+2006,2006-07-09,Germany,Berlin,Final,Italy,France,1,1,1,5,3,Italy,1

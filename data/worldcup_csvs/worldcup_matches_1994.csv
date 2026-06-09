@@ -1,0 +1,53 @@
+Year,Date,Host_Country,Host_City,Stage,Home_Team,Away_Team,Home_Score,Away_Score,Penalties,Penalties_Home_Score,Penalties_Away_Score,Winner,Draw
+1994,1994-06-17,United States,Chicago,Group Stage,Germany,Bolivia,1,0,0,0,0,Germany,0
+1994,1994-06-17,United States,Dallas,Group Stage,Spain,South Korea,2,2,0,0,0,,1
+1994,1994-06-18,United States,Pasadena,Group Stage,Colombia,Romania,1,3,0,0,0,Romania,0
+1994,1994-06-18,United States,East Rutherford,Group Stage,Italy,Republic of Ireland,0,1,0,0,0,Republic of Ireland,0
+1994,1994-06-18,United States,Pontiac,Group Stage,United States,Switzerland,1,1,0,0,0,,1
+1994,1994-06-19,United States,Orlando,Group Stage,Belgium,Morocco,1,0,0,0,0,Belgium,0
+1994,1994-06-19,United States,Pasadena,Group Stage,Cameroon,Sweden,2,2,0,0,0,,1
+1994,1994-06-19,United States,D.C,Group Stage,Norway,Mexico,1,0,0,0,0,Norway,0
+1994,1994-06-20,United States,Stanford,Group Stage,Brazil,Russia,2,0,0,0,0,Brazil,0
+1994,1994-06-20,United States,D.C,Group Stage,Netherlands,Saudi Arabia,2,1,0,0,0,Netherlands,0
+1994,1994-06-21,United States,Foxborough,Group Stage,Argentina,Greece,4,0,0,0,0,Argentina,0
+1994,1994-06-21,United States,Chicago,Group Stage,Germany,Spain,1,1,0,0,0,,1
+1994,1994-06-21,United States,Dallas,Group Stage,Nigeria,Bulgaria,3,0,0,0,0,Nigeria,0
+1994,1994-06-22,United States,Pontiac,Group Stage,Romania,Switzerland,1,4,0,0,0,Switzerland,0
+1994,1994-06-22,United States,Pasadena,Group Stage,United States,Colombia,2,1,0,0,0,United States,0
+1994,1994-06-23,United States,East Rutherford,Group Stage,Italy,Norway,1,0,0,0,0,Italy,0
+1994,1994-06-23,United States,Foxborough,Group Stage,South Korea,Bolivia,0,0,0,0,0,,1
+1994,1994-06-24,United States,Stanford,Group Stage,Brazil,Cameroon,3,0,0,0,0,Brazil,0
+1994,1994-06-24,United States,Orlando,Group Stage,Mexico,Republic of Ireland,2,1,0,0,0,Mexico,0
+1994,1994-06-24,United States,Pontiac,Group Stage,Sweden,Russia,3,1,0,0,0,Sweden,0
+1994,1994-06-25,United States,Foxborough,Group Stage,Argentina,Nigeria,2,1,0,0,0,Argentina,0
+1994,1994-06-25,United States,Orlando,Group Stage,Belgium,Netherlands,1,0,0,0,0,Belgium,0
+1994,1994-06-25,United States,East Rutherford,Group Stage,Saudi Arabia,Morocco,2,1,0,0,0,Saudi Arabia,0
+1994,1994-06-26,United States,Chicago,Group Stage,Bulgaria,Greece,4,0,0,0,0,Bulgaria,0
+1994,1994-06-26,United States,Stanford,Group Stage,Switzerland,Colombia,0,2,0,0,0,Colombia,0
+1994,1994-06-26,United States,Pasadena,Group Stage,United States,Romania,0,1,0,0,0,Romania,0
+1994,1994-06-27,United States,Chicago,Group Stage,Bolivia,Spain,1,3,0,0,0,Spain,0
+1994,1994-06-27,United States,Dallas,Group Stage,Germany,South Korea,3,2,0,0,0,Germany,0
+1994,1994-06-28,United States,Pontiac,Group Stage,Brazil,Sweden,1,1,0,0,0,,1
+1994,1994-06-28,United States,D.C,Group Stage,Italy,Mexico,1,1,0,0,0,,1
+1994,1994-06-28,United States,East Rutherford,Group Stage,Republic of Ireland,Norway,0,0,0,0,0,,1
+1994,1994-06-28,United States,Stanford,Group Stage,Russia,Cameroon,6,1,0,0,0,Russia,0
+1994,1994-06-29,United States,D.C,Group Stage,Belgium,Saudi Arabia,0,1,0,0,0,Saudi Arabia,0
+1994,1994-06-29,United States,Orlando,Group Stage,Morocco,Netherlands,1,2,0,0,0,Netherlands,0
+1994,1994-06-30,United States,Dallas,Group Stage,Argentina,Bulgaria,0,2,0,0,0,Bulgaria,0
+1994,1994-06-30,United States,Foxborough,Group Stage,Greece,Nigeria,0,2,0,0,0,Nigeria,0
+1994,1994-07-02,United States,Chicago,Round of 16,Germany,Belgium,3,2,0,0,0,Germany,0
+1994,1994-07-02,United States,D.C,Round of 16,Spain,Switzerland,3,0,0,0,0,Spain,0
+1994,1994-07-03,United States,Pasadena,Round of 16,Romania,Argentina,3,2,0,0,0,Romania,0
+1994,1994-07-03,United States,Dallas,Round of 16,Saudi Arabia,Sweden,1,3,0,0,0,Sweden,0
+1994,1994-07-04,United States,Stanford,Round of 16,Brazil,United States,1,0,0,0,0,Brazil,0
+1994,1994-07-04,United States,Orlando,Round of 16,Netherlands,Republic of Ireland,2,0,0,0,0,Netherlands,0
+1994,1994-07-05,United States,East Rutherford,Round of 16,Mexico,Bulgaria,1,1,1,1,3,Bulgaria,1
+1994,1994-07-05,United States,Foxborough,Round of 16,Nigeria,Italy,1,2,0,0,0,Italy,0
+1994,1994-07-09,United States,Foxborough,Quarter-final,Italy,Spain,2,1,0,0,0,Italy,0
+1994,1994-07-09,United States,Dallas,Quarter-final,Netherlands,Brazil,2,3,0,0,0,Brazil,0
+1994,1994-07-10,United States,East Rutherford,Quarter-final,Bulgaria,Germany,2,1,0,0,0,Bulgaria,0
+1994,1994-07-10,United States,Stanford,Quarter-final,Romania,Sweden,2,2,1,4,5,Sweden,1
+1994,1994-07-13,United States,East Rutherford,Semi-final,Bulgaria,Italy,1,2,0,0,0,Italy,0
+1994,1994-07-13,United States,Pasadena,Semi-final,Sweden,Brazil,0,1,0,0,0,Brazil,0
+1994,1994-07-16,United States,Pasadena,Third place play-off,Sweden,Bulgaria,4,0,0,0,0,Sweden,0
+1994,1994-07-17,United States,Pasadena,Final,Brazil,Italy,0,0,1,3,2,Brazil,1

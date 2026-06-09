@@ -1,0 +1,65 @@
+Year,Date,Host_Country,Host_City,Stage,Home_Team,Away_Team,Home_Score,Away_Score,Penalties,Penalties_Home_Score,Penalties_Away_Score,Winner,Draw
+2010,2010-06-11,South Africa,Johannesburg,Group Stage,South Africa,Mexico,1,1,0,0,0,,1
+2010,2010-06-11,South Africa,Cape Town,Group Stage,Uruguay,France,0,0,0,0,0,,1
+2010,2010-06-12,South Africa,Johannesburg,Group Stage,Argentina,Nigeria,1,0,0,0,0,Argentina,0
+2010,2010-06-12,South Africa,Rustenburg,Group Stage,England,United States,1,1,0,0,0,,1
+2010,2010-06-12,South Africa,Port Elizabeth,Group Stage,South Korea,Greece,2,0,0,0,0,South Korea,0
+2010,2010-06-13,South Africa,Polokwane,Group Stage,Algeria,Slovenia,0,1,0,0,0,Slovenia,0
+2010,2010-06-13,South Africa,Durban,Group Stage,Germany,Australia,4,0,0,0,0,Germany,0
+2010,2010-06-13,South Africa,Pretoria,Group Stage,Serbia,Ghana,0,1,0,0,0,Ghana,0
+2010,2010-06-14,South Africa,Cape Town,Group Stage,Italy,Paraguay,1,1,0,0,0,,1
+2010,2010-06-14,South Africa,Bloemfontein,Group Stage,Japan,Cameroon,1,0,0,0,0,Japan,0
+2010,2010-06-14,South Africa,Johannesburg,Group Stage,Netherlands,Denmark,2,0,0,0,0,Netherlands,0
+2010,2010-06-15,South Africa,Johannesburg,Group Stage,Brazil,North Korea,2,1,0,0,0,Brazil,0
+2010,2010-06-15,South Africa,Port Elizabeth,Group Stage,Ivory Coast,Portugal,0,0,0,0,0,,1
+2010,2010-06-15,South Africa,Rustenburg,Group Stage,New Zealand,Slovakia,1,1,0,0,0,,1
+2010,2010-06-16,South Africa,Nelspruit,Group Stage,Honduras,Chile,0,1,0,0,0,Chile,0
+2010,2010-06-16,South Africa,Pretoria,Group Stage,South Africa,Uruguay,0,3,0,0,0,Uruguay,0
+2010,2010-06-16,South Africa,Durban,Group Stage,Spain,Switzerland,0,1,0,0,0,Switzerland,0
+2010,2010-06-17,South Africa,Johannesburg,Group Stage,Argentina,South Korea,4,1,0,0,0,Argentina,0
+2010,2010-06-17,South Africa,Polokwane,Group Stage,France,Mexico,0,2,0,0,0,Mexico,0
+2010,2010-06-17,South Africa,Bloemfontein,Group Stage,Greece,Nigeria,2,1,0,0,0,Greece,0
+2010,2010-06-18,South Africa,Cape Town,Group Stage,England,Algeria,0,0,0,0,0,,1
+2010,2010-06-18,South Africa,Port Elizabeth,Group Stage,Germany,Serbia,0,1,0,0,0,Serbia,0
+2010,2010-06-18,South Africa,Johannesburg,Group Stage,Slovenia,United States,2,2,0,0,0,,1
+2010,2010-06-19,South Africa,Pretoria,Group Stage,Cameroon,Denmark,1,2,0,0,0,Denmark,0
+2010,2010-06-19,South Africa,Rustenburg,Group Stage,Ghana,Australia,1,1,0,0,0,,1
+2010,2010-06-19,South Africa,Durban,Group Stage,Netherlands,Japan,1,0,0,0,0,Netherlands,0
+2010,2010-06-20,South Africa,Johannesburg,Group Stage,Brazil,Ivory Coast,3,1,0,0,0,Brazil,0
+2010,2010-06-20,South Africa,Nelspruit,Group Stage,Italy,New Zealand,1,1,0,0,0,,1
+2010,2010-06-20,South Africa,Bloemfontein,Group Stage,Slovakia,Paraguay,0,2,0,0,0,Paraguay,0
+2010,2010-06-21,South Africa,Port Elizabeth,Group Stage,Chile,Switzerland,1,0,0,0,0,Chile,0
+2010,2010-06-21,South Africa,Cape Town,Group Stage,Portugal,North Korea,7,0,0,0,0,Portugal,0
+2010,2010-06-21,South Africa,Johannesburg,Group Stage,Spain,Honduras,2,0,0,0,0,Spain,0
+2010,2010-06-22,South Africa,Bloemfontein,Group Stage,France,South Africa,1,2,0,0,0,South Africa,0
+2010,2010-06-22,South Africa,Polokwane,Group Stage,Greece,Argentina,0,2,0,0,0,Argentina,0
+2010,2010-06-22,South Africa,Rustenburg,Group Stage,Mexico,Uruguay,0,1,0,0,0,Uruguay,0
+2010,2010-06-22,South Africa,Durban,Group Stage,Nigeria,South Korea,2,2,0,0,0,,1
+2010,2010-06-23,South Africa,Nelspruit,Group Stage,Australia,Serbia,2,1,0,0,0,Australia,0
+2010,2010-06-23,South Africa,Johannesburg,Group Stage,Ghana,Germany,0,1,0,0,0,Germany,0
+2010,2010-06-23,South Africa,Port Elizabeth,Group Stage,Slovenia,England,0,1,0,0,0,England,0
+2010,2010-06-23,South Africa,Pretoria,Group Stage,United States,Algeria,1,0,0,0,0,United States,0
+2010,2010-06-24,South Africa,Cape Town,Group Stage,Cameroon,Netherlands,1,2,0,0,0,Netherlands,0
+2010,2010-06-24,South Africa,Rustenburg,Group Stage,Denmark,Japan,1,3,0,0,0,Japan,0
+2010,2010-06-24,South Africa,Polokwane,Group Stage,Paraguay,New Zealand,0,0,0,0,0,,1
+2010,2010-06-24,South Africa,Johannesburg,Group Stage,Slovakia,Italy,3,2,0,0,0,Slovakia,0
+2010,2010-06-25,South Africa,Pretoria,Group Stage,Chile,Spain,1,2,0,0,0,Spain,0
+2010,2010-06-25,South Africa,Nelspruit,Group Stage,North Korea,Ivory Coast,0,3,0,0,0,Ivory Coast,0
+2010,2010-06-25,South Africa,Durban,Group Stage,Portugal,Brazil,0,0,0,0,0,,1
+2010,2010-06-25,South Africa,Bloemfontein,Group Stage,Switzerland,Honduras,0,0,0,0,0,,1
+2010,2010-06-26,South Africa,Rustenburg,Round of 16,United States,Ghana,1,2,0,0,0,Ghana,0
+2010,2010-06-26,South Africa,Port Elizabeth,Round of 16,Uruguay,South Korea,2,1,0,0,0,Uruguay,0
+2010,2010-06-27,South Africa,Johannesburg,Round of 16,Argentina,Mexico,3,1,0,0,0,Argentina,0
+2010,2010-06-27,South Africa,Bloemfontein,Round of 16,Germany,England,4,1,0,0,0,Germany,0
+2010,2010-06-28,South Africa,Johannesburg,Round of 16,Brazil,Chile,3,0,0,0,0,Brazil,0
+2010,2010-06-28,South Africa,Durban,Round of 16,Netherlands,Slovakia,2,1,0,0,0,Netherlands,0
+2010,2010-06-29,South Africa,Pretoria,Round of 16,Paraguay,Japan,0,0,1,5,3,Paraguay,1
+2010,2010-06-29,South Africa,Cape Town,Round of 16,Spain,Portugal,1,0,0,0,0,Spain,0
+2010,2010-07-02,South Africa,Port Elizabeth,Quarter-final,Netherlands,Brazil,2,1,0,0,0,Netherlands,0
+2010,2010-07-02,South Africa,Johannesburg,Quarter-final,Uruguay,Ghana,1,1,1,4,2,Uruguay,1
+2010,2010-07-03,South Africa,Cape Town,Quarter-final,Argentina,Germany,0,4,0,0,0,Germany,0
+2010,2010-07-03,South Africa,Johannesburg,Quarter-final,Paraguay,Spain,0,1,0,0,0,Spain,0
+2010,2010-07-06,South Africa,Cape Town,Semi-final,Uruguay,Netherlands,2,3,0,0,0,Netherlands,0
+2010,2010-07-07,South Africa,Durban,Semi-final,Germany,Spain,0,1,0,0,0,Spain,0
+2010,2010-07-10,South Africa,Port Elizabeth,Third place play-off,Uruguay,Germany,2,3,0,0,0,Germany,0
+2010,2010-07-11,South Africa,Johannesburg,Final,Netherlands,Spain,0,1,0,0,0,Spain,0

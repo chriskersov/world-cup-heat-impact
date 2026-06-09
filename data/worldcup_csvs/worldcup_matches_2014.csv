@@ -1,0 +1,65 @@
+Year,Date,Host_Country,Host_City,Stage,Home_Team,Away_Team,Home_Score,Away_Score,Penalties,Penalties_Home_Score,Penalties_Away_Score,Winner,Draw
+2014,2014-06-12,Brazil,São Paulo,Group Stage,Brazil,Croatia,3,1,0,0,0,Brazil,0
+2014,2014-06-13,Brazil,Cuiabá,Group Stage,Chile,Australia,3,1,0,0,0,Chile,0
+2014,2014-06-13,Brazil,Natal,Group Stage,Mexico,Cameroon,1,0,0,0,0,Mexico,0
+2014,2014-06-13,Brazil,Salvador,Group Stage,Spain,Netherlands,1,5,0,0,0,Netherlands,0
+2014,2014-06-14,Brazil,Belo Horizonte,Group Stage,Colombia,Greece,3,0,0,0,0,Colombia,0
+2014,2014-06-14,Brazil,Manaus,Group Stage,England,Italy,1,2,0,0,0,Italy,0
+2014,2014-06-14,Brazil,Recife,Group Stage,Ivory Coast,Japan,2,1,0,0,0,Ivory Coast,0
+2014,2014-06-14,Brazil,Fortaleza,Group Stage,Uruguay,Costa Rica,1,3,0,0,0,Costa Rica,0
+2014,2014-06-15,Brazil,Rio de Janeiro,Group Stage,Argentina,Bosnia and Herzegovina,2,1,0,0,0,Argentina,0
+2014,2014-06-15,Brazil,Porto Alegre,Group Stage,France,Honduras,3,0,0,0,0,France,0
+2014,2014-06-15,Brazil,Brasília,Group Stage,Switzerland,Ecuador,2,1,0,0,0,Switzerland,0
+2014,2014-06-16,Brazil,Salvador,Group Stage,Germany,Portugal,4,0,0,0,0,Germany,0
+2014,2014-06-16,Brazil,Natal,Group Stage,Ghana,United States,1,2,0,0,0,United States,0
+2014,2014-06-16,Brazil,Curitiba,Group Stage,Iran,Nigeria,0,0,0,0,0,,1
+2014,2014-06-17,Brazil,Belo Horizonte,Group Stage,Belgium,Algeria,2,1,0,0,0,Belgium,0
+2014,2014-06-17,Brazil,Fortaleza,Group Stage,Brazil,Mexico,0,0,0,0,0,,1
+2014,2014-06-17,Brazil,Cuiabá,Group Stage,Russia,South Korea,1,1,0,0,0,,1
+2014,2014-06-18,Brazil,Porto Alegre,Group Stage,Australia,Netherlands,2,3,0,0,0,Netherlands,0
+2014,2014-06-18,Brazil,Manaus,Group Stage,Cameroon,Croatia,0,4,0,0,0,Croatia,0
+2014,2014-06-18,Brazil,Rio de Janeiro,Group Stage,Spain,Chile,0,2,0,0,0,Chile,0
+2014,2014-06-19,Brazil,Brasília,Group Stage,Colombia,Ivory Coast,2,1,0,0,0,Colombia,0
+2014,2014-06-19,Brazil,Natal,Group Stage,Japan,Greece,0,0,0,0,0,,1
+2014,2014-06-19,Brazil,São Paulo,Group Stage,Uruguay,England,2,1,0,0,0,Uruguay,0
+2014,2014-06-20,Brazil,Curitiba,Group Stage,Honduras,Ecuador,1,2,0,0,0,Ecuador,0
+2014,2014-06-20,Brazil,Recife,Group Stage,Italy,Costa Rica,0,1,0,0,0,Costa Rica,0
+2014,2014-06-20,Brazil,Salvador,Group Stage,Switzerland,France,2,5,0,0,0,France,0
+2014,2014-06-21,Brazil,Belo Horizonte,Group Stage,Argentina,Iran,1,0,0,0,0,Argentina,0
+2014,2014-06-21,Brazil,Fortaleza,Group Stage,Germany,Ghana,2,2,0,0,0,,1
+2014,2014-06-21,Brazil,Cuiabá,Group Stage,Nigeria,Bosnia and Herzegovina,1,0,0,0,0,Nigeria,0
+2014,2014-06-22,Brazil,Rio de Janeiro,Group Stage,Belgium,Russia,1,0,0,0,0,Belgium,0
+2014,2014-06-22,Brazil,Porto Alegre,Group Stage,South Korea,Algeria,2,4,0,0,0,Algeria,0
+2014,2014-06-22,Brazil,Manaus,Group Stage,United States,Portugal,2,2,0,0,0,,1
+2014,2014-06-23,Brazil,Curitiba,Group Stage,Australia,Spain,0,3,0,0,0,Spain,0
+2014,2014-06-23,Brazil,Brasília,Group Stage,Cameroon,Brazil,1,4,0,0,0,Brazil,0
+2014,2014-06-23,Brazil,Recife,Group Stage,Croatia,Mexico,1,3,0,0,0,Mexico,0
+2014,2014-06-23,Brazil,São Paulo,Group Stage,Netherlands,Chile,2,0,0,0,0,Netherlands,0
+2014,2014-06-24,Brazil,Belo Horizonte,Group Stage,Costa Rica,England,0,0,0,0,0,,1
+2014,2014-06-24,Brazil,Fortaleza,Group Stage,Greece,Ivory Coast,2,1,0,0,0,Greece,0
+2014,2014-06-24,Brazil,Natal,Group Stage,Italy,Uruguay,0,1,0,0,0,Uruguay,0
+2014,2014-06-24,Brazil,Cuiabá,Group Stage,Japan,Colombia,1,4,0,0,0,Colombia,0
+2014,2014-06-25,Brazil,Salvador,Group Stage,Bosnia and Herzegovina,Iran,3,1,0,0,0,Bosnia and Herzegovina,0
+2014,2014-06-25,Brazil,Rio de Janeiro,Group Stage,Ecuador,France,0,0,0,0,0,,1
+2014,2014-06-25,Brazil,Manaus,Group Stage,Honduras,Switzerland,0,3,0,0,0,Switzerland,0
+2014,2014-06-25,Brazil,Porto Alegre,Group Stage,Nigeria,Argentina,2,3,0,0,0,Argentina,0
+2014,2014-06-26,Brazil,Curitiba,Group Stage,Algeria,Russia,1,1,0,0,0,,1
+2014,2014-06-26,Brazil,Brasília,Group Stage,Portugal,Ghana,2,1,0,0,0,Portugal,0
+2014,2014-06-26,Brazil,São Paulo,Group Stage,South Korea,Belgium,0,1,0,0,0,Belgium,0
+2014,2014-06-26,Brazil,Recife,Group Stage,United States,Germany,0,1,0,0,0,Germany,0
+2014,2014-06-28,Brazil,Belo Horizonte,Round of 16,Brazil,Chile,1,1,1,3,2,Brazil,1
+2014,2014-06-28,Brazil,Rio de Janeiro,Round of 16,Colombia,Uruguay,2,0,0,0,0,Colombia,0
+2014,2014-06-29,Brazil,Recife,Round of 16,Costa Rica,Greece,1,1,1,5,3,Costa Rica,1
+2014,2014-06-29,Brazil,Fortaleza,Round of 16,Netherlands,Mexico,2,1,0,0,0,Netherlands,0
+2014,2014-06-30,Brazil,Brasília,Round of 16,France,Nigeria,2,0,0,0,0,France,0
+2014,2014-06-30,Brazil,Porto Alegre,Round of 16,Germany,Algeria,2,1,0,0,0,Germany,0
+2014,2014-07-01,Brazil,São Paulo,Round of 16,Argentina,Switzerland,1,0,0,0,0,Argentina,0
+2014,2014-07-01,Brazil,Salvador,Round of 16,Belgium,United States,2,1,0,0,0,Belgium,0
+2014,2014-07-04,Brazil,Fortaleza,Quarter-final,Brazil,Colombia,2,1,0,0,0,Brazil,0
+2014,2014-07-04,Brazil,Rio de Janeiro,Quarter-final,France,Germany,0,1,0,0,0,Germany,0
+2014,2014-07-05,Brazil,Brasília,Quarter-final,Argentina,Belgium,1,0,0,0,0,Argentina,0
+2014,2014-07-05,Brazil,Salvador,Quarter-final,Netherlands,Costa Rica,0,0,1,4,3,Netherlands,1
+2014,2014-07-08,Brazil,Belo Horizonte,Semi-final,Brazil,Germany,1,7,0,0,0,Germany,0
+2014,2014-07-09,Brazil,São Paulo,Semi-final,Netherlands,Argentina,0,0,1,2,4,Argentina,1
+2014,2014-07-12,Brazil,Brasília,Third place play-off,Brazil,Netherlands,0,3,0,0,0,Netherlands,0
+2014,2014-07-13,Brazil,Rio de Janeiro,Final,Germany,Argentina,1,0,0,0,0,Germany,0

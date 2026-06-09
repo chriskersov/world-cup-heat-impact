@@ -1,0 +1,33 @@
+Year,Date,Host_Country,Host_City,Stage,Home_Team,Away_Team,Home_Score,Away_Score,Penalties,Penalties_Home_Score,Penalties_Away_Score,Winner,Draw
+1966,1966-07-11,England,London,Group Stage,England,Uruguay,0,0,0,0,0,,1
+1966,1966-07-12,England,Liverpool,Group Stage,Brazil,Bulgaria,2,0,0,0,0,Brazil,0
+1966,1966-07-12,England,Middlesbrough,Group Stage,Soviet Union,North Korea,3,0,0,0,0,Soviet Union,0
+1966,1966-07-12,England,Sheffield,Group Stage,West Germany,Switzerland,5,0,0,0,0,West Germany,0
+1966,1966-07-13,England,Birmingham,Group Stage,Argentina,Spain,2,1,0,0,0,Argentina,0
+1966,1966-07-13,England,London,Group Stage,France,Mexico,1,1,0,0,0,,1
+1966,1966-07-13,England,Sunderland,Group Stage,Italy,Chile,2,0,0,0,0,Italy,0
+1966,1966-07-13,England,Manchester,Group Stage,Portugal,Hungary,3,1,0,0,0,Portugal,0
+1966,1966-07-15,England,Middlesbrough,Group Stage,Chile,North Korea,1,1,0,0,0,,1
+1966,1966-07-15,England,Liverpool,Group Stage,Hungary,Brazil,3,1,0,0,0,Hungary,0
+1966,1966-07-15,England,Sheffield,Group Stage,Spain,Switzerland,2,1,0,0,0,Spain,0
+1966,1966-07-15,England,London,Group Stage,Uruguay,France,2,1,0,0,0,Uruguay,0
+1966,1966-07-16,England,Birmingham,Group Stage,Argentina,West Germany,0,0,0,0,0,,1
+1966,1966-07-16,England,London,Group Stage,England,Mexico,2,0,0,0,0,England,0
+1966,1966-07-16,England,Manchester,Group Stage,Portugal,Bulgaria,3,0,0,0,0,Portugal,0
+1966,1966-07-16,England,Sunderland,Group Stage,Soviet Union,Italy,1,0,0,0,0,Soviet Union,0
+1966,1966-07-19,England,Sheffield,Group Stage,Argentina,Switzerland,2,0,0,0,0,Argentina,0
+1966,1966-07-19,England,London,Group Stage,Mexico,Uruguay,0,0,0,0,0,,1
+1966,1966-07-19,England,Middlesbrough,Group Stage,North Korea,Italy,1,0,0,0,0,North Korea,0
+1966,1966-07-19,England,Liverpool,Group Stage,Portugal,Brazil,3,1,0,0,0,Portugal,0
+1966,1966-07-20,England,London,Group Stage,England,France,2,0,0,0,0,England,0
+1966,1966-07-20,England,Manchester,Group Stage,Hungary,Bulgaria,3,1,0,0,0,Hungary,0
+1966,1966-07-20,England,Sunderland,Group Stage,Soviet Union,Chile,2,1,0,0,0,Soviet Union,0
+1966,1966-07-20,England,Birmingham,Group Stage,West Germany,Spain,2,1,0,0,0,West Germany,0
+1966,1966-07-23,England,London,Quarter-final,England,Argentina,1,0,0,0,0,England,0
+1966,1966-07-23,England,Liverpool,Quarter-final,Portugal,North Korea,5,3,0,0,0,Portugal,0
+1966,1966-07-23,England,Sunderland,Quarter-final,Soviet Union,Hungary,2,1,0,0,0,Soviet Union,0
+1966,1966-07-23,England,Sheffield,Quarter-final,West Germany,Uruguay,4,0,0,0,0,West Germany,0
+1966,1966-07-25,England,Liverpool,Semi-final,West Germany,Soviet Union,2,1,0,0,0,West Germany,0
+1966,1966-07-26,England,London,Semi-final,England,Portugal,2,1,0,0,0,England,0
+1966,1966-07-28,England,London,Third place play-off,Portugal,Soviet Union,2,1,0,0,0,Portugal,0
+1966,1966-07-30,England,London,Final,England,West Germany,4,2,0,0,0,England,0

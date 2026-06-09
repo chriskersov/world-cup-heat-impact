@@ -1,0 +1,65 @@
+Year,Date,Host_Country,Host_City,Stage,Home_Team,Away_Team,Home_Score,Away_Score,Penalties,Penalties_Home_Score,Penalties_Away_Score,Winner,Draw
+2018,2018-06-14,Russia,Moscow,Group Stage,Russia,Saudi Arabia,5,0,0,0,0,Russia,0
+2018,2018-06-15,Russia,Yekaterinburg,Group Stage,Egypt,Uruguay,0,1,0,0,0,Uruguay,0
+2018,2018-06-15,Russia,Saint Petersburg,Group Stage,Morocco,Iran,0,1,0,0,0,Iran,0
+2018,2018-06-15,Russia,Sochi,Group Stage,Portugal,Spain,3,3,0,0,0,,1
+2018,2018-06-16,Russia,Moscow,Group Stage,Argentina,Iceland,1,1,0,0,0,,1
+2018,2018-06-16,Russia,Kaliningrad,Group Stage,Croatia,Nigeria,2,0,0,0,0,Croatia,0
+2018,2018-06-16,Russia,Kazan,Group Stage,France,Australia,2,1,0,0,0,France,0
+2018,2018-06-16,Russia,Saransk,Group Stage,Peru,Denmark,0,1,0,0,0,Denmark,0
+2018,2018-06-17,Russia,Rostov-on-Don,Group Stage,Brazil,Switzerland,1,1,0,0,0,,1
+2018,2018-06-17,Russia,Samara,Group Stage,Costa Rica,Serbia,0,1,0,0,0,Serbia,0
+2018,2018-06-17,Russia,Moscow,Group Stage,Germany,Mexico,0,1,0,0,0,Mexico,0
+2018,2018-06-18,Russia,Sochi,Group Stage,Belgium,Panama,3,0,0,0,0,Belgium,0
+2018,2018-06-18,Russia,Nizhny Novgorod,Group Stage,Sweden,South Korea,1,0,0,0,0,Sweden,0
+2018,2018-06-18,Russia,Volgograd,Group Stage,Tunisia,England,1,2,0,0,0,England,0
+2018,2018-06-19,Russia,Saransk,Group Stage,Colombia,Japan,1,2,0,0,0,Japan,0
+2018,2018-06-19,Russia,Moscow,Group Stage,Poland,Senegal,1,2,0,0,0,Senegal,0
+2018,2018-06-19,Russia,Saint Petersburg,Group Stage,Russia,Egypt,3,1,0,0,0,Russia,0
+2018,2018-06-20,Russia,Kazan,Group Stage,Iran,Spain,0,1,0,0,0,Spain,0
+2018,2018-06-20,Russia,Moscow,Group Stage,Portugal,Morocco,1,0,0,0,0,Portugal,0
+2018,2018-06-20,Russia,Rostov-on-Don,Group Stage,Uruguay,Saudi Arabia,1,0,0,0,0,Uruguay,0
+2018,2018-06-21,Russia,Nizhny Novgorod,Group Stage,Argentina,Croatia,0,3,0,0,0,Croatia,0
+2018,2018-06-21,Russia,Samara,Group Stage,Denmark,Australia,1,1,0,0,0,,1
+2018,2018-06-21,Russia,Yekaterinburg,Group Stage,France,Peru,1,0,0,0,0,France,0
+2018,2018-06-22,Russia,Saint Petersburg,Group Stage,Brazil,Costa Rica,2,0,0,0,0,Brazil,0
+2018,2018-06-22,Russia,Volgograd,Group Stage,Nigeria,Iceland,2,0,0,0,0,Nigeria,0
+2018,2018-06-22,Russia,Kaliningrad,Group Stage,Serbia,Switzerland,1,2,0,0,0,Switzerland,0
+2018,2018-06-23,Russia,Moscow,Group Stage,Belgium,Tunisia,5,2,0,0,0,Belgium,0
+2018,2018-06-23,Russia,Sochi,Group Stage,Germany,Sweden,2,1,0,0,0,Germany,0
+2018,2018-06-23,Russia,Rostov-on-Don,Group Stage,South Korea,Mexico,1,2,0,0,0,Mexico,0
+2018,2018-06-24,Russia,Nizhny Novgorod,Group Stage,England,Panama,6,1,0,0,0,England,0
+2018,2018-06-24,Russia,Yekaterinburg,Group Stage,Japan,Senegal,2,2,0,0,0,,1
+2018,2018-06-24,Russia,Kazan,Group Stage,Poland,Colombia,0,3,0,0,0,Colombia,0
+2018,2018-06-25,Russia,Saransk,Group Stage,Iran,Portugal,1,1,0,0,0,,1
+2018,2018-06-25,Russia,Volgograd,Group Stage,Saudi Arabia,Egypt,2,1,0,0,0,Saudi Arabia,0
+2018,2018-06-25,Russia,Kaliningrad,Group Stage,Spain,Morocco,2,2,0,0,0,,1
+2018,2018-06-25,Russia,Samara,Group Stage,Uruguay,Russia,3,0,0,0,0,Uruguay,0
+2018,2018-06-26,Russia,Sochi,Group Stage,Australia,Peru,0,2,0,0,0,Peru,0
+2018,2018-06-26,Russia,Moscow,Group Stage,Denmark,France,0,0,0,0,0,,1
+2018,2018-06-26,Russia,Rostov-on-Don,Group Stage,Iceland,Croatia,1,2,0,0,0,Croatia,0
+2018,2018-06-26,Russia,Saint Petersburg,Group Stage,Nigeria,Argentina,1,2,0,0,0,Argentina,0
+2018,2018-06-27,Russia,Yekaterinburg,Group Stage,Mexico,Sweden,0,3,0,0,0,Sweden,0
+2018,2018-06-27,Russia,Moscow,Group Stage,Serbia,Brazil,0,2,0,0,0,Brazil,0
+2018,2018-06-27,Russia,Kazan,Group Stage,South Korea,Germany,2,0,0,0,0,South Korea,0
+2018,2018-06-27,Russia,Nizhny Novgorod,Group Stage,Switzerland,Costa Rica,2,2,0,0,0,,1
+2018,2018-06-28,Russia,Kaliningrad,Group Stage,England,Belgium,0,1,0,0,0,Belgium,0
+2018,2018-06-28,Russia,Volgograd,Group Stage,Japan,Poland,0,1,0,0,0,Poland,0
+2018,2018-06-28,Russia,Saransk,Group Stage,Panama,Tunisia,1,2,0,0,0,Tunisia,0
+2018,2018-06-28,Russia,Samara,Group Stage,Senegal,Colombia,0,1,0,0,0,Colombia,0
+2018,2018-06-30,Russia,Kazan,Round of 16,France,Argentina,4,3,0,0,0,France,0
+2018,2018-06-30,Russia,Sochi,Round of 16,Uruguay,Portugal,2,1,0,0,0,Uruguay,0
+2018,2018-07-01,Russia,Nizhny Novgorod,Round of 16,Croatia,Denmark,1,1,1,3,2,Croatia,1
+2018,2018-07-01,Russia,Moscow,Round of 16,Spain,Russia,1,1,1,3,4,Russia,1
+2018,2018-07-02,Russia,Rostov-on-Don,Round of 16,Belgium,Japan,3,2,0,0,0,Belgium,0
+2018,2018-07-02,Russia,Samara,Round of 16,Brazil,Mexico,2,0,0,0,0,Brazil,0
+2018,2018-07-03,Russia,Moscow,Round of 16,Colombia,England,1,1,1,3,4,England,1
+2018,2018-07-03,Russia,Saint Petersburg,Round of 16,Sweden,Switzerland,1,0,0,0,0,Sweden,0
+2018,2018-07-06,Russia,Kazan,Quarter-final,Brazil,Belgium,1,2,0,0,0,Belgium,0
+2018,2018-07-06,Russia,Nizhny Novgorod,Quarter-final,Uruguay,France,0,2,0,0,0,France,0
+2018,2018-07-07,Russia,Sochi,Quarter-final,Russia,Croatia,2,2,1,3,4,Croatia,1
+2018,2018-07-07,Russia,Samara,Quarter-final,Sweden,England,0,2,0,0,0,England,0
+2018,2018-07-10,Russia,Saint Petersburg,Semi-final,France,Belgium,1,0,0,0,0,France,0
+2018,2018-07-11,Russia,Moscow,Semi-final,Croatia,England,2,1,0,0,0,Croatia,0
+2018,2018-07-14,Russia,Saint Petersburg,Third place play-off,Belgium,England,2,0,0,0,0,Belgium,0
+2018,2018-07-15,Russia,Moscow,Final,France,Croatia,4,2,0,0,0,France,0

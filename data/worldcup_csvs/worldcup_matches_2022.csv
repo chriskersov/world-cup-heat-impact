@@ -1,0 +1,65 @@
+Year,Date,Host_Country,Host_City,Stage,Home_Team,Away_Team,Home_Score,Away_Score,Penalties,Penalties_Home_Score,Penalties_Away_Score,Winner,Draw
+2022,2022-11-20,Qatar,Al Khor,Group Stage,Qatar,Ecuador,0,2,0,0,0,Ecuador,0
+2022,2022-11-21,Qatar,Al Rayyan,Group Stage,England,Iran,6,2,0,0,0,England,0
+2022,2022-11-21,Qatar,Doha,Group Stage,Senegal,Netherlands,0,2,0,0,0,Netherlands,0
+2022,2022-11-21,Qatar,Al Rayyan,Group Stage,United States,Wales,1,1,0,0,0,,1
+2022,2022-11-22,Qatar,Lusail,Group Stage,Argentina,Saudi Arabia,1,2,0,0,0,Saudi Arabia,0
+2022,2022-11-22,Qatar,Al Rayyan,Group Stage,Denmark,Tunisia,0,0,0,0,0,,1
+2022,2022-11-22,Qatar,Al Wakrah,Group Stage,France,Australia,4,1,0,0,0,France,0
+2022,2022-11-22,Qatar,Doha,Group Stage,Mexico,Poland,0,0,0,0,0,,1
+2022,2022-11-23,Qatar,Al Rayyan,Group Stage,Belgium,Canada,1,0,0,0,0,Belgium,0
+2022,2022-11-23,Qatar,Al Rayyan,Group Stage,Germany,Japan,1,2,0,0,0,Japan,0
+2022,2022-11-23,Qatar,Al Khor,Group Stage,Morocco,Croatia,0,0,0,0,0,,1
+2022,2022-11-23,Qatar,Doha,Group Stage,Spain,Costa Rica,7,0,0,0,0,Spain,0
+2022,2022-11-24,Qatar,Lusail,Group Stage,Brazil,Serbia,2,0,0,0,0,Brazil,0
+2022,2022-11-24,Qatar,Doha,Group Stage,Portugal,Ghana,3,2,0,0,0,Portugal,0
+2022,2022-11-24,Qatar,Al Wakrah,Group Stage,Switzerland,Cameroon,1,0,0,0,0,Switzerland,0
+2022,2022-11-24,Qatar,Al Rayyan,Group Stage,Uruguay,South Korea,0,0,0,0,0,,1
+2022,2022-11-25,Qatar,Al Khor,Group Stage,England,United States,0,0,0,0,0,,1
+2022,2022-11-25,Qatar,Al Rayyan,Group Stage,Netherlands,Ecuador,1,1,0,0,0,,1
+2022,2022-11-25,Qatar,Doha,Group Stage,Qatar,Senegal,1,3,0,0,0,Senegal,0
+2022,2022-11-25,Qatar,Al Rayyan,Group Stage,Wales,Iran,0,2,0,0,0,Iran,0
+2022,2022-11-26,Qatar,Lusail,Group Stage,Argentina,Mexico,2,0,0,0,0,Argentina,0
+2022,2022-11-26,Qatar,Doha,Group Stage,France,Denmark,2,1,0,0,0,France,0
+2022,2022-11-26,Qatar,Al Rayyan,Group Stage,Poland,Saudi Arabia,2,0,0,0,0,Poland,0
+2022,2022-11-26,Qatar,Al Wakrah,Group Stage,Tunisia,Australia,0,1,0,0,0,Australia,0
+2022,2022-11-27,Qatar,Doha,Group Stage,Belgium,Morocco,0,2,0,0,0,Morocco,0
+2022,2022-11-27,Qatar,Al Rayyan,Group Stage,Croatia,Canada,4,1,0,0,0,Croatia,0
+2022,2022-11-27,Qatar,Al Rayyan,Group Stage,Japan,Costa Rica,0,1,0,0,0,Costa Rica,0
+2022,2022-11-27,Qatar,Al Khor,Group Stage,Spain,Germany,1,1,0,0,0,,1
+2022,2022-11-28,Qatar,Doha,Group Stage,Brazil,Switzerland,1,0,0,0,0,Brazil,0
+2022,2022-11-28,Qatar,Al Wakrah,Group Stage,Cameroon,Serbia,3,3,0,0,0,,1
+2022,2022-11-28,Qatar,Lusail,Group Stage,Portugal,Uruguay,2,0,0,0,0,Portugal,0
+2022,2022-11-28,Qatar,Al Rayyan,Group Stage,South Korea,Ghana,2,3,0,0,0,Ghana,0
+2022,2022-11-29,Qatar,Al Rayyan,Group Stage,Ecuador,Senegal,1,2,0,0,0,Senegal,0
+2022,2022-11-29,Qatar,Doha,Group Stage,Iran,United States,0,1,0,0,0,United States,0
+2022,2022-11-29,Qatar,Al Khor,Group Stage,Netherlands,Qatar,2,0,0,0,0,Netherlands,0
+2022,2022-11-29,Qatar,Al Rayyan,Group Stage,Wales,England,0,3,0,0,0,England,0
+2022,2022-11-30,Qatar,Al Wakrah,Group Stage,Australia,Denmark,1,0,0,0,0,Australia,0
+2022,2022-11-30,Qatar,Doha,Group Stage,Poland,Argentina,0,2,0,0,0,Argentina,0
+2022,2022-11-30,Qatar,Lusail,Group Stage,Saudi Arabia,Mexico,1,2,0,0,0,Mexico,0
+2022,2022-11-30,Qatar,Al Rayyan,Group Stage,Tunisia,France,1,0,0,0,0,Tunisia,0
+2022,2022-12-01,Qatar,Doha,Group Stage,Canada,Morocco,1,2,0,0,0,Morocco,0
+2022,2022-12-01,Qatar,Al Khor,Group Stage,Costa Rica,Germany,2,4,0,0,0,Germany,0
+2022,2022-12-01,Qatar,Al Rayyan,Group Stage,Croatia,Belgium,0,0,0,0,0,,1
+2022,2022-12-01,Qatar,Al Rayyan,Group Stage,Japan,Spain,2,1,0,0,0,Japan,0
+2022,2022-12-02,Qatar,Lusail,Group Stage,Cameroon,Brazil,1,0,0,0,0,Cameroon,0
+2022,2022-12-02,Qatar,Al Wakrah,Group Stage,Ghana,Uruguay,0,2,0,0,0,Uruguay,0
+2022,2022-12-02,Qatar,Doha,Group Stage,Serbia,Switzerland,2,3,0,0,0,Switzerland,0
+2022,2022-12-02,Qatar,Al Rayyan,Group Stage,South Korea,Portugal,2,1,0,0,0,South Korea,0
+2022,2022-12-03,Qatar,Al Rayyan,Round of 16,Argentina,Australia,2,1,0,0,0,Argentina,0
+2022,2022-12-03,Qatar,Al Rayyan,Round of 16,Netherlands,United States,3,1,0,0,0,Netherlands,0
+2022,2022-12-04,Qatar,Al Khor,Round of 16,England,Senegal,3,0,0,0,0,England,0
+2022,2022-12-04,Qatar,Doha,Round of 16,France,Poland,3,1,0,0,0,France,0
+2022,2022-12-05,Qatar,Doha,Round of 16,Brazil,South Korea,4,1,0,0,0,Brazil,0
+2022,2022-12-05,Qatar,Al Wakrah,Round of 16,Japan,Croatia,1,1,1,1,3,Croatia,1
+2022,2022-12-06,Qatar,Al Rayyan,Round of 16,Morocco,Spain,0,0,1,3,0,Morocco,1
+2022,2022-12-06,Qatar,Lusail,Round of 16,Portugal,Switzerland,6,1,0,0,0,Portugal,0
+2022,2022-12-09,Qatar,Al Rayyan,Quarter-final,Croatia,Brazil,1,1,1,4,2,Croatia,1
+2022,2022-12-09,Qatar,Lusail,Quarter-final,Netherlands,Argentina,2,2,1,3,4,Argentina,1
+2022,2022-12-10,Qatar,Al Khor,Quarter-final,England,France,1,2,0,0,0,France,0
+2022,2022-12-10,Qatar,Doha,Quarter-final,Morocco,Portugal,1,0,0,0,0,Morocco,0
+2022,2022-12-13,Qatar,Lusail,Semi-final,Argentina,Croatia,3,0,0,0,0,Argentina,0
+2022,2022-12-14,Qatar,Al Khor,Semi-final,France,Morocco,2,0,0,0,0,France,0
+2022,2022-12-17,Qatar,Al Rayyan,Third place play-off,Croatia,Morocco,2,1,0,0,0,Croatia,0
+2022,2022-12-18,Qatar,Lusail,Final,Argentina,France,3,3,1,4,2,Argentina,1

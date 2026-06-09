@@ -1,0 +1,65 @@
+Year,Date,Host_Country,Host_City,Stage,Home_Team,Away_Team,Home_Score,Away_Score,Penalties,Penalties_Home_Score,Penalties_Away_Score,Winner,Draw
+1998,1998-06-10,France,Saint-Denis,Group Stage,Brazil,Scotland,2,1,0,0,0,Brazil,0
+1998,1998-06-10,France,Montpellier,Group Stage,Morocco,Norway,2,2,0,0,0,,1
+1998,1998-06-11,France,Toulouse,Group Stage,Cameroon,Austria,1,1,0,0,0,,1
+1998,1998-06-11,France,Bordeaux,Group Stage,Italy,Chile,2,2,0,0,0,,1
+1998,1998-06-12,France,Marseille,Group Stage,France,South Africa,3,0,0,0,0,France,0
+1998,1998-06-12,France,Montpellier,Group Stage,Paraguay,Bulgaria,0,0,0,0,0,,1
+1998,1998-06-12,France,Lens,Group Stage,Saudi Arabia,Denmark,0,1,0,0,0,Denmark,0
+1998,1998-06-13,France,Saint-Denis,Group Stage,Netherlands,Belgium,0,0,0,0,0,,1
+1998,1998-06-13,France,Lyon,Group Stage,South Korea,Mexico,1,3,0,0,0,Mexico,0
+1998,1998-06-13,France,Nantes,Group Stage,Spain,Nigeria,2,3,0,0,0,Nigeria,0
+1998,1998-06-14,France,Toulouse,Group Stage,Argentina,Japan,1,0,0,0,0,Argentina,0
+1998,1998-06-14,France,Lens,Group Stage,Jamaica,Croatia,1,3,0,0,0,Croatia,0
+1998,1998-06-14,France,Saint-Étienne,Group Stage,Yugoslavia,Iran,1,0,0,0,0,Yugoslavia,0
+1998,1998-06-15,France,Marseille,Group Stage,England,Tunisia,2,0,0,0,0,England,0
+1998,1998-06-15,France,Paris,Group Stage,Germany,United States,2,0,0,0,0,Germany,0
+1998,1998-06-15,France,Lyon,Group Stage,Romania,Colombia,1,0,0,0,0,Romania,0
+1998,1998-06-16,France,Nantes,Group Stage,Brazil,Morocco,3,0,0,0,0,Brazil,0
+1998,1998-06-16,France,Bordeaux,Group Stage,Scotland,Norway,1,1,0,0,0,,1
+1998,1998-06-17,France,Saint-Étienne,Group Stage,Chile,Austria,1,1,0,0,0,,1
+1998,1998-06-17,France,Montpellier,Group Stage,Italy,Cameroon,3,0,0,0,0,Italy,0
+1998,1998-06-18,France,Saint-Denis,Group Stage,France,Saudi Arabia,4,0,0,0,0,France,0
+1998,1998-06-18,France,Toulouse,Group Stage,South Africa,Denmark,1,1,0,0,0,,1
+1998,1998-06-19,France,Paris,Group Stage,Nigeria,Bulgaria,1,0,0,0,0,Nigeria,0
+1998,1998-06-19,France,Saint-Étienne,Group Stage,Spain,Paraguay,0,0,0,0,0,,1
+1998,1998-06-20,France,Bordeaux,Group Stage,Belgium,Mexico,2,2,0,0,0,,1
+1998,1998-06-20,France,Nantes,Group Stage,Japan,Croatia,0,1,0,0,0,Croatia,0
+1998,1998-06-20,France,Marseille,Group Stage,Netherlands,South Korea,5,0,0,0,0,Netherlands,0
+1998,1998-06-21,France,Paris,Group Stage,Argentina,Jamaica,5,0,0,0,0,Argentina,0
+1998,1998-06-21,France,Lens,Group Stage,Germany,Yugoslavia,2,2,0,0,0,,1
+1998,1998-06-21,France,Lyon,Group Stage,United States,Iran,1,2,0,0,0,Iran,0
+1998,1998-06-22,France,Montpellier,Group Stage,Colombia,Tunisia,1,0,0,0,0,Colombia,0
+1998,1998-06-22,France,Toulouse,Group Stage,Romania,England,2,1,0,0,0,Romania,0
+1998,1998-06-23,France,Marseille,Group Stage,Brazil,Norway,1,2,0,0,0,Norway,0
+1998,1998-06-23,France,Nantes,Group Stage,Chile,Cameroon,1,1,0,0,0,,1
+1998,1998-06-23,France,Saint-Denis,Group Stage,Italy,Austria,2,1,0,0,0,Italy,0
+1998,1998-06-23,France,Saint-Étienne,Group Stage,Scotland,Morocco,0,3,0,0,0,Morocco,0
+1998,1998-06-24,France,Lyon,Group Stage,France,Denmark,2,1,0,0,0,France,0
+1998,1998-06-24,France,Toulouse,Group Stage,Nigeria,Paraguay,1,3,0,0,0,Paraguay,0
+1998,1998-06-24,France,Bordeaux,Group Stage,South Africa,Saudi Arabia,2,2,0,0,0,,1
+1998,1998-06-24,France,Lens,Group Stage,Spain,Bulgaria,6,1,0,0,0,Spain,0
+1998,1998-06-25,France,Paris,Group Stage,Belgium,South Korea,1,1,0,0,0,,1
+1998,1998-06-25,France,Montpellier,Group Stage,Germany,Iran,2,0,0,0,0,Germany,0
+1998,1998-06-25,France,Saint-Étienne,Group Stage,Netherlands,Mexico,2,2,0,0,0,,1
+1998,1998-06-25,France,Nantes,Group Stage,United States,Yugoslavia,0,1,0,0,0,Yugoslavia,0
+1998,1998-06-26,France,Bordeaux,Group Stage,Argentina,Croatia,1,0,0,0,0,Argentina,0
+1998,1998-06-26,France,Lens,Group Stage,Colombia,England,0,2,0,0,0,England,0
+1998,1998-06-26,France,Lyon,Group Stage,Japan,Jamaica,1,2,0,0,0,Jamaica,0
+1998,1998-06-26,France,Saint-Denis,Group Stage,Romania,Tunisia,1,1,0,0,0,,1
+1998,1998-06-27,France,Paris,Round of 16,Brazil,Chile,4,1,0,0,0,Brazil,0
+1998,1998-06-27,France,Marseille,Round of 16,Italy,Norway,1,0,0,0,0,Italy,0
+1998,1998-06-28,France,Lens,Round of 16,France,Paraguay,1,0,0,0,0,France,0
+1998,1998-06-28,France,Saint-Denis,Round of 16,Nigeria,Denmark,1,4,0,0,0,Denmark,0
+1998,1998-06-29,France,Montpellier,Round of 16,Germany,Mexico,2,1,0,0,0,Germany,0
+1998,1998-06-29,France,Toulouse,Round of 16,Netherlands,Yugoslavia,2,1,0,0,0,Netherlands,0
+1998,1998-06-30,France,Saint-Étienne,Round of 16,Argentina,England,2,2,1,4,3,Argentina,1
+1998,1998-06-30,France,Bordeaux,Round of 16,Romania,Croatia,0,1,0,0,0,Croatia,0
+1998,1998-07-03,France,Nantes,Quarter-final,Brazil,Denmark,3,2,0,0,0,Brazil,0
+1998,1998-07-03,France,Saint-Denis,Quarter-final,Italy,France,0,0,1,3,4,France,1
+1998,1998-07-04,France,Lyon,Quarter-final,Germany,Croatia,0,3,0,0,0,Croatia,0
+1998,1998-07-04,France,Marseille,Quarter-final,Netherlands,Argentina,2,1,0,0,0,Netherlands,0
+1998,1998-07-07,France,Marseille,Semi-final,Brazil,Netherlands,1,1,1,4,2,Brazil,1
+1998,1998-07-08,France,Saint-Denis,Semi-final,France,Croatia,2,1,0,0,0,France,0
+1998,1998-07-11,France,Paris,Third place play-off,Netherlands,Croatia,1,2,0,0,0,Croatia,0
+1998,1998-07-12,France,Saint-Denis,Final,Brazil,France,0,3,0,0,0,France,0
