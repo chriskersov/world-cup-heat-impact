@@ -15,7 +15,11 @@ import pandas as pd
 import re
 import time
 import sys
+from pathlib import Path
+
 from io import StringIO
+
+DATA_DIR = Path(__file__).resolve().parent.parent / 'data'
 
 # ---------------------------------------------------------------------------
 # Tournament definitions
@@ -607,7 +611,7 @@ def main():
     df = pd.DataFrame(all_matches)
     df = clean_dataset(df)
 
-    output_path = 'data/fifa_world_cup_matches_1930_2022.csv'
+    output_path = DATA_DIR / 'fifa_world_cup_matches_1930_2022.csv'
     df.to_csv(output_path, index=False, encoding='utf-8')
     print(f'Saved to: {output_path}')
 
