@@ -1,0 +1,965 @@
+Year,Date,Host_Country,Host_City,Stage,Home_Team,Away_Team,Home_Score,Away_Score,Penalties,Penalties_Home_Score,Penalties_Away_Score,Winner,Draw,Tournament_Avg_Temp_C,Warm_Cup,Home_Koppen,Home_Climate_Zone,Home_Warm_Climate,Home_Avg_Annual_Temp_C,Away_Koppen,Away_Climate_Zone,Away_Warm_Climate,Away_Avg_Annual_Temp_C,Home_Elo,Away_Elo,Home_Elo_Advantage,Home_Elo_Expected
+1930,1930-07-13,Uruguay,Montevideo,Group Stage,France,Mexico,4,1,0,0,0,France,0,10.9,0,Cfb,Temperate,0,11.5,BSh,Arid,1,21.0,1311.1,1496.6,-185.5,0.379
+1930,1930-07-13,Uruguay,Montevideo,Group Stage,United States,Belgium,3,0,0,0,0,United States,0,10.9,0,Cfa,Temperate,1,10.0,Cfb,Temperate,0,10.0,1508.5,1446.0,62.5,0.718
+1930,1930-07-14,Uruguay,Montevideo,Group Stage,Romania,Peru,3,1,0,0,0,Romania,0,10.9,0,Dfb,Continental,0,9.0,BWh,Arid,1,20.0,1477.7,1388.9,88.8,0.748
+1930,1930-07-14,Uruguay,Montevideo,Group Stage,Yugoslavia,Brazil,2,1,0,0,0,Yugoslavia,0,10.9,0,Cfb,Temperate,0,10.0,Am,Tropical,1,25.0,1479.2,1582.5,-103.3,0.495
+1930,1930-07-15,Uruguay,Montevideo,Group Stage,Argentina,France,1,0,0,0,0,Argentina,0,10.9,0,Cfa,Temperate,1,14.0,Cfb,Temperate,0,11.5,1773.2,1376.3,396.9,0.946
+1930,1930-07-16,Uruguay,Montevideo,Group Stage,Chile,Mexico,3,0,0,0,0,Chile,0,10.9,0,BSk,Arid,1,9.0,BSh,Arid,1,21.0,1365.9,1431.5,-65.5,0.549
+1930,1930-07-17,Uruguay,Montevideo,Group Stage,United States,Paraguay,3,0,0,0,0,United States,0,10.9,0,Cfa,Temperate,1,10.0,Cfa,Temperate,1,23.0,1566.7,1538.4,28.2,0.677
+1930,1930-07-17,Uruguay,Montevideo,Group Stage,Yugoslavia,Bolivia,4,0,0,0,0,Yugoslavia,0,10.9,0,Cfb,Temperate,0,10.0, Aw,Tropical,1,18.0,1525.0,1298.3,226.7,0.868
+1930,1930-07-18,Uruguay,Montevideo,Group Stage,Uruguay,Peru,1,0,0,0,0,Uruguay,0,10.9,0,Cfa,Temperate,1,16.0,BWh,Arid,1,20.0,1697.6,1342.5,355.1,0.932
+1930,1930-07-19,Uruguay,Montevideo,Group Stage,Argentina,Mexico,6,3,0,0,0,Argentina,0,10.9,0,Cfa,Temperate,1,14.0,BSh,Arid,1,21.0,1776.4,1384.2,392.3,0.944
+1930,1930-07-19,Uruguay,Montevideo,Group Stage,Chile,France,1,0,0,0,0,Chile,0,10.9,0,BSk,Arid,1,9.0,Cfb,Temperate,0,11.5,1413.2,1373.0,40.2,0.691
+1930,1930-07-20,Uruguay,Montevideo,Group Stage,Brazil,Bolivia,4,0,0,0,0,Brazil,0,10.9,0,Am,Tropical,1,25.0, Aw,Tropical,1,18.0,1536.7,1261.7,275.0,0.896
+1930,1930-07-20,Uruguay,Montevideo,Group Stage,Paraguay,Belgium,1,0,0,0,0,Paraguay,0,10.9,0,Cfa,Temperate,1,23.0,Cfb,Temperate,0,10.0,1475.3,1387.9,87.4,0.746
+1930,1930-07-21,Uruguay,Montevideo,Group Stage,Uruguay,Romania,4,0,0,0,0,Uruguay,0,10.9,0,Cfa,Temperate,1,16.0,Dfb,Continental,0,9.0,1701.7,1524.2,177.5,0.832
+1930,1930-07-22,Uruguay,Montevideo,Group Stage,Argentina,Chile,3,1,0,0,0,Argentina,0,10.9,0,Cfa,Temperate,1,14.0,BSk,Arid,1,9.0,1782.3,1431.7,350.5,0.93
+1930,1930-07-26,Uruguay,Montevideo,Semi-final,Argentina,United States,6,1,0,0,0,Argentina,0,10.9,0,Cfa,Temperate,1,14.0,Cfa,Temperate,1,10.0,1788.5,1629.9,158.7,0.816
+1930,1930-07-27,Uruguay,Montevideo,Semi-final,Uruguay,Yugoslavia,6,1,0,0,0,Uruguay,0,10.9,0,Cfa,Temperate,1,16.0,Cfb,Temperate,0,10.0,1720.6,1561.6,159.0,0.816
+1930,1930-07-30,Uruguay,Montevideo,Final,Uruguay,Argentina,4,2,0,0,0,Uruguay,0,10.9,0,Cfa,Temperate,1,16.0,Cfa,Temperate,1,14.0,1742.7,1810.6,-68.0,0.546
+1934,1934-05-27,Italy,Turin,Round of 16,Austria,France,3,2,0,0,0,Austria,0,19.2875,0,Dfb,Continental,0,7.0,Cfb,Temperate,0,11.5,1865.3,1456.9,408.4,0.949
+1934,1934-05-27,Italy,Trieste,Round of 16,Czechoslovakia,Romania,2,1,0,0,0,Czechoslovakia,0,19.2875,0,Dfb,Continental,0,8.0,Dfb,Continental,0,9.0,1655.8,1556.9,98.9,0.759
+1934,1934-05-27,Italy,Florence,Round of 16,Germany,Belgium,5,2,0,0,0,Germany,0,19.2875,0,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,1633.3,1321.3,312.0,0.915
+1934,1934-05-27,Italy,Naples,Round of 16,Hungary,Egypt,4,2,0,0,0,Hungary,0,19.2875,0,Cfb,Temperate,0,10.0,BWh,Arid,1,23.0,1648.0,1589.3,58.7,0.714
+1934,1934-05-27,Italy,Rome,Round of 16,Italy,United States,7,1,0,0,0,Italy,0,19.2875,0,Csa,Temperate,1,14.0,Cfa,Temperate,1,10.0,1765.5,1625.9,139.6,0.799
+1934,1934-05-27,Italy,Genoa,Round of 16,Spain,Brazil,3,1,0,0,0,Spain,0,19.2875,0,Csa,Temperate,1,14.0,Am,Tropical,1,25.0,1744.6,1683.0,61.7,0.717
+1934,1934-05-27,Italy,Bologna,Round of 16,Sweden,Argentina,3,2,0,0,0,Sweden,0,19.2875,0,Dfc,Continental,0,3.0,Cfa,Temperate,1,14.0,1598.2,1786.2,-188.1,0.376
+1934,1934-05-27,Italy,Milan,Round of 16,Switzerland,Netherlands,3,2,0,0,0,Switzerland,0,19.2875,0,Cfb,Temperate,0,6.0,Cfb,Temperate,0,10.0,1427.4,1479.2,-51.8,0.569
+1934,1934-05-31,Italy,Bologna,Quarter-final,Austria,Hungary,2,1,0,0,0,Austria,0,19.2875,0,Dfb,Continental,0,7.0,Cfb,Temperate,0,10.0,1868.3,1698.3,170.0,0.826
+1934,1934-05-31,Italy,Turin,Quarter-final,Czechoslovakia,Switzerland,3,2,0,0,0,Czechoslovakia,0,19.2875,0,Dfb,Continental,0,8.0,Cfb,Temperate,0,6.0,1670.2,1469.7,200.5,0.849
+1934,1934-05-31,Italy,Milan,Quarter-final,Germany,Sweden,2,1,0,0,0,Germany,0,19.2875,0,Cfb,Temperate,0,9.0,Dfc,Continental,0,3.0,1657.3,1648.6,8.7,0.652
+1934,1934-05-31,Italy,Florence,Quarter-final,Italy,Spain,1,1,0,0,0,,1,19.2875,0,Csa,Temperate,1,14.0,Csa,Temperate,1,14.0,1791.2,1794.6,-3.4,0.636
+1934,1934-06-01,Italy,Florence,Group Stage,Italy,Spain,1,0,0,0,0,Italy,0,19.2875,0,Csa,Temperate,1,14.0,Csa,Temperate,1,14.0,1783.0,1802.7,-19.7,0.614
+1934,1934-06-03,Italy,Rome,Semi-final,Czechoslovakia,Germany,3,1,0,0,0,Czechoslovakia,0,19.2875,0,Dfb,Continental,0,8.0,Cfb,Temperate,0,9.0,1679.3,1678.2,1.1,0.642
+1934,1934-06-03,Italy,Milan,Semi-final,Italy,Austria,1,0,0,0,0,Italy,0,19.2875,0,Csa,Temperate,1,14.0,Dfb,Continental,0,7.0,1806.2,1878.8,-72.6,0.539
+1934,1934-06-07,Italy,Naples,Third place play-off,Germany,Austria,3,2,0,0,0,Germany,0,19.2875,0,Cfb,Temperate,0,9.0,Dfb,Continental,0,7.0,1645.9,1851.2,-205.3,0.353
+1934,1934-06-10,Italy,Rome,Final,Italy,Czechoslovakia,2,1,0,0,0,Italy,0,19.2875,0,Csa,Temperate,1,14.0,Dfb,Continental,0,8.0,1833.9,1711.5,122.3,0.782
+1938,1938-06-04,France,Paris,Round of 16,Switzerland,Germany,1,1,0,0,0,,1,19.48,1,Cfb,Temperate,0,6.0,Cfb,Temperate,0,9.0,1487.5,1712.6,-225.1,0.327
+1938,1938-06-05,France,Strasbourg,Round of 16,Brazil,Poland,6,5,0,0,0,Brazil,0,19.48,1,Am,Tropical,1,25.0,Dfb,Continental,0,8.0,1610.5,1542.1,68.3,0.725
+1938,1938-06-05,France,Toulouse,Round of 16,Cuba,Romania,3,3,0,0,0,,1,19.48,1,Am,Tropical,1,25.0,Dfb,Continental,0,9.0,1473.4,1489.3,-15.9,0.619
+1938,1938-06-05,France,Le Havre,Round of 16,Czechoslovakia,Netherlands,3,0,0,0,0,Czechoslovakia,0,19.48,1,Dfb,Continental,0,8.0,Cfb,Temperate,0,10.0,1614.8,1528.6,86.3,0.745
+1938,1938-06-05,France,Colombes,Round of 16,France,Belgium,3,1,0,0,0,France,0,19.48,1,Cfb,Temperate,0,11.5,Cfb,Temperate,0,10.0,1472.2,1402.5,69.7,0.726
+1938,1938-06-05,France,Reims,Round of 16,Hungary,Dutch East Indies,6,0,0,0,0,Hungary,0,19.48,1,Cfb,Temperate,0,10.0,Af,Tropical,1,26.0,1751.7,1505.4,246.3,0.88
+1938,1938-06-05,France,Marseille,Round of 16,Italy,Norway,2,1,0,0,0,Italy,0,19.48,1,Csa,Temperate,1,14.0,Dfc,Continental,0,2.0,1880.8,1502.6,378.2,0.94
+1938,1938-06-09,France,Toulouse,Group Stage,Cuba,Romania,2,1,0,0,0,Cuba,0,19.48,1,Am,Tropical,1,25.0,Dfb,Continental,0,9.0,1466.3,1496.5,-30.2,0.599
+1938,1938-06-09,France,Paris,Group Stage,Switzerland,Germany,4,2,0,0,0,Switzerland,0,19.48,1,Cfb,Temperate,0,6.0,Cfb,Temperate,0,9.0,1509.5,1690.6,-181.1,0.385
+1938,1938-06-12,France,Bordeaux,Quarter-final,Brazil,Czechoslovakia,1,1,0,0,0,,1,19.48,1,Am,Tropical,1,25.0,Dfb,Continental,0,8.0,1627.0,1641.6,-14.6,0.62
+1938,1938-06-12,France,Lille,Quarter-final,Hungary,Switzerland,2,0,0,0,0,Hungary,0,19.48,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,6.0,1767.0,1584.6,182.4,0.836
+1938,1938-06-12,France,Colombes,Quarter-final,Italy,France,3,1,0,0,0,Italy,0,19.48,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,11.5,1884.4,1496.8,387.5,0.943
+1938,1938-06-12,France,Antibes,Quarter-final,Sweden,Cuba,8,0,0,0,0,Sweden,0,19.48,1,Dfc,Continental,0,3.0,Am,Tropical,1,25.0,1521.8,1490.3,31.4,0.681
+1938,1938-06-14,France,Bordeaux,Group Stage,Brazil,Czechoslovakia,2,1,0,0,0,Brazil,0,19.48,1,Am,Tropical,1,25.0,Dfb,Continental,0,8.0,1619.7,1648.8,-29.1,0.601
+1938,1938-06-16,France,Paris,Semi-final,Hungary,Sweden,5,1,0,0,0,Hungary,0,19.48,1,Cfb,Temperate,0,10.0,Dfc,Continental,0,3.0,1781.8,1610.5,171.3,0.827
+1938,1938-06-16,France,Marseille,Semi-final,Italy,Brazil,2,1,0,0,0,Italy,0,19.48,1,Csa,Temperate,1,14.0,Am,Tropical,1,25.0,1898.8,1643.7,255.1,0.885
+1938,1938-06-19,France,Bordeaux,Third place play-off,Brazil,Sweden,4,2,0,0,0,Brazil,0,19.48,1,Am,Tropical,1,25.0,Dfc,Continental,0,3.0,1626.3,1591.0,35.3,0.685
+1938,1938-06-19,France,Paris,Final,Italy,Hungary,4,2,0,0,0,Italy,0,19.48,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1916.2,1801.3,114.9,0.775
+1950,1950-06-24,Brazil,Rio de Janeiro,Group Stage,Brazil,Mexico,4,0,0,0,0,Brazil,0,17.099999999999998,0,Am,Tropical,1,25.0,BSh,Arid,1,21.0,1781.0,1657.1,123.9,0.784
+1950,1950-06-25,Brazil,Rio de Janeiro,Group Stage,England,Chile,2,0,0,0,0,England,0,17.099999999999998,0,Cfb,Temperate,0,10.0,BSk,Arid,1,9.0,1882.2,1437.3,444.9,0.958
+1950,1950-06-25,Brazil,Curitiba,Group Stage,Spain,United States,3,1,0,0,0,Spain,0,17.099999999999998,0,Csa,Temperate,1,14.0,Cfa,Temperate,1,10.0,1683.2,1430.5,252.7,0.884
+1950,1950-06-25,Brazil,São Paulo,Group Stage,Sweden,Italy,3,2,0,0,0,Sweden,0,17.099999999999998,0,Dfc,Continental,0,3.0,Csa,Temperate,1,14.0,1726.5,1823.3,-96.8,0.505
+1950,1950-06-25,Brazil,Belo Horizonte,Group Stage,Yugoslavia,Switzerland,3,0,0,0,0,Yugoslavia,0,17.099999999999998,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,6.0,1691.5,1522.5,169.1,0.825
+1950,1950-06-28,Brazil,São Paulo,Group Stage,Brazil,Switzerland,2,2,0,0,0,,1,17.099999999999998,0,Am,Tropical,1,25.0,Cfb,Temperate,0,6.0,1805.3,1480.3,325.0,0.92
+1950,1950-06-28,Brazil,Porto Alegre,Group Stage,Yugoslavia,Mexico,4,1,0,0,0,Yugoslavia,0,17.099999999999998,0,Cfb,Temperate,0,10.0,BSh,Arid,1,21.0,1733.7,1632.8,100.9,0.761
+1950,1950-06-29,Brazil,Rio de Janeiro,Group Stage,Spain,Chile,2,0,0,0,0,Spain,0,17.099999999999998,0,Csa,Temperate,1,14.0,BSk,Arid,1,9.0,1693.6,1426.5,267.2,0.892
+1950,1950-06-29,Brazil,Curitiba,Group Stage,Sweden,Paraguay,2,2,0,0,0,,1,17.099999999999998,0,Dfc,Continental,0,3.0,Cfa,Temperate,1,23.0,1771.8,1713.9,58.0,0.713
+1950,1950-06-29,Brazil,Belo Horizonte,Group Stage,United States,England,1,0,0,0,0,United States,0,17.099999999999998,0,Cfa,Temperate,1,10.0,Cfb,Temperate,0,10.0,1420.0,1893.1,-473.1,0.105
+1950,1950-07-01,Brazil,Rio de Janeiro,Group Stage,Brazil,Yugoslavia,2,0,0,0,0,Brazil,0,17.099999999999998,0,Am,Tropical,1,25.0,Cfb,Temperate,0,10.0,1780.1,1786.1,-6.0,0.632
+1950,1950-07-02,Brazil,Recife,Group Stage,Chile,United States,5,2,0,0,0,Chile,0,17.099999999999998,0,BSk,Arid,1,9.0,Cfa,Temperate,1,10.0,1401.6,1477.9,-76.3,0.534
+1950,1950-07-02,Brazil,São Paulo,Group Stage,Italy,Paraguay,2,0,0,0,0,Italy,0,17.099999999999998,0,Csa,Temperate,1,14.0,Cfa,Temperate,1,23.0,1777.9,1710.3,67.7,0.724
+1950,1950-07-02,Brazil,Rio de Janeiro,Group Stage,Spain,England,1,0,0,0,0,Spain,0,17.099999999999998,0,Csa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1718.5,1835.2,-116.7,0.476
+1950,1950-07-02,Brazil,Porto Alegre,Group Stage,Switzerland,Mexico,2,1,0,0,0,Switzerland,0,17.099999999999998,0,Cfb,Temperate,0,6.0,BSh,Arid,1,21.0,1505.5,1580.5,-75.0,0.536
+1950,1950-07-02,Brazil,Belo Horizonte,Group Stage,Uruguay,Bolivia,8,0,0,0,0,Uruguay,0,17.099999999999998,0,Cfa,Temperate,1,16.0, Aw,Tropical,1,18.0,1629.7,1284.4,345.4,0.928
+1950,1950-07-09,Brazil,Rio de Janeiro,Final round,Brazil,Sweden,7,1,0,0,0,Brazil,0,17.099999999999998,0,Am,Tropical,1,25.0,Dfc,Continental,0,3.0,1813.2,1775.5,37.8,0.688
+1950,1950-07-09,Brazil,São Paulo,Final round,Uruguay,Spain,2,2,0,0,0,,1,17.099999999999998,0,Cfa,Temperate,1,16.0,Csa,Temperate,1,14.0,1657.7,1765.1,-107.5,0.489
+1950,1950-07-13,Brazil,Rio de Janeiro,Final round,Brazil,Spain,6,1,0,0,0,Brazil,0,17.099999999999998,0,Am,Tropical,1,25.0,Csa,Temperate,1,14.0,1852.9,1749.1,103.9,0.764
+1950,1950-07-13,Brazil,São Paulo,Final round,Uruguay,Sweden,3,2,0,0,0,Uruguay,0,17.099999999999998,0,Cfa,Temperate,1,16.0,Dfc,Continental,0,3.0,1673.7,1735.7,-62.0,0.554
+1950,1950-07-16,Brazil,São Paulo,Final round,Sweden,Spain,3,1,0,0,0,Sweden,0,17.099999999999998,0,Dfc,Continental,0,3.0,Csa,Temperate,1,14.0,1692.7,1720.7,-28.1,0.602
+1950,1950-07-16,Brazil,Rio de Janeiro,Final round,Uruguay,Brazil,2,1,0,0,0,Uruguay,0,17.099999999999998,0,Cfa,Temperate,1,16.0,Am,Tropical,1,25.0,1716.8,1881.3,-164.5,0.408
+1954,1954-06-16,Switzerland,Zürich,Group Stage,Austria,Scotland,1,0,0,0,0,Austria,0,18.1,0,Dfb,Continental,0,7.0,Cfb,Temperate,0,7.0,1694.1,1698.1,-4.0,0.635
+1954,1954-06-16,Switzerland,Geneva,Group Stage,Brazil,Mexico,5,0,0,0,0,Brazil,0,18.1,0,Am,Tropical,1,25.0,BSh,Arid,1,21.0,1835.8,1590.2,245.6,0.88
+1954,1954-06-16,Switzerland,Bern,Group Stage,Uruguay,Czechoslovakia,2,0,0,0,0,Uruguay,0,18.1,0,Cfa,Temperate,1,16.0,Dfb,Continental,0,8.0,1778.3,1595.0,183.3,0.836
+1954,1954-06-16,Switzerland,Lausanne,Group Stage,Yugoslavia,France,1,0,0,0,0,Yugoslavia,0,18.1,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,11.5,1801.3,1624.3,177.0,0.831
+1954,1954-06-17,Switzerland,Basel,Group Stage,England,Belgium,4,4,0,0,0,,1,18.1,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,10.0,1802.1,1634.8,167.3,0.823
+1954,1954-06-17,Switzerland,Zürich,Group Stage,Hungary,South Korea,9,0,0,0,0,Hungary,0,18.1,0,Cfb,Temperate,0,10.0,Dwa,Continental,0,11.0,1941.2,1594.8,346.4,0.929
+1954,1954-06-17,Switzerland,Lausanne,Group Stage,Switzerland,Italy,2,1,0,0,0,Switzerland,0,18.1,0,Cfb,Temperate,0,6.0,Csa,Temperate,1,14.0,1498.9,1745.3,-246.4,0.301
+1954,1954-06-17,Switzerland,Bern,Group Stage,West Germany,Turkey,4,1,0,0,0,West Germany,0,18.1,0,Cfb,Temperate,0,9.0,Csa,Temperate,1,12.0,1836.7,1538.5,298.1,0.908
+1954,1954-06-19,Switzerland,Zürich,Group Stage,Austria,Czechoslovakia,5,0,0,0,0,Austria,0,18.1,0,Dfb,Continental,0,7.0,Dfb,Continental,0,8.0,1716.0,1560.5,155.4,0.813
+1954,1954-06-19,Switzerland,Lausanne,Group Stage,Brazil,Yugoslavia,1,1,0,0,0,,1,18.1,0,Am,Tropical,1,25.0,Cfb,Temperate,0,10.0,1850.3,1824.7,25.5,0.673
+1954,1954-06-19,Switzerland,Geneva,Group Stage,France,Mexico,3,2,0,0,0,France,0,18.1,0,Cfb,Temperate,0,11.5,BSh,Arid,1,21.0,1600.8,1575.8,25.1,0.673
+1954,1954-06-19,Switzerland,Basel,Group Stage,Uruguay,Scotland,7,0,0,0,0,Uruguay,0,18.1,0,Cfa,Temperate,1,16.0,Cfb,Temperate,0,7.0,1812.7,1676.2,136.5,0.796
+1954,1954-06-20,Switzerland,Bern,Group Stage,England,Switzerland,2,0,0,0,0,England,0,18.1,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,6.0,1796.4,1540.8,255.6,0.886
+1954,1954-06-20,Switzerland,Basel,Group Stage,Hungary,West Germany,8,3,0,0,0,Hungary,0,18.1,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,9.0,1951.9,1836.7,115.2,0.775
+1954,1954-06-20,Switzerland,Lugano,Group Stage,Italy,Belgium,4,1,0,0,0,Italy,0,18.1,0,Csa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1703.4,1640.5,62.8,0.719
+1954,1954-06-20,Switzerland,Geneva,Group Stage,Turkey,South Korea,7,0,0,0,0,Turkey,0,18.1,0,Csa,Temperate,1,12.0,Dwa,Continental,0,11.0,1527.3,1584.1,-56.8,0.562
+1954,1954-06-23,Switzerland,Basel,Play-off,Switzerland,Italy,4,1,0,0,0,Switzerland,0,18.1,0,Cfb,Temperate,0,6.0,Csa,Temperate,1,14.0,1514.7,1761.4,-246.7,0.301
+1954,1954-06-23,Switzerland,Zürich,Play-off,West Germany,Turkey,7,2,0,0,0,West Germany,0,18.1,0,Cfb,Temperate,0,9.0,Csa,Temperate,1,12.0,1836.7,1623.4,213.3,0.859
+1954,1954-06-26,Switzerland,Lausanne,Quarter-final,Austria,Switzerland,7,5,0,0,0,Austria,0,18.1,0,Dfb,Continental,0,7.0,Cfb,Temperate,0,6.0,1738.4,1588.2,150.3,0.808
+1954,1954-06-26,Switzerland,Basel,Quarter-final,Uruguay,England,4,2,0,0,0,Uruguay,0,18.1,0,Cfa,Temperate,1,16.0,Cfb,Temperate,0,10.0,1873.1,1822.5,50.6,0.704
+1954,1954-06-27,Switzerland,Bern,Quarter-final,Hungary,Brazil,4,2,0,0,0,Hungary,0,18.1,0,Cfb,Temperate,0,10.0,Am,Tropical,1,25.0,2006.1,1839.9,166.3,0.822
+1954,1954-06-27,Switzerland,Geneva,Quarter-final,West Germany,Yugoslavia,2,0,0,0,0,West Germany,0,18.1,0,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,1836.7,1835.1,1.6,0.642
+1954,1954-06-30,Switzerland,Lausanne,Semi-final,Hungary,Uruguay,4,2,0,0,0,Hungary,0,18.1,0,Cfb,Temperate,0,10.0,Cfa,Temperate,1,16.0,2042.7,1924.5,118.2,0.778
+1954,1954-06-30,Switzerland,Basel,Semi-final,West Germany,Austria,6,1,0,0,0,West Germany,0,18.1,0,Cfb,Temperate,0,9.0,Dfb,Continental,0,7.0,1836.7,1776.9,59.8,0.715
+1954,1954-07-03,Switzerland,Zürich,Third place play-off,Austria,Uruguay,3,1,0,0,0,Austria,0,18.1,0,Dfb,Continental,0,7.0,Cfa,Temperate,1,16.0,1708.3,1904.5,-196.2,0.365
+1954,1954-07-04,Switzerland,Bern,Final,West Germany,Hungary,3,2,0,0,0,West Germany,0,18.1,0,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,1836.7,2062.6,-225.9,0.326
+1958,1958-06-08,Sweden,Malmö,Group Stage,Argentina,West Germany,1,3,0,0,0,West Germany,0,12.883333333333333,0,Cfa,Temperate,1,14.0,Cfb,Temperate,0,9.0,1858.8,1836.7,22.1,0.669
+1958,1958-06-08,Sweden,Uddevalla,Group Stage,Brazil,Austria,3,0,0,0,0,Brazil,0,12.883333333333333,0,Am,Tropical,1,25.0,Dfb,Continental,0,7.0,1818.4,1737.5,80.9,0.739
+1958,1958-06-08,Sweden,Norrköping,Group Stage,France,Paraguay,7,3,0,0,0,France,0,12.883333333333333,0,Cfb,Temperate,0,11.5,Cfa,Temperate,1,23.0,1685.1,1576.5,108.5,0.769
+1958,1958-06-08,Sweden,Sandviken,Group Stage,Hungary,Wales,1,1,0,0,0,,1,12.883333333333333,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,9.0,1905.3,1552.5,352.8,0.931
+1958,1958-06-08,Sweden,Halmstad,Group Stage,Northern Ireland,Czechoslovakia,1,0,0,0,0,Northern Ireland,0,12.883333333333333,0,Cfb,Temperate,0,9.0,Dfb,Continental,0,8.0,1528.2,1772.3,-244.0,0.304
+1958,1958-06-08,Sweden,Gothenburg,Group Stage,Soviet Union,England,2,2,0,0,0,,1,12.883333333333333,0,Dfc,Continental,0,-2.0,Cfb,Temperate,0,10.0,1836.7,1838.3,-1.7,0.638
+1958,1958-06-08,Sweden,Solna,Group Stage,Sweden,Mexico,3,0,0,0,0,Sweden,0,12.883333333333333,0,Dfc,Continental,0,3.0,BSh,Arid,1,21.0,1649.5,1670.5,-21.0,0.612
+1958,1958-06-08,Sweden,Västerås,Group Stage,Yugoslavia,Scotland,1,1,0,0,0,,1,12.883333333333333,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,7.0,1777.2,1682.9,94.3,0.754
+1958,1958-06-11,Sweden,Halmstad,Group Stage,Argentina,Northern Ireland,3,1,0,0,0,Argentina,0,12.883333333333333,0,Cfa,Temperate,1,14.0,Cfb,Temperate,0,9.0,1787.1,1580.9,206.2,0.854
+1958,1958-06-11,Sweden,Gothenburg,Group Stage,Brazil,England,0,0,0,0,0,,1,12.883333333333333,0,Am,Tropical,1,25.0,Cfb,Temperate,0,10.0,1873.8,1823.3,50.5,0.704
+1958,1958-06-11,Sweden,Solna,Group Stage,Mexico,Wales,1,1,0,0,0,,1,12.883333333333333,0,BSh,Arid,1,21.0,Cfb,Temperate,0,9.0,1629.7,1578.4,51.3,0.705
+1958,1958-06-11,Sweden,Norrköping,Group Stage,Paraguay,Scotland,3,2,0,0,0,Paraguay,0,12.883333333333333,0,Cfa,Temperate,1,23.0,Cfb,Temperate,0,7.0,1550.5,1682.4,-131.9,0.454
+1958,1958-06-11,Sweden,Borås,Group Stage,Soviet Union,Austria,2,0,0,0,0,Soviet Union,0,12.883333333333333,0,Dfc,Continental,0,-2.0,Dfb,Continental,0,7.0,1836.7,1682.1,154.6,0.812
+1958,1958-06-11,Sweden,Helsingborg,Group Stage,West Germany,Czechoslovakia,2,2,0,0,0,,1,12.883333333333333,0,Cfb,Temperate,0,9.0,Dfb,Continental,0,8.0,1836.7,1719.5,117.2,0.777
+1958,1958-06-11,Sweden,Västerås,Group Stage,Yugoslavia,France,3,2,0,0,0,Yugoslavia,0,12.883333333333333,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,11.5,1777.7,1711.1,66.6,0.723
+1958,1958-06-12,Sweden,Solna,Group Stage,Sweden,Hungary,2,1,0,0,0,Sweden,0,12.883333333333333,0,Dfc,Continental,0,3.0,Cfb,Temperate,0,10.0,1690.2,1879.4,-189.2,0.374
+1958,1958-06-15,Sweden,Gothenburg,Group Stage,Brazil,Soviet Union,2,0,0,0,0,Brazil,0,12.883333333333333,0,Am,Tropical,1,25.0,Dfc,Continental,0,-2.0,1861.6,1836.7,24.9,0.672
+1958,1958-06-15,Sweden,Helsingborg,Group Stage,Czechoslovakia,Argentina,6,1,0,0,0,Czechoslovakia,0,12.883333333333333,0,Dfb,Continental,0,8.0,Cfa,Temperate,1,14.0,1717.3,1800.3,-83.0,0.524
+1958,1958-06-15,Sweden,Borås,Group Stage,England,Austria,2,2,0,0,0,,1,12.883333333333333,0,Cfb,Temperate,0,10.0,Dfb,Continental,0,7.0,1835.5,1634.5,201.0,0.85
+1958,1958-06-15,Sweden,Örebro,Group Stage,France,Scotland,2,1,0,0,0,France,0,12.883333333333333,0,Cfb,Temperate,0,11.5,Cfb,Temperate,0,7.0,1678.2,1649.6,28.6,0.677
+1958,1958-06-15,Sweden,Sandviken,Group Stage,Hungary,Mexico,4,0,0,0,0,Hungary,0,12.883333333333333,0,Cfb,Temperate,0,10.0,BSh,Arid,1,21.0,1841.9,1617.4,224.5,0.866
+1958,1958-06-15,Sweden,Eskilstuna,Group Stage,Paraguay,Yugoslavia,3,3,0,0,0,,1,12.883333333333333,0,Cfa,Temperate,1,23.0,Cfb,Temperate,0,10.0,1583.2,1810.5,-227.3,0.325
+1958,1958-06-15,Sweden,Solna,Group Stage,Sweden,Wales,0,0,0,0,0,,1,12.883333333333333,0,Dfc,Continental,0,3.0,Cfb,Temperate,0,9.0,1727.8,1590.7,137.1,0.797
+1958,1958-06-15,Sweden,Malmö,Group Stage,West Germany,Northern Ireland,2,2,0,0,0,,1,12.883333333333333,0,Cfb,Temperate,0,9.0,Cfb,Temperate,0,9.0,1836.7,1567.8,268.9,0.893
+1958,1958-06-17,Sweden,Malmö,Play-off,Northern Ireland,Czechoslovakia,2,1,0,0,0,Northern Ireland,0,12.883333333333333,0,Cfb,Temperate,0,9.0,Dfb,Continental,0,8.0,1589.9,1806.3,-216.4,0.338
+1958,1958-06-17,Sweden,Gothenburg,Play-off,Soviet Union,England,1,0,0,0,0,Soviet Union,0,12.883333333333333,0,Dfc,Continental,0,-2.0,Cfb,Temperate,0,10.0,1836.7,1827.1,9.6,0.653
+1958,1958-06-17,Sweden,Solna,Play-off,Wales,Hungary,2,1,0,0,0,Wales,0,12.883333333333333,0,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,1608.5,1856.9,-248.5,0.299
+1958,1958-06-19,Sweden,Gothenburg,Quarter-final,Brazil,Wales,1,0,0,0,0,Brazil,0,12.883333333333333,0,Am,Tropical,1,25.0,Cfb,Temperate,0,9.0,1888.0,1661.4,226.7,0.868
+1958,1958-06-19,Sweden,Norrköping,Quarter-final,France,Northern Ireland,4,0,0,0,0,France,0,12.883333333333333,0,Cfb,Temperate,0,11.5,Cfb,Temperate,0,9.0,1697.6,1641.5,56.1,0.711
+1958,1958-06-19,Sweden,Solna,Quarter-final,Sweden,Soviet Union,2,0,0,0,0,Sweden,0,12.883333333333333,0,Dfc,Continental,0,3.0,Dfc,Continental,0,-2.0,1710.0,1836.7,-126.7,0.462
+1958,1958-06-19,Sweden,Malmö,Quarter-final,West Germany,Yugoslavia,1,0,0,0,0,West Germany,0,12.883333333333333,0,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,1836.7,1800.0,36.7,0.687
+1958,1958-06-24,Sweden,Solna,Semi-final,Brazil,France,5,2,0,0,0,Brazil,0,12.883333333333333,0,Am,Tropical,1,25.0,Cfb,Temperate,0,11.5,1896.0,1730.2,165.8,0.822
+1958,1958-06-24,Sweden,Gothenburg,Semi-final,Sweden,West Germany,3,1,0,0,0,Sweden,0,12.883333333333333,0,Dfc,Continental,0,3.0,Cfb,Temperate,0,9.0,1756.9,1836.7,-79.8,0.529
+1958,1958-06-28,Sweden,Gothenburg,Third place play-off,France,West Germany,6,3,0,0,0,France,0,12.883333333333333,0,Cfb,Temperate,0,11.5,Cfb,Temperate,0,9.0,1711.5,1836.7,-125.2,0.464
+1958,1958-06-29,Sweden,Solna,Final,Brazil,Sweden,5,2,0,0,0,Brazil,0,12.883333333333333,0,Am,Tropical,1,25.0,Dfc,Continental,0,3.0,1914.7,1794.3,120.4,0.781
+1962,1962-05-30,Chile,Rancagua,Group Stage,Argentina,Bulgaria,1,0,0,0,0,Argentina,0,10.95,0,Cfa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1793.7,1586.9,206.8,0.854
+1962,1962-05-30,Chile,Viña del Mar,Group Stage,Brazil,Mexico,2,0,0,0,0,Brazil,0,10.95,0,Am,Tropical,1,25.0,BSh,Arid,1,21.0,1977.4,1682.0,295.4,0.907
+1962,1962-05-30,Chile,Santiago,Group Stage,Chile,Switzerland,3,1,0,0,0,Chile,0,10.95,0,BSk,Arid,1,9.0,Cfb,Temperate,0,6.0,1613.9,1564.1,49.8,0.703
+1962,1962-05-30,Chile,Arica,Group Stage,Uruguay,Colombia,2,1,0,0,0,Uruguay,0,10.95,0,Cfa,Temperate,1,16.0,Af,Tropical,1,24.0,1768.0,1336.3,431.6,0.955
+1962,1962-05-31,Chile,Viña del Mar,Group Stage,Czechoslovakia,Spain,1,0,0,0,0,Czechoslovakia,0,10.95,0,Dfb,Continental,0,8.0,Csa,Temperate,1,14.0,1816.6,1810.5,6.1,0.648
+1962,1962-05-31,Chile,Rancagua,Group Stage,Hungary,England,2,1,0,0,0,Hungary,0,10.95,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,10.0,1797.3,1800.5,-3.3,0.636
+1962,1962-05-31,Chile,Arica,Group Stage,Soviet Union,Yugoslavia,2,0,0,0,0,Soviet Union,0,10.95,0,Dfc,Continental,0,-2.0,Cfb,Temperate,0,10.0,1836.7,1886.6,-49.9,0.572
+1962,1962-05-31,Chile,Santiago,Group Stage,West Germany,Italy,0,0,0,0,0,,1,10.95,0,Cfb,Temperate,0,9.0,Csa,Temperate,1,14.0,1836.7,1727.0,109.7,0.77
+1962,1962-06-02,Chile,Viña del Mar,Group Stage,Brazil,Czechoslovakia,0,0,0,0,0,,1,10.95,0,Am,Tropical,1,25.0,Dfb,Continental,0,8.0,1985.8,1837.7,148.0,0.807
+1962,1962-06-02,Chile,Santiago,Group Stage,Chile,Italy,2,0,0,0,0,Chile,0,10.95,0,BSk,Arid,1,9.0,Csa,Temperate,1,14.0,1640.6,1737.0,-96.4,0.505
+1962,1962-06-02,Chile,Rancagua,Group Stage,England,Argentina,3,1,0,0,0,England,0,10.95,0,Cfb,Temperate,0,10.0,Cfa,Temperate,1,14.0,1761.8,1802.5,-40.6,0.585
+1962,1962-06-02,Chile,Arica,Group Stage,Yugoslavia,Uruguay,3,1,0,0,0,Yugoslavia,0,10.95,0,Cfb,Temperate,0,10.0,Cfa,Temperate,1,16.0,1858.8,1775.7,83.1,0.742
+1962,1962-06-03,Chile,Rancagua,Group Stage,Hungary,Bulgaria,6,1,0,0,0,Hungary,0,10.95,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,10.0,1835.9,1578.2,257.7,0.887
+1962,1962-06-03,Chile,Arica,Group Stage,Soviet Union,Colombia,4,4,0,0,0,,1,10.95,0,Dfc,Continental,0,-2.0,Af,Tropical,1,24.0,1836.7,1328.6,508.1,0.971
+1962,1962-06-03,Chile,Viña del Mar,Group Stage,Spain,Mexico,1,0,0,0,0,Spain,0,10.95,0,Csa,Temperate,1,14.0,BSh,Arid,1,21.0,1789.4,1673.6,115.8,0.776
+1962,1962-06-03,Chile,Santiago,Group Stage,West Germany,Switzerland,2,1,0,0,0,West Germany,0,10.95,0,Cfb,Temperate,0,9.0,Cfb,Temperate,0,6.0,1836.7,1537.4,299.3,0.909
+1962,1962-06-06,Chile,Viña del Mar,Group Stage,Brazil,Spain,2,1,0,0,0,Brazil,0,10.95,0,Am,Tropical,1,25.0,Csa,Temperate,1,14.0,1967.4,1818.1,149.3,0.808
+1962,1962-06-06,Chile,Rancagua,Group Stage,Hungary,Argentina,0,0,0,0,0,,1,10.95,0,Cfb,Temperate,0,10.0,Cfa,Temperate,1,14.0,1870.4,1740.2,130.2,0.79
+1962,1962-06-06,Chile,Arica,Group Stage,Soviet Union,Uruguay,2,1,0,0,0,Soviet Union,0,10.95,0,Dfc,Continental,0,-2.0,Cfa,Temperate,1,16.0,1836.7,1728.5,108.2,0.768
+1962,1962-06-06,Chile,Santiago,Group Stage,West Germany,Chile,2,0,0,0,0,West Germany,0,10.95,0,Cfb,Temperate,0,9.0,BSk,Arid,1,9.0,1836.7,1685.1,151.6,0.81
+1962,1962-06-07,Chile,Rancagua,Group Stage,England,Bulgaria,0,0,0,0,0,,1,10.95,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,10.0,1824.1,1543.7,280.4,0.899
+1962,1962-06-07,Chile,Santiago,Group Stage,Italy,Switzerland,3,0,0,0,0,Italy,0,10.95,0,Csa,Temperate,1,14.0,Cfb,Temperate,0,6.0,1692.5,1528.3,164.2,0.821
+1962,1962-06-07,Chile,Viña del Mar,Group Stage,Mexico,Czechoslovakia,3,1,0,0,0,Mexico,0,10.95,0,BSh,Arid,1,21.0,Dfb,Continental,0,8.0,1645.0,1856.1,-211.1,0.345
+1962,1962-06-07,Chile,Arica,Group Stage,Yugoslavia,Colombia,5,0,0,0,0,Yugoslavia,0,10.95,0,Cfb,Temperate,0,10.0,Af,Tropical,1,24.0,1906.0,1355.8,550.2,0.977
+1962,1962-06-10,Chile,Viña del Mar,Quarter-final,Brazil,England,3,1,0,0,0,Brazil,0,10.95,0,Am,Tropical,1,25.0,Cfb,Temperate,0,10.0,1978.9,1809.8,169.1,0.825
+1962,1962-06-10,Chile,Arica,Quarter-final,Chile,Soviet Union,2,1,0,0,0,Chile,0,10.95,0,BSk,Arid,1,9.0,Dfc,Continental,0,-2.0,1635.2,1836.7,-201.5,0.358
+1962,1962-06-10,Chile,Rancagua,Quarter-final,Czechoslovakia,Hungary,1,0,0,0,0,Czechoslovakia,0,10.95,0,Dfb,Continental,0,8.0,Cfb,Temperate,0,10.0,1779.0,1867.8,-88.8,0.516
+1962,1962-06-10,Chile,Santiago,Quarter-final,Yugoslavia,West Germany,1,0,0,0,0,Yugoslavia,0,10.95,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,9.0,1914.4,1836.7,77.7,0.736
+1962,1962-06-13,Chile,Santiago,Semi-final,Brazil,Chile,4,2,0,0,0,Brazil,0,10.95,0,Am,Tropical,1,25.0,BSk,Arid,1,9.0,1994.7,1680.9,313.8,0.915
+1962,1962-06-13,Chile,Viña del Mar,Semi-final,Czechoslovakia,Yugoslavia,3,1,0,0,0,Czechoslovakia,0,10.95,0,Dfb,Continental,0,8.0,Cfb,Temperate,0,10.0,1808.0,1942.8,-134.8,0.45
+1962,1962-06-16,Chile,Santiago,Third place play-off,Chile,Yugoslavia,1,0,0,0,0,Chile,0,10.95,0,BSk,Arid,1,9.0,Cfb,Temperate,0,10.0,1660.5,1893.3,-232.8,0.318
+1962,1962-06-17,Chile,Santiago,Final,Brazil,Czechoslovakia,3,1,0,0,0,Brazil,0,10.95,0,Am,Tropical,1,25.0,Dfb,Continental,0,8.0,2015.0,1857.5,157.5,0.815
+1966,1966-07-11,England,London,Group Stage,England,Uruguay,0,0,0,0,0,,1,14.4,0,Cfb,Temperate,0,10.0,Cfa,Temperate,1,16.0,1878.8,1707.2,171.6,0.827
+1966,1966-07-12,England,Liverpool,Group Stage,Brazil,Bulgaria,2,0,0,0,0,Brazil,0,14.4,0,Am,Tropical,1,25.0,Cfb,Temperate,0,10.0,1877.1,1685.6,191.5,0.843
+1966,1966-07-12,England,Middlesbrough,Group Stage,Soviet Union,North Korea,3,0,0,0,0,Soviet Union,0,14.4,0,Dfc,Continental,0,-2.0,Dwa,Continental,0,8.0,1836.7,1739.2,97.5,0.757
+1966,1966-07-12,England,Sheffield,Group Stage,West Germany,Switzerland,5,0,0,0,0,West Germany,0,14.4,0,Cfb,Temperate,0,9.0,Cfb,Temperate,0,6.0,1836.7,1512.2,324.5,0.92
+1966,1966-07-13,England,Birmingham,Group Stage,Argentina,Spain,2,1,0,0,0,Argentina,0,14.4,0,Cfa,Temperate,1,14.0,Csa,Temperate,1,14.0,1796.2,1743.5,52.7,0.707
+1966,1966-07-13,England,London,Group Stage,France,Mexico,1,1,0,0,0,,1,14.4,0,Cfb,Temperate,0,11.5,BSh,Arid,1,21.0,1594.8,1770.2,-175.4,0.393
+1966,1966-07-13,England,Sunderland,Group Stage,Italy,Chile,2,0,0,0,0,Italy,0,14.4,0,Csa,Temperate,1,14.0,BSk,Arid,1,9.0,1861.7,1624.0,237.7,0.875
+1966,1966-07-13,England,Manchester,Group Stage,Portugal,Hungary,3,1,0,0,0,Portugal,0,14.4,0,Csa,Temperate,1,15.0,Cfb,Temperate,0,10.0,1718.2,1818.2,-100.0,0.5
+1966,1966-07-15,England,Middlesbrough,Group Stage,Chile,North Korea,1,1,0,0,0,,1,14.4,0,BSk,Arid,1,9.0,Dwa,Continental,0,8.0,1596.0,1692.9,-96.9,0.504
+1966,1966-07-15,England,Liverpool,Group Stage,Hungary,Brazil,3,1,0,0,0,Hungary,0,14.4,0,Cfb,Temperate,0,10.0,Am,Tropical,1,25.0,1749.8,1891.2,-141.4,0.441
+1966,1966-07-15,England,Sheffield,Group Stage,Spain,Switzerland,2,1,0,0,0,Spain,0,14.4,0,Csa,Temperate,1,14.0,Cfb,Temperate,0,6.0,1725.9,1501.8,224.1,0.866
+1966,1966-07-15,England,London,Group Stage,Uruguay,France,2,1,0,0,0,Uruguay,0,14.4,0,Cfa,Temperate,1,16.0,Cfb,Temperate,0,11.5,1726.8,1601.3,125.6,0.786
+1966,1966-07-16,England,Birmingham,Group Stage,Argentina,West Germany,0,0,0,0,0,,1,14.4,0,Cfa,Temperate,1,14.0,Cfb,Temperate,0,9.0,1813.8,1836.7,-22.9,0.609
+1966,1966-07-16,England,London,Group Stage,England,Mexico,2,0,0,0,0,England,0,14.4,0,Cfb,Temperate,0,10.0,BSh,Arid,1,21.0,1859.2,1763.8,95.4,0.755
+1966,1966-07-16,England,Manchester,Group Stage,Portugal,Bulgaria,3,0,0,0,0,Portugal,0,14.4,0,Csa,Temperate,1,15.0,Cfb,Temperate,0,10.0,1786.5,1671.4,115.1,0.775
+1966,1966-07-16,England,Sunderland,Group Stage,Soviet Union,Italy,1,0,0,0,0,Soviet Union,0,14.4,0,Dfc,Continental,0,-2.0,Csa,Temperate,1,14.0,1836.7,1889.8,-53.1,0.567
+1966,1966-07-19,England,Sheffield,Group Stage,Argentina,Switzerland,2,0,0,0,0,Argentina,0,14.4,0,Cfa,Temperate,1,14.0,Cfb,Temperate,0,6.0,1806.9,1493.8,313.1,0.915
+1966,1966-07-19,England,London,Group Stage,Mexico,Uruguay,0,0,0,0,0,,1,14.4,0,BSh,Arid,1,21.0,Cfa,Temperate,1,16.0,1741.8,1754.6,-12.9,0.623
+1966,1966-07-19,England,Middlesbrough,Group Stage,North Korea,Italy,1,0,0,0,0,North Korea,0,14.4,0,Dwa,Continental,0,8.0,Csa,Temperate,1,14.0,1693.2,1854.4,-161.2,0.413
+1966,1966-07-19,England,Liverpool,Group Stage,Portugal,Brazil,3,1,0,0,0,Portugal,0,14.4,0,Csa,Temperate,1,15.0,Am,Tropical,1,25.0,1836.8,1819.2,17.6,0.663
+1966,1966-07-20,England,London,Group Stage,England,France,2,0,0,0,0,England,0,14.4,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,11.5,1881.3,1573.5,307.8,0.913
+1966,1966-07-20,England,Manchester,Group Stage,Hungary,Bulgaria,3,1,0,0,0,Hungary,0,14.4,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,10.0,1821.9,1621.2,200.7,0.85
+1966,1966-07-20,England,Sunderland,Group Stage,Soviet Union,Chile,2,1,0,0,0,Soviet Union,0,14.4,0,Dfc,Continental,0,-2.0,BSk,Arid,1,9.0,1836.7,1595.7,241.0,0.877
+1966,1966-07-20,England,Birmingham,Group Stage,West Germany,Spain,2,1,0,0,0,West Germany,0,14.4,0,Cfb,Temperate,0,9.0,Csa,Temperate,1,14.0,1836.7,1734.0,102.7,0.763
+1966,1966-07-23,England,London,Quarter-final,England,Argentina,1,0,0,0,0,England,0,14.4,0,Cfb,Temperate,0,10.0,Cfa,Temperate,1,14.0,1889.1,1814.5,74.6,0.732
+1966,1966-07-23,England,Liverpool,Quarter-final,Portugal,North Korea,5,3,0,0,0,Portugal,0,14.4,0,Csa,Temperate,1,15.0,Dwa,Continental,0,8.0,1892.2,1742.3,150.0,0.808
+1966,1966-07-23,England,Sunderland,Quarter-final,Soviet Union,Hungary,2,1,0,0,0,Soviet Union,0,14.4,0,Dfc,Continental,0,-2.0,Cfb,Temperate,0,10.0,1836.7,1854.2,-17.5,0.617
+1966,1966-07-23,England,Sheffield,Quarter-final,West Germany,Uruguay,4,0,0,0,0,West Germany,0,14.4,0,Cfb,Temperate,0,9.0,Cfa,Temperate,1,16.0,1836.7,1762.0,74.7,0.732
+1966,1966-07-25,England,Liverpool,Semi-final,West Germany,Soviet Union,2,1,0,0,0,West Germany,0,14.4,0,Cfb,Temperate,0,9.0,Dfc,Continental,0,-2.0,1836.7,1836.7,0.0,0.64
+1966,1966-07-26,England,London,Semi-final,England,Portugal,2,1,0,0,0,England,0,14.4,0,Cfb,Temperate,0,10.0,Csa,Temperate,1,15.0,1905.2,1930.8,-25.6,0.605
+1966,1966-07-28,England,London,Third place play-off,Portugal,Soviet Union,2,1,0,0,0,Portugal,0,14.4,0,Csa,Temperate,1,15.0,Dfc,Continental,0,-2.0,1907.1,1836.7,70.4,0.727
+1966,1966-07-30,England,London,Final,England,West Germany,4,2,0,0,0,England,0,14.4,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,9.0,1928.9,1836.7,92.2,0.751
+1970,1970-05-31,Mexico,Mexico City,Group Stage,Mexico,Soviet Union,0,0,0,0,0,,1,19.3,1,BSh,Arid,1,21.0,Dfc,Continental,0,-2.0,1635.9,1836.7,-200.8,0.359
+1970,1970-06-02,Mexico,Guadalajara,Group Stage,England,Romania,1,0,0,0,0,England,0,19.3,1,Cfb,Temperate,0,10.0,Dfb,Continental,0,9.0,1938.9,1673.1,265.8,0.891
+1970,1970-06-02,Mexico,León,Group Stage,Peru,Bulgaria,3,2,0,0,0,Peru,0,19.3,1,BWh,Arid,1,20.0,Cfb,Temperate,0,10.0,1600.1,1699.8,-99.7,0.5
+1970,1970-06-02,Mexico,Puebla,Group Stage,Uruguay,Israel,2,0,0,0,0,Uruguay,0,19.3,1,Cfa,Temperate,1,16.0,Csa,Temperate,1,20.0,1719.2,1579.8,139.4,0.799
+1970,1970-06-03,Mexico,Mexico City,Group Stage,Belgium,El Salvador,3,0,0,0,0,Belgium,0,19.3,1,Cfb,Temperate,0,10.0,Aw,Tropical,1,25.0,1649.6,1538.5,111.1,0.771
+1970,1970-06-03,Mexico,Guadalajara,Group Stage,Brazil,Czechoslovakia,4,1,0,0,0,Brazil,0,19.3,1,Am,Tropical,1,25.0,Dfb,Continental,0,8.0,1894.6,1821.2,73.4,0.731
+1970,1970-06-03,Mexico,Toluca,Group Stage,Italy,Sweden,1,0,0,0,0,Italy,0,19.3,1,Csa,Temperate,1,14.0,Dfc,Continental,0,3.0,1903.6,1753.3,150.3,0.809
+1970,1970-06-03,Mexico,León,Group Stage,West Germany,Morocco,2,1,0,0,0,West Germany,0,19.3,1,Cfb,Temperate,0,9.0,Csa,Temperate,1,17.0,1836.7,1614.6,222.1,0.865
+1970,1970-06-06,Mexico,León,Group Stage,Peru,Morocco,3,0,0,0,0,Peru,0,19.3,1,BWh,Arid,1,20.0,Csa,Temperate,1,17.0,1645.7,1606.8,38.8,0.69
+1970,1970-06-06,Mexico,Guadalajara,Group Stage,Romania,Czechoslovakia,2,1,0,0,0,Romania,0,19.3,1,Dfb,Continental,0,9.0,Dfb,Continental,0,8.0,1666.6,1792.9,-126.3,0.462
+1970,1970-06-06,Mexico,Mexico City,Group Stage,Soviet Union,Belgium,4,1,0,0,0,Soviet Union,0,19.3,1,Dfc,Continental,0,-2.0,Cfb,Temperate,0,10.0,1836.7,1673.7,163.0,0.82
+1970,1970-06-06,Mexico,Puebla,Group Stage,Uruguay,Italy,0,0,0,0,0,,1,19.3,1,Cfa,Temperate,1,16.0,Csa,Temperate,1,14.0,1759.1,1915.1,-156.0,0.42
+1970,1970-06-07,Mexico,Guadalajara,Group Stage,Brazil,England,1,0,0,0,0,Brazil,0,19.3,1,Am,Tropical,1,25.0,Cfb,Temperate,0,10.0,1922.8,1945.4,-22.6,0.61
+1970,1970-06-07,Mexico,Mexico City,Group Stage,Mexico,El Salvador,4,0,0,0,0,Mexico,0,19.3,1,BSh,Arid,1,21.0,Aw,Tropical,1,25.0,1648.0,1514.5,133.5,0.793
+1970,1970-06-07,Mexico,Toluca,Group Stage,Sweden,Israel,1,1,0,0,0,,1,19.3,1,Dfc,Continental,0,3.0,Csa,Temperate,1,20.0,1741.8,1539.9,201.9,0.85
+1970,1970-06-07,Mexico,León,Group Stage,West Germany,Bulgaria,5,2,0,0,0,West Germany,0,19.3,1,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,1836.7,1654.3,182.4,0.836
+1970,1970-06-10,Mexico,Guadalajara,Group Stage,Brazil,Romania,3,2,0,0,0,Brazil,0,19.3,1,Am,Tropical,1,25.0,Dfb,Continental,0,9.0,1946.3,1713.8,232.5,0.871
+1970,1970-06-10,Mexico,Mexico City,Group Stage,Soviet Union,El Salvador,2,0,0,0,0,Soviet Union,0,19.3,1,Dfc,Continental,0,-2.0,Aw,Tropical,1,25.0,1836.7,1491.2,345.5,0.929
+1970,1970-06-10,Mexico,Puebla,Group Stage,Sweden,Uruguay,1,0,0,0,0,Sweden,0,19.3,1,Dfc,Continental,0,3.0,Cfa,Temperate,1,16.0,1733.2,1777.9,-44.7,0.579
+1970,1970-06-10,Mexico,León,Group Stage,West Germany,Peru,3,1,0,0,0,West Germany,0,19.3,1,Cfb,Temperate,0,9.0,BWh,Arid,1,20.0,1836.7,1707.3,129.4,0.789
+1970,1970-06-11,Mexico,León,Group Stage,Bulgaria,Morocco,1,1,0,0,0,,1,19.3,1,Cfb,Temperate,0,10.0,Csa,Temperate,1,17.0,1616.2,1545.2,71.0,0.728
+1970,1970-06-11,Mexico,Guadalajara,Group Stage,England,Czechoslovakia,1,0,0,0,0,England,0,19.3,1,Cfb,Temperate,0,10.0,Dfb,Continental,0,8.0,1922.0,1745.7,176.3,0.831
+1970,1970-06-11,Mexico,Toluca,Group Stage,Italy,Israel,0,0,0,0,0,,1,19.3,1,Csa,Temperate,1,14.0,Csa,Temperate,1,20.0,1896.3,1548.4,347.8,0.929
+1970,1970-06-11,Mexico,Mexico City,Group Stage,Mexico,Belgium,1,0,0,0,0,Mexico,0,19.3,1,BSh,Arid,1,21.0,Cfb,Temperate,0,10.0,1671.3,1635.7,35.6,0.686
+1970,1970-06-14,Mexico,Guadalajara,Quarter-final,Brazil,Peru,4,2,0,0,0,Brazil,0,19.3,1,Am,Tropical,1,25.0,BWh,Arid,1,20.0,1954.0,1692.6,261.4,0.889
+1970,1970-06-14,Mexico,Toluca,Quarter-final,Italy,Mexico,4,1,0,0,0,Italy,0,19.3,1,Csa,Temperate,1,14.0,BSh,Arid,1,21.0,1877.9,1690.1,187.8,0.84
+1970,1970-06-14,Mexico,Mexico City,Quarter-final,Soviet Union,Uruguay,0,1,0,0,0,Uruguay,0,19.3,1,Dfc,Continental,0,-2.0,Cfa,Temperate,1,16.0,1836.7,1752.7,84.0,0.743
+1970,1970-06-14,Mexico,León,Quarter-final,West Germany,England,3,2,0,0,0,West Germany,0,19.3,1,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,1836.7,1945.5,-108.8,0.487
+1970,1970-06-17,Mexico,Guadalajara [ a ],Semi-final,Brazil,Uruguay,3,1,0,0,0,Brazil,0,19.3,1,Am,Tropical,1,25.0,Cfa,Temperate,1,16.0,1964.0,1802.2,161.8,0.819
+1970,1970-06-17,Mexico,Mexico City,Semi-final,Italy,West Germany,4,3,0,0,0,Italy,0,19.3,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,9.0,1917.4,1836.7,80.7,0.739
+1970,1970-06-20,Mexico,Mexico City,Third place play-off,West Germany,Uruguay,1,0,0,0,0,West Germany,0,19.3,1,Cfb,Temperate,0,9.0,Cfa,Temperate,1,16.0,1836.7,1785.9,50.8,0.704
+1970,1970-06-21,Mexico,Mexico City,Final,Brazil,Italy,4,1,0,0,0,Brazil,0,19.3,1,Am,Tropical,1,25.0,Csa,Temperate,1,14.0,1980.3,1958.1,22.2,0.669
+1974,1974-06-13,West Germany,Frankfurt,Group Stage,Brazil,Yugoslavia,0,0,0,0,0,,1,16.322222222222223,0,Am,Tropical,1,25.0,Cfb,Temperate,0,10.0,1970.0,1817.2,152.7,0.811
+1974,1974-06-14,West Germany,Hamburg,Group Stage,East Germany,Australia,2,0,0,0,0,East Germany,0,16.322222222222223,0,Cfb,Temperate,0,9.0,BWh,Arid,1,22.0,1836.7,1683.8,152.9,0.811
+1974,1974-06-14,West Germany,West Berlin,Group Stage,West Germany,Chile,1,0,0,0,0,West Germany,0,16.322222222222223,0,Cfb,Temperate,0,9.0,BSk,Arid,1,9.0,1836.7,1710.0,126.7,0.787
+1974,1974-06-14,West Germany,Dortmund,Group Stage,Zaire,Scotland,0,2,0,0,0,Scotland,0,16.322222222222223,0,Am,Tropical,1,24.0,Cfb,Temperate,0,7.0,1799.1,1676.9,122.2,0.782
+1974,1974-06-15,West Germany,Munich,Group Stage,Italy,Haiti,3,1,0,0,0,Italy,0,16.322222222222223,0,Csa,Temperate,1,14.0,Aw,Tropical,1,25.0,1909.9,1562.0,347.9,0.929
+1974,1974-06-15,West Germany,Stuttgart,Group Stage,Poland,Argentina,3,2,0,0,0,Poland,0,16.322222222222223,0,Dfb,Continental,0,8.0,Cfa,Temperate,1,14.0,1802.9,1778.2,24.7,0.672
+1974,1974-06-15,West Germany,Düsseldorf,Group Stage,Sweden,Bulgaria,0,0,0,0,0,,1,16.322222222222223,0,Dfc,Continental,0,3.0,Cfb,Temperate,0,10.0,1779.7,1751.2,28.6,0.677
+1974,1974-06-15,West Germany,Hanover,Group Stage,Uruguay,Netherlands,0,2,0,0,0,Netherlands,0,16.322222222222223,0,Cfa,Temperate,1,16.0,Cfb,Temperate,0,10.0,1691.6,1765.1,-73.5,0.538
+1974,1974-06-18,West Germany,Hamburg,Group Stage,Australia,West Germany,0,3,0,0,0,West Germany,0,16.322222222222223,0,BWh,Arid,1,22.0,Cfb,Temperate,0,9.0,1669.8,1836.7,-166.9,0.405
+1974,1974-06-18,West Germany,West Berlin,Group Stage,Chile,East Germany,1,1,0,0,0,,1,16.322222222222223,0,BSk,Arid,1,9.0,Cfb,Temperate,0,9.0,1704.0,1836.7,-132.7,0.453
+1974,1974-06-18,West Germany,Frankfurt,Group Stage,Scotland,Brazil,0,0,0,0,0,,1,16.322222222222223,0,Cfb,Temperate,0,7.0,Am,Tropical,1,25.0,1747.3,1951.3,-204.0,0.355
+1974,1974-06-18,West Germany,Gelsenkirchen,Group Stage,Yugoslavia,Zaire,9,0,0,0,0,Yugoslavia,0,16.322222222222223,0,Cfb,Temperate,0,10.0,Am,Tropical,1,24.0,1835.9,1728.7,107.2,0.767
+1974,1974-06-19,West Germany,Stuttgart,Group Stage,Argentina,Italy,1,1,0,0,0,,1,16.322222222222223,0,Cfa,Temperate,1,14.0,Csa,Temperate,1,14.0,1758.5,1916.3,-157.7,0.418
+1974,1974-06-19,West Germany,Hanover,Group Stage,Bulgaria,Uruguay,1,1,0,0,0,,1,16.322222222222223,0,Cfb,Temperate,0,10.0,Cfa,Temperate,1,16.0,1761.8,1643.1,118.7,0.779
+1974,1974-06-19,West Germany,Munich,Group Stage,Haiti,Poland,0,7,0,0,0,Poland,0,16.322222222222223,0,Aw,Tropical,1,25.0,Dfb,Continental,0,8.0,1555.7,1822.5,-266.9,0.277
+1974,1974-06-19,West Germany,Dortmund,Group Stage,Netherlands,Sweden,0,0,0,0,0,,1,16.322222222222223,0,Cfb,Temperate,0,10.0,Dfc,Continental,0,3.0,1813.5,1769.1,44.4,0.697
+1974,1974-06-22,West Germany,West Berlin,Group Stage,Australia,Chile,0,0,0,0,0,,1,16.322222222222223,0,BWh,Arid,1,22.0,BSk,Arid,1,9.0,1661.5,1711.4,-49.9,0.572
+1974,1974-06-22,West Germany,Hamburg,Group Stage,East Germany,West Germany,1,0,0,0,0,East Germany,0,16.322222222222223,0,Cfb,Temperate,0,9.0,Cfb,Temperate,0,9.0,1836.7,1836.7,0.0,0.64
+1974,1974-06-22,West Germany,Frankfurt,Group Stage,Scotland,Yugoslavia,1,1,0,0,0,,1,16.322222222222223,0,Cfb,Temperate,0,7.0,Cfb,Temperate,0,10.0,1756.0,1870.8,-114.8,0.479
+1974,1974-06-22,West Germany,Gelsenkirchen,Group Stage,Zaire,Brazil,0,3,0,0,0,Brazil,0,16.322222222222223,0,Am,Tropical,1,24.0,Am,Tropical,1,25.0,1693.8,1942.6,-248.8,0.298
+1974,1974-06-23,West Germany,Munich,Group Stage,Argentina,Haiti,4,1,0,0,0,Argentina,0,16.322222222222223,0,Cfa,Temperate,1,14.0,Aw,Tropical,1,25.0,1763.5,1518.3,245.2,0.879
+1974,1974-06-23,West Germany,Dortmund,Group Stage,Bulgaria,Netherlands,1,4,0,0,0,Netherlands,0,16.322222222222223,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,10.0,1745.1,1801.7,-56.6,0.562
+1974,1974-06-23,West Germany,Stuttgart,Group Stage,Poland,Italy,2,1,0,0,0,Poland,0,16.322222222222223,0,Dfb,Continental,0,8.0,Csa,Temperate,1,14.0,1859.9,1911.3,-51.4,0.569
+1974,1974-06-23,West Germany,Düsseldorf,Group Stage,Sweden,Uruguay,3,0,0,0,0,Sweden,0,16.322222222222223,0,Dfc,Continental,0,3.0,Cfa,Temperate,1,16.0,1780.9,1659.9,121.1,0.781
+1974,1974-06-26,West Germany,Hanover,Group Stage,Brazil,East Germany,1,0,0,0,0,Brazil,0,16.322222222222223,0,Am,Tropical,1,25.0,Cfb,Temperate,0,9.0,1973.9,1836.7,137.2,0.797
+1974,1974-06-26,West Germany,Gelsenkirchen,Group Stage,Netherlands,Argentina,4,0,0,0,0,Netherlands,0,16.322222222222223,0,Cfb,Temperate,0,10.0,Cfa,Temperate,1,14.0,1860.7,1776.1,84.6,0.743
+1974,1974-06-26,West Germany,Stuttgart,Group Stage,Sweden,Poland,0,1,0,0,0,Poland,0,16.322222222222223,0,Dfc,Continental,0,3.0,Dfb,Continental,0,8.0,1803.9,1885.7,-81.8,0.526
+1974,1974-06-26,West Germany,Düsseldorf,Group Stage,Yugoslavia,West Germany,0,2,0,0,0,West Germany,0,16.322222222222223,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,9.0,1869.5,1836.7,32.8,0.682
+1974,1974-06-30,West Germany,Hanover,Group Stage,Argentina,Brazil,1,2,0,0,0,Brazil,0,16.322222222222223,0,Cfa,Temperate,1,14.0,Am,Tropical,1,25.0,1747.2,1992.2,-245.0,0.303
+1974,1974-06-30,West Germany,Gelsenkirchen,Group Stage,East Germany,Netherlands,0,2,0,0,0,Netherlands,0,16.322222222222223,0,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,1836.7,1889.6,-52.9,0.567
+1974,1974-06-30,West Germany,Frankfurt,Group Stage,Poland,Yugoslavia,2,1,0,0,0,Poland,0,16.322222222222223,0,Dfb,Continental,0,8.0,Cfb,Temperate,0,10.0,1917.3,1846.7,70.6,0.728
+1974,1974-06-30,West Germany,Düsseldorf,Group Stage,West Germany,Sweden,4,2,0,0,0,West Germany,0,16.322222222222223,0,Cfb,Temperate,0,9.0,Dfc,Continental,0,3.0,1836.7,1772.3,64.4,0.72
+1974,1974-07-03,West Germany,Gelsenkirchen,Group Stage,Argentina,East Germany,1,1,0,0,0,,1,16.322222222222223,0,Cfa,Temperate,1,14.0,Cfb,Temperate,0,9.0,1729.1,1836.7,-107.6,0.489
+1974,1974-07-03,West Germany,Dortmund,Group Stage,Netherlands,Brazil,2,0,0,0,0,Netherlands,0,16.322222222222223,0,Cfb,Temperate,0,10.0,Am,Tropical,1,25.0,1949.9,2010.4,-60.5,0.557
+1974,1974-07-03,West Germany,Frankfurt,Group Stage,Poland,West Germany,0,1,0,0,0,West Germany,0,16.322222222222223,0,Dfb,Continental,0,8.0,Cfb,Temperate,0,9.0,1933.7,1836.7,97.0,0.757
+1974,1974-07-03,West Germany,Düsseldorf,Group Stage,Sweden,Yugoslavia,2,1,0,0,0,Sweden,0,16.322222222222223,0,Dfc,Continental,0,3.0,Cfb,Temperate,0,10.0,1759.2,1830.4,-71.1,0.541
+1974,1974-07-06,West Germany,Munich,Third place play-off,Brazil,Poland,0,1,0,0,0,Poland,0,16.322222222222223,0,Am,Tropical,1,25.0,Dfb,Continental,0,8.0,1970.5,1916.5,54.0,0.708
+1974,1974-07-07,West Germany,Munich,Final,Netherlands,West Germany,1,2,0,0,0,West Germany,0,16.322222222222223,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,9.0,1989.8,1836.7,153.1,0.811
+1978,1978-06-01,Argentina,Buenos Aires,Group Stage,West Germany,Poland,0,0,0,0,0,,1,8.98,0,Cfb,Temperate,0,9.0,Dfb,Continental,0,8.0,1836.7,1819.2,17.5,0.663
+1978,1978-06-02,Argentina,Buenos Aires,Group Stage,Argentina,Hungary,2,1,0,0,0,Argentina,0,8.98,0,Cfa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1838.5,1836.1,2.4,0.643
+1978,1978-06-02,Argentina,Mar del Plata,Group Stage,Italy,France,2,1,0,0,0,Italy,0,8.98,0,Csa,Temperate,1,14.0,Cfb,Temperate,0,11.5,1845.4,1836.8,8.6,0.651
+1978,1978-06-02,Argentina,Rosario,Group Stage,Tunisia,Mexico,3,1,0,0,0,Tunisia,0,8.98,0,BWh,Arid,1,19.0,BSh,Arid,1,21.0,1696.4,1710.6,-14.2,0.621
+1978,1978-06-03,Argentina,Buenos Aires,Group Stage,Austria,Spain,2,1,0,0,0,Austria,0,8.98,0,Dfb,Continental,0,7.0,Csa,Temperate,1,14.0,1762.9,1871.1,-108.1,0.488
+1978,1978-06-03,Argentina,Mar del Plata,Group Stage,Brazil,Sweden,1,1,0,0,0,,1,8.98,0,Am,Tropical,1,25.0,Dfc,Continental,0,3.0,1987.9,1693.3,294.7,0.906
+1978,1978-06-03,Argentina,Mendoza,Group Stage,Netherlands,Iran,3,0,0,0,0,Netherlands,0,8.98,0,Cfb,Temperate,0,10.0,BWh,Arid,1,18.0,2033.0,1760.3,272.7,0.895
+1978,1978-06-03,Argentina,Córdoba,Group Stage,Peru,Scotland,3,1,0,0,0,Peru,0,8.98,0,BWh,Arid,1,20.0,Cfb,Temperate,0,7.0,1644.7,1845.8,-201.1,0.358
+1978,1978-06-06,Argentina,Buenos Aires,Group Stage,Argentina,France,2,1,0,0,0,Argentina,0,8.98,0,Cfa,Temperate,1,14.0,Cfb,Temperate,0,11.5,1859.9,1799.1,60.8,0.716
+1978,1978-06-06,Argentina,Mar del Plata,Group Stage,Italy,Hungary,3,1,0,0,0,Italy,0,8.98,0,Csa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1883.1,1814.7,68.4,0.725
+1978,1978-06-06,Argentina,Rosario,Group Stage,Poland,Tunisia,1,0,0,0,0,Poland,0,8.98,0,Dfb,Continental,0,8.0,BWh,Arid,1,19.0,1838.4,1755.6,82.7,0.741
+1978,1978-06-06,Argentina,Córdoba,Group Stage,West Germany,Mexico,6,0,0,0,0,West Germany,0,8.98,0,Cfb,Temperate,0,9.0,BSh,Arid,1,21.0,1836.7,1651.3,185.4,0.838
+1978,1978-06-07,Argentina,Buenos Aires,Group Stage,Austria,Sweden,1,0,0,0,0,Austria,0,8.98,0,Dfb,Continental,0,7.0,Dfc,Continental,0,3.0,1793.6,1717.7,76.0,0.734
+1978,1978-06-07,Argentina,Mar del Plata,Group Stage,Brazil,Spain,0,0,0,0,0,,1,8.98,0,Am,Tropical,1,25.0,Csa,Temperate,1,14.0,1963.6,1840.4,123.2,0.783
+1978,1978-06-07,Argentina,Mendoza,Group Stage,Netherlands,Peru,0,0,0,0,0,,1,8.98,0,Cfb,Temperate,0,10.0,BWh,Arid,1,20.0,2061.4,1702.5,358.9,0.933
+1978,1978-06-07,Argentina,Córdoba,Group Stage,Scotland,Iran,1,1,0,0,0,,1,8.98,0,Cfb,Temperate,0,7.0,BWh,Arid,1,18.0,1788.1,1731.9,56.2,0.711
+1978,1978-06-10,Argentina,Buenos Aires,Group Stage,Argentina,Italy,0,1,0,0,0,Italy,0,8.98,0,Cfa,Temperate,1,14.0,Csa,Temperate,1,14.0,1877.0,1932.2,-55.2,0.564
+1978,1978-06-10,Argentina,Mar del Plata,Group Stage,France,Hungary,3,1,0,0,0,France,0,8.98,0,Cfb,Temperate,0,11.5,Cfb,Temperate,0,10.0,1782.1,1765.7,16.4,0.662
+1978,1978-06-10,Argentina,Rosario,Group Stage,Poland,Mexico,3,1,0,0,0,Poland,0,8.98,0,Dfb,Continental,0,8.0,BSh,Arid,1,21.0,1853.9,1640.4,213.5,0.859
+1978,1978-06-10,Argentina,Córdoba,Group Stage,West Germany,Tunisia,0,0,0,0,0,,1,8.98,0,Cfb,Temperate,0,9.0,BWh,Arid,1,19.0,1836.7,1740.1,96.6,0.756
+1978,1978-06-11,Argentina,Mar del Plata,Group Stage,Brazil,Austria,1,0,0,0,0,Brazil,0,8.98,0,Am,Tropical,1,25.0,Dfb,Continental,0,7.0,1946.6,1809.6,136.9,0.796
+1978,1978-06-11,Argentina,Córdoba,Group Stage,Peru,Iran,4,1,0,0,0,Peru,0,8.98,0,BWh,Arid,1,20.0,BWh,Arid,1,18.0,1728.5,1728.2,0.3,0.64
+1978,1978-06-11,Argentina,Mendoza,Group Stage,Scotland,Netherlands,3,2,0,0,0,Scotland,0,8.98,0,Cfb,Temperate,0,7.0,Cfb,Temperate,0,10.0,1791.9,2035.4,-243.5,0.304
+1978,1978-06-11,Argentina,Buenos Aires,Group Stage,Spain,Sweden,1,0,0,0,0,Spain,0,8.98,0,Csa,Temperate,1,14.0,Dfc,Continental,0,3.0,1857.4,1701.7,155.7,0.813
+1978,1978-06-14,Argentina,Rosario,Group Stage,Argentina,Poland,2,0,0,0,0,Argentina,0,8.98,0,Cfa,Temperate,1,14.0,Dfb,Continental,0,8.0,1843.1,1884.7,-41.6,0.583
+1978,1978-06-14,Argentina,Córdoba,Group Stage,Austria,Netherlands,1,5,0,0,0,Netherlands,0,8.98,0,Dfb,Continental,0,7.0,Cfb,Temperate,0,10.0,1782.8,1982.7,-199.9,0.36
+1978,1978-06-14,Argentina,Mendoza,Group Stage,Brazil,Peru,3,0,0,0,0,Brazil,0,8.98,0,Am,Tropical,1,25.0,BWh,Arid,1,20.0,1973.4,1795.7,177.7,0.832
+1978,1978-06-14,Argentina,Buenos Aires,Group Stage,Italy,West Germany,0,0,0,0,0,,1,8.98,0,Csa,Temperate,1,14.0,Cfb,Temperate,0,9.0,1966.0,1836.7,129.3,0.789
+1978,1978-06-18,Argentina,Rosario,Group Stage,Argentina,Brazil,0,0,0,0,0,,1,8.98,0,Cfa,Temperate,1,14.0,Am,Tropical,1,25.0,1880.6,1991.0,-110.4,0.485
+1978,1978-06-18,Argentina,Buenos Aires,Group Stage,Italy,Austria,1,0,0,0,0,Italy,0,8.98,0,Csa,Temperate,1,14.0,Dfb,Continental,0,7.0,1973.3,1742.3,231.0,0.871
+1978,1978-06-18,Argentina,Córdoba,Group Stage,Netherlands,West Germany,2,2,0,0,0,,1,8.98,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,9.0,2023.2,1836.7,186.5,0.839
+1978,1978-06-18,Argentina,Mendoza,Group Stage,Peru,Poland,0,1,0,0,0,Poland,0,8.98,0,BWh,Arid,1,20.0,Dfb,Continental,0,8.0,1778.0,1847.2,-69.2,0.544
+1978,1978-06-21,Argentina,Rosario,Group Stage,Argentina,Peru,6,0,0,0,0,Argentina,0,8.98,0,Cfa,Temperate,1,14.0,BWh,Arid,1,20.0,1881.5,1745.3,136.2,0.796
+1978,1978-06-21,Argentina,Córdoba,Group Stage,Austria,West Germany,3,2,0,0,0,Austria,0,8.98,0,Dfb,Continental,0,7.0,Cfb,Temperate,0,9.0,1723.1,1836.7,-113.6,0.48
+1978,1978-06-21,Argentina,Mendoza,Group Stage,Brazil,Poland,3,1,0,0,0,Brazil,0,8.98,0,Am,Tropical,1,25.0,Dfb,Continental,0,8.0,1990.1,1879.9,110.3,0.77
+1978,1978-06-21,Argentina,Buenos Aires,Group Stage,Italy,Netherlands,1,2,0,0,0,Netherlands,0,8.98,0,Csa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1992.5,2025.0,-32.5,0.596
+1978,1978-06-24,Argentina,Buenos Aires,Third place play-off,Brazil,Italy,2,1,0,0,0,Brazil,0,8.98,0,Am,Tropical,1,25.0,Csa,Temperate,1,14.0,2010.8,1956.8,54.0,0.708
+1978,1978-06-25,Argentina,Buenos Aires,Final,Argentina,Netherlands,3,1,0,0,0,Argentina,0,8.98,0,Cfa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1907.6,2060.8,-153.2,0.424
+1982,1982-06-13,Spain,Barcelona,Group Stage,Argentina,Belgium,0,1,0,0,0,Belgium,0,21.97142857142857,1,Cfa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1899.6,1817.3,82.4,0.741
+1982,1982-06-14,Spain,Seville,Group Stage,Brazil,Soviet Union,2,1,0,0,0,Brazil,0,21.97142857142857,1,Am,Tropical,1,25.0,Dfc,Continental,0,-2.0,2013.1,1836.7,176.5,0.831
+1982,1982-06-14,Spain,Vigo,Group Stage,Italy,Poland,0,0,0,0,0,,1,21.97142857142857,1,Csa,Temperate,1,14.0,Dfb,Continental,0,8.0,1815.6,1855.2,-39.6,0.586
+1982,1982-06-15,Spain,Elche,Group Stage,Hungary,El Salvador,10,1,0,0,0,Hungary,0,21.97142857142857,1,Cfb,Temperate,0,10.0,Aw,Tropical,1,25.0,1741.0,1604.7,136.3,0.796
+1982,1982-06-15,Spain,A Coruña,Group Stage,Peru,Cameroon,0,0,0,0,0,,1,21.97142857142857,1,BWh,Arid,1,20.0,Am,Tropical,1,24.0,1695.4,1692.3,3.2,0.644
+1982,1982-06-15,Spain,Málaga,Group Stage,Scotland,New Zealand,5,2,0,0,0,Scotland,0,21.97142857142857,1,Cfb,Temperate,0,7.0,Cfb,Temperate,0,11.0,1744.3,1702.4,41.9,0.694
+1982,1982-06-16,Spain,Bilbao,Group Stage,England,France,3,1,0,0,0,England,0,21.97142857142857,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,11.5,1878.4,1789.3,89.1,0.748
+1982,1982-06-16,Spain,Valencia,Group Stage,Spain,Honduras,1,1,0,0,0,,1,21.97142857142857,1,Csa,Temperate,1,14.0,Am,Tropical,1,24.0,1796.5,1600.8,195.7,0.846
+1982,1982-06-16,Spain,Gijón,Group Stage,West Germany,Algeria,1,2,0,0,0,Algeria,0,21.97142857142857,1,Cfb,Temperate,0,9.0,BWh,Arid,1,22.0,1836.7,1666.7,170.0,0.826
+1982,1982-06-17,Spain,Oviedo,Group Stage,Chile,Austria,0,1,0,0,0,Austria,0,21.97142857142857,1,BSk,Arid,1,9.0,Dfb,Continental,0,7.0,1688.2,1835.6,-147.4,0.432
+1982,1982-06-17,Spain,Valladolid,Group Stage,Czechoslovakia,Kuwait,1,1,0,0,0,,1,21.97142857142857,1,Dfb,Continental,0,8.0,BWh,Arid,1,26.0,1810.7,1716.3,94.4,0.754
+1982,1982-06-17,Spain,Zaragoza,Group Stage,Yugoslavia,Northern Ireland,0,0,0,0,0,,1,21.97142857142857,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,9.0,1849.3,1658.3,191.0,0.842
+1982,1982-06-18,Spain,Alicante,Group Stage,Argentina,Hungary,4,1,0,0,0,Argentina,0,21.97142857142857,1,Cfa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1855.2,1771.6,83.6,0.742
+1982,1982-06-18,Spain,Seville,Group Stage,Brazil,Scotland,4,1,0,0,0,Brazil,0,21.97142857142857,1,Am,Tropical,1,25.0,Cfb,Temperate,0,7.0,2030.1,1776.5,253.6,0.884
+1982,1982-06-18,Spain,Vigo,Group Stage,Italy,Peru,1,1,0,0,0,,1,21.97142857142857,1,Csa,Temperate,1,14.0,BWh,Arid,1,20.0,1810.5,1686.8,123.7,0.784
+1982,1982-06-19,Spain,Elche,Group Stage,Belgium,El Salvador,1,0,0,0,0,Belgium,0,21.97142857142857,1,Cfb,Temperate,0,10.0,Aw,Tropical,1,25.0,1861.7,1574.0,287.7,0.903
+1982,1982-06-19,Spain,A Coruña,Group Stage,Poland,Cameroon,0,0,0,0,0,,1,21.97142857142857,1,Dfb,Continental,0,8.0,Am,Tropical,1,24.0,1860.4,1700.9,159.5,0.817
+1982,1982-06-19,Spain,Málaga,Group Stage,Soviet Union,New Zealand,3,0,0,0,0,Soviet Union,0,21.97142857142857,1,Dfc,Continental,0,-2.0,Cfb,Temperate,0,11.0,1836.7,1670.2,166.5,0.823
+1982,1982-06-20,Spain,Bilbao,Group Stage,England,Czechoslovakia,2,0,0,0,0,England,0,21.97142857142857,1,Cfb,Temperate,0,10.0,Dfb,Continental,0,8.0,1901.1,1795.5,105.7,0.766
+1982,1982-06-20,Spain,Valencia,Group Stage,Spain,Yugoslavia,2,1,0,0,0,Spain,0,21.97142857142857,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1775.8,1828.8,-53.0,0.567
+1982,1982-06-20,Spain,Gijón,Group Stage,West Germany,Chile,4,1,0,0,0,West Germany,0,21.97142857142857,1,Cfb,Temperate,0,9.0,BSk,Arid,1,9.0,1836.7,1662.3,174.4,0.829
+1982,1982-06-21,Spain,Oviedo,Group Stage,Algeria,Austria,0,2,0,0,0,Austria,0,21.97142857142857,1,BWh,Arid,1,22.0,Dfb,Continental,0,7.0,1723.1,1861.6,-138.5,0.445
+1982,1982-06-21,Spain,Valladolid,Group Stage,France,Kuwait,4,1,0,0,0,France,0,21.97142857142857,1,Cfb,Temperate,0,11.5,BWh,Arid,1,26.0,1766.7,1731.5,35.2,0.685
+1982,1982-06-21,Spain,Zaragoza,Group Stage,Honduras,Northern Ireland,1,1,0,0,0,,1,21.97142857142857,1,Am,Tropical,1,24.0,Cfb,Temperate,0,9.0,1621.5,1678.9,-57.3,0.561
+1982,1982-06-22,Spain,Elche,Group Stage,Belgium,Hungary,1,1,0,0,0,,1,21.97142857142857,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,10.0,1867.5,1744.5,123.0,0.783
+1982,1982-06-22,Spain,A Coruña,Group Stage,Poland,Peru,5,1,0,0,0,Poland,0,21.97142857142857,1,Dfb,Continental,0,8.0,BWh,Arid,1,20.0,1841.4,1703.8,137.6,0.797
+1982,1982-06-22,Spain,Málaga,Group Stage,Soviet Union,Scotland,2,2,0,0,0,,1,21.97142857142857,1,Dfc,Continental,0,-2.0,Cfb,Temperate,0,7.0,1836.7,1764.3,72.4,0.73
+1982,1982-06-23,Spain,Alicante,Group Stage,Argentina,El Salvador,2,0,0,0,0,Argentina,0,21.97142857142857,1,Cfa,Temperate,1,14.0,Aw,Tropical,1,25.0,1882.3,1568.2,314.0,0.916
+1982,1982-06-23,Spain,Seville,Group Stage,Brazil,New Zealand,4,0,0,0,0,Brazil,0,21.97142857142857,1,Am,Tropical,1,25.0,Cfb,Temperate,0,11.0,2042.2,1658.7,383.5,0.942
+1982,1982-06-23,Spain,Vigo,Group Stage,Italy,Cameroon,1,1,0,0,0,,1,21.97142857142857,1,Csa,Temperate,1,14.0,Am,Tropical,1,24.0,1793.4,1719.9,73.5,0.731
+1982,1982-06-24,Spain,Oviedo,Group Stage,Algeria,Chile,3,2,0,0,0,Algeria,0,21.97142857142857,1,BWh,Arid,1,22.0,BSk,Arid,1,9.0,1683.1,1654.1,29.0,0.678
+1982,1982-06-24,Spain,Valladolid,Group Stage,France,Czechoslovakia,1,1,0,0,0,,1,21.97142857142857,1,Cfb,Temperate,0,11.5,Dfb,Continental,0,8.0,1799.7,1774.4,25.4,0.673
+1982,1982-06-24,Spain,Zaragoza,Group Stage,Honduras,Yugoslavia,0,1,0,0,0,Yugoslavia,0,21.97142857142857,1,Am,Tropical,1,24.0,Cfb,Temperate,0,10.0,1617.9,1802.8,-184.9,0.38
+1982,1982-06-25,Spain,Bilbao,Group Stage,England,Kuwait,1,0,0,0,0,England,0,21.97142857142857,1,Cfb,Temperate,0,10.0,BWh,Arid,1,26.0,1922.2,1698.4,223.8,0.866
+1982,1982-06-25,Spain,Valencia,Group Stage,Spain,Northern Ireland,0,1,0,0,0,Northern Ireland,0,21.97142857142857,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,9.0,1801.7,1682.5,119.2,0.779
+1982,1982-06-25,Spain,Gijón,Group Stage,West Germany,Austria,1,0,0,0,0,West Germany,0,21.97142857142857,1,Cfb,Temperate,0,9.0,Dfb,Continental,0,7.0,1836.7,1901.6,-64.9,0.55
+1982,1982-06-28,Spain,Madrid,Group Stage,Austria,France,0,1,0,0,0,France,0,21.97142857142857,1,Dfb,Continental,0,7.0,Cfb,Temperate,0,11.5,1887.0,1789.3,97.7,0.757
+1982,1982-06-28,Spain,Barcelona,Group Stage,Poland,Belgium,3,0,0,0,0,Poland,0,21.97142857142857,1,Dfb,Continental,0,8.0,Cfb,Temperate,0,10.0,1864.2,1850.5,13.7,0.658
+1982,1982-06-29,Spain,Barcelona,Group Stage,Italy,Argentina,2,1,0,0,0,Italy,0,21.97142857142857,1,Csa,Temperate,1,14.0,Cfa,Temperate,1,14.0,1779.6,1889.9,-110.3,0.485
+1982,1982-06-29,Spain,Madrid,Group Stage,West Germany,England,0,0,0,0,0,,1,21.97142857142857,1,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,1836.7,1930.3,-93.6,0.509
+1982,1982-07-01,Spain,Madrid,Group Stage,Austria,Northern Ireland,2,2,0,0,0,,1,21.97142857142857,1,Dfb,Continental,0,7.0,Cfb,Temperate,0,9.0,1841.6,1729.3,112.3,0.772
+1982,1982-07-01,Spain,Barcelona,Group Stage,Belgium,Soviet Union,0,1,0,0,0,Soviet Union,0,21.97142857142857,1,Cfb,Temperate,0,10.0,Dfc,Continental,0,-2.0,1814.6,1836.7,-22.1,0.61
+1982,1982-07-02,Spain,Barcelona,Group Stage,Argentina,Brazil,1,3,0,0,0,Brazil,0,21.97142857142857,1,Cfa,Temperate,1,14.0,Am,Tropical,1,25.0,1859.0,2048.7,-189.8,0.374
+1982,1982-07-02,Spain,Madrid,Group Stage,West Germany,Spain,2,1,0,0,0,West Germany,0,21.97142857142857,1,Cfb,Temperate,0,9.0,Csa,Temperate,1,14.0,1836.7,1755.0,81.7,0.74
+1982,1982-07-04,Spain,Madrid,Group Stage,France,Northern Ireland,4,1,0,0,0,France,0,21.97142857142857,1,Cfb,Temperate,0,11.5,Cfb,Temperate,0,9.0,1834.8,1745.7,89.1,0.748
+1982,1982-07-04,Spain,Barcelona,Group Stage,Soviet Union,Poland,0,0,0,0,0,,1,21.97142857142857,1,Dfc,Continental,0,-2.0,Dfb,Continental,0,8.0,1836.7,1900.1,-63.4,0.552
+1982,1982-07-05,Spain,Barcelona,Group Stage,Italy,Brazil,3,2,0,0,0,Italy,0,21.97142857142857,1,Csa,Temperate,1,14.0,Am,Tropical,1,25.0,1810.5,2082.4,-271.9,0.271
+1982,1982-07-05,Spain,Madrid,Group Stage,Spain,England,0,0,0,0,0,,1,21.97142857142857,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1736.7,1944.8,-208.0,0.349
+1982,1982-07-08,Spain,Barcelona,Semi-final,Poland,Italy,0,2,0,0,0,Italy,0,21.97142857142857,1,Dfb,Continental,0,8.0,Csa,Temperate,1,14.0,1896.2,1854.2,42.0,0.694
+1982,1982-07-08,Spain,Seville,Semi-final,West Germany,France,3,3,1,5,4,West Germany,1,21.97142857142857,1,Cfb,Temperate,0,9.0,Cfb,Temperate,0,11.5,1836.7,1861.2,-24.5,0.607
+1982,1982-07-10,Spain,Alicante,Third place play-off,Poland,France,3,2,0,0,0,Poland,0,21.97142857142857,1,Dfb,Continental,0,8.0,Cfb,Temperate,0,11.5,1833.8,1880.0,-46.3,0.577
+1982,1982-07-11,Spain,Madrid,Final,Italy,West Germany,3,1,0,0,0,Italy,0,21.97142857142857,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,9.0,1916.6,1836.7,79.9,0.738
+1986,1986-05-31,Mexico,Mexico City,Group Stage,Bulgaria,Italy,1,1,0,0,0,,1,19.57272727272727,1,Cfb,Temperate,0,10.0,Csa,Temperate,1,14.0,1764.5,1795.3,-30.8,0.598
+1986,1986-06-01,Mexico,León,Group Stage,Canada,France,0,1,0,0,0,France,0,19.57272727272727,1,Dfc,Continental,0,-4.0,Cfb,Temperate,0,11.5,1587.9,1925.7,-337.8,0.203
+1986,1986-06-01,Mexico,Guadalajara,Group Stage,Spain,Brazil,0,1,0,0,0,Brazil,0,19.57272727272727,1,Csa,Temperate,1,14.0,Am,Tropical,1,25.0,1861.3,1834.7,26.6,0.675
+1986,1986-06-02,Mexico,Mexico City,Group Stage,Argentina,South Korea,3,1,0,0,0,Argentina,0,19.57272727272727,1,Cfa,Temperate,1,14.0,Dwa,Continental,0,11.0,1778.3,1686.5,91.9,0.751
+1986,1986-06-02,Mexico,San Nicolás de los Garza,Group Stage,Morocco,Poland,0,0,0,0,0,,1,19.57272727272727,1,Csa,Temperate,1,17.0,Dfb,Continental,0,8.0,1704.6,1710.9,-6.3,0.632
+1986,1986-06-02,Mexico,Irapuato,Group Stage,Soviet Union,Hungary,6,0,0,0,0,Soviet Union,0,19.57272727272727,1,Dfc,Continental,0,-2.0,Cfb,Temperate,0,10.0,1836.7,1869.9,-33.2,0.595
+1986,1986-06-03,Mexico,Zapopan,Group Stage,Algeria,Northern Ireland,1,1,0,0,0,,1,19.57272727272727,1,BWh,Arid,1,22.0,Cfb,Temperate,0,9.0,1651.8,1806.4,-154.6,0.422
+1986,1986-06-03,Mexico,Mexico City,Group Stage,Belgium,Mexico,1,2,0,0,0,Mexico,0,19.57272727272727,1,Cfb,Temperate,0,10.0,BSh,Arid,1,21.0,1732.0,1802.7,-70.8,0.542
+1986,1986-06-03,Mexico,Monterrey,Group Stage,Portugal,England,1,0,0,0,0,Portugal,0,19.57272727272727,1,Csa,Temperate,1,15.0,Cfb,Temperate,0,10.0,1705.9,1948.6,-242.7,0.305
+1986,1986-06-04,Mexico,Toluca,Group Stage,Paraguay,Iraq,1,0,0,0,0,Paraguay,0,19.57272727272727,1,Cfa,Temperate,1,23.0,BWh,Arid,1,22.0,1761.6,1685.9,75.6,0.733
+1986,1986-06-04,Mexico,Nezahualcóyotl,Group Stage,Scotland,Denmark,0,1,0,0,0,Denmark,0,19.57272727272727,1,Cfb,Temperate,0,7.0,Cfb,Temperate,0,8.0,1834.6,1822.2,12.4,0.656
+1986,1986-06-04,Mexico,Querétaro,Group Stage,Uruguay,West Germany,1,1,0,0,0,,1,19.57272727272727,1,Cfa,Temperate,1,16.0,Cfb,Temperate,0,9.0,1815.6,1836.7,-21.1,0.612
+1986,1986-06-05,Mexico,León,Group Stage,France,Soviet Union,1,1,0,0,0,,1,19.57272727272727,1,Cfb,Temperate,0,11.5,Dfc,Continental,0,-2.0,1937.9,1836.7,101.2,0.761
+1986,1986-06-05,Mexico,Puebla,Group Stage,Italy,Argentina,1,1,0,0,0,,1,19.57272727272727,1,Csa,Temperate,1,14.0,Cfa,Temperate,1,14.0,1801.2,1800.7,0.4,0.641
+1986,1986-06-05,Mexico,Mexico City,Group Stage,South Korea,Bulgaria,1,1,0,0,0,,1,19.57272727272727,1,Dwa,Continental,0,11.0,Cfb,Temperate,0,10.0,1664.1,1758.6,-94.5,0.508
+1986,1986-06-06,Mexico,Guadalajara,Group Stage,Brazil,Algeria,1,0,0,0,0,Brazil,0,19.57272727272727,1,Am,Tropical,1,25.0,BWh,Arid,1,22.0,1875.2,1656.5,218.8,0.862
+1986,1986-06-06,Mexico,Monterrey,Group Stage,England,Morocco,0,0,0,0,0,,1,19.57272727272727,1,Cfb,Temperate,0,10.0,Csa,Temperate,1,17.0,1906.9,1696.7,210.2,0.856
+1986,1986-06-06,Mexico,Irapuato,Group Stage,Hungary,Canada,2,0,0,0,0,Hungary,0,19.57272727272727,1,Cfb,Temperate,0,10.0,Dfc,Continental,0,-4.0,1824.8,1575.8,249.0,0.882
+1986,1986-06-07,Mexico,Mexico City,Group Stage,Mexico,Paraguay,1,1,0,0,0,,1,19.57272727272727,1,BSh,Arid,1,21.0,Cfa,Temperate,1,23.0,1819.1,1777.6,41.5,0.693
+1986,1986-06-07,Mexico,Zapopan,Group Stage,Northern Ireland,Spain,1,2,0,0,0,Spain,0,19.57272727272727,1,Cfb,Temperate,0,9.0,Csa,Temperate,1,14.0,1801.7,1820.8,-19.2,0.614
+1986,1986-06-07,Mexico,San Nicolás de los Garza,Group Stage,Poland,Portugal,1,0,0,0,0,Poland,0,19.57272727272727,1,Dfb,Continental,0,8.0,Csa,Temperate,1,15.0,1718.8,1747.5,-28.8,0.601
+1986,1986-06-08,Mexico,Nezahualcóyotl,Group Stage,Denmark,Uruguay,6,1,0,0,0,Denmark,0,19.57272727272727,1,Cfb,Temperate,0,8.0,Cfa,Temperate,1,16.0,1861.6,1812.0,49.6,0.703
+1986,1986-06-08,Mexico,Toluca,Group Stage,Iraq,Belgium,1,2,0,0,0,Belgium,0,19.57272727272727,1,BWh,Arid,1,22.0,Cfb,Temperate,0,10.0,1669.9,1715.7,-45.7,0.577
+1986,1986-06-08,Mexico,Querétaro,Group Stage,West Germany,Scotland,2,1,0,0,0,West Germany,0,19.57272727272727,1,Cfb,Temperate,0,9.0,Cfb,Temperate,0,7.0,1836.7,1795.2,41.5,0.693
+1986,1986-06-09,Mexico,León,Group Stage,Hungary,France,0,3,0,0,0,France,0,19.57272727272727,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,11.5,1835.4,1928.1,-92.6,0.511
+1986,1986-06-09,Mexico,Irapuato,Group Stage,Soviet Union,Canada,2,0,0,0,0,Soviet Union,0,19.57272727272727,1,Dfc,Continental,0,-2.0,Dfc,Continental,0,-4.0,1836.7,1565.1,271.6,0.895
+1986,1986-06-10,Mexico,Mexico City,Group Stage,Argentina,Bulgaria,2,0,0,0,0,Argentina,0,19.57272727272727,1,Cfa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1809.2,1759.1,50.1,0.704
+1986,1986-06-10,Mexico,Puebla,Group Stage,South Korea,Italy,2,3,0,0,0,Italy,0,19.57272727272727,1,Dwa,Continental,0,11.0,Csa,Temperate,1,14.0,1663.6,1792.8,-129.1,0.458
+1986,1986-06-11,Mexico,San Nicolás de los Garza,Group Stage,England,Poland,3,0,0,0,0,England,0,19.57272727272727,1,Cfb,Temperate,0,10.0,Dfb,Continental,0,8.0,1885.5,1742.7,142.8,0.802
+1986,1986-06-11,Mexico,Mexico City,Group Stage,Iraq,Mexico,0,1,0,0,0,Mexico,0,19.57272727272727,1,BWh,Arid,1,22.0,BSh,Arid,1,21.0,1635.3,1807.5,-172.2,0.398
+1986,1986-06-11,Mexico,Toluca,Group Stage,Paraguay,Belgium,2,2,0,0,0,,1,19.57272727272727,1,Cfa,Temperate,1,23.0,Cfb,Temperate,0,10.0,1789.2,1750.3,38.9,0.69
+1986,1986-06-11,Mexico,Zapopan,Group Stage,Portugal,Morocco,1,3,0,0,0,Morocco,0,19.57272727272727,1,Csa,Temperate,1,15.0,Csa,Temperate,1,17.0,1723.6,1718.1,5.5,0.647
+1986,1986-06-12,Mexico,Monterrey,Group Stage,Algeria,Spain,0,3,0,0,0,Spain,0,19.57272727272727,1,BWh,Arid,1,22.0,Csa,Temperate,1,14.0,1648.2,1857.7,-209.5,0.347
+1986,1986-06-12,Mexico,Guadalajara,Group Stage,Northern Ireland,Brazil,0,3,0,0,0,Brazil,0,19.57272727272727,1,Cfb,Temperate,0,9.0,Am,Tropical,1,25.0,1764.8,1883.5,-118.6,0.473
+1986,1986-06-13,Mexico,Querétaro,Group Stage,Denmark,West Germany,2,0,0,0,0,Denmark,0,19.57272727272727,1,Cfb,Temperate,0,8.0,Cfb,Temperate,0,9.0,1897.2,1836.7,60.5,0.716
+1986,1986-06-13,Mexico,Nezahualcóyotl,Group Stage,Scotland,Uruguay,0,0,0,0,0,,1,19.57272727272727,1,Cfb,Temperate,0,7.0,Cfa,Temperate,1,16.0,1779.6,1776.3,3.3,0.644
+1986,1986-06-15,Mexico,Mexico City,Round of 16,Mexico,Bulgaria,2,0,0,0,0,Mexico,0,19.57272727272727,1,BSh,Arid,1,21.0,Cfb,Temperate,0,10.0,1817.9,1732.4,85.5,0.744
+1986,1986-06-15,Mexico,León,Round of 16,Soviet Union,Belgium,3,4,0,0,0,Belgium,0,19.57272727272727,1,Dfc,Continental,0,-2.0,Cfb,Temperate,0,10.0,1836.7,1761.7,75.0,0.733
+1986,1986-06-16,Mexico,Puebla,Round of 16,Argentina,Uruguay,1,0,0,0,0,Argentina,0,19.57272727272727,1,Cfa,Temperate,1,14.0,Cfa,Temperate,1,16.0,1835.9,1785.0,50.9,0.704
+1986,1986-06-16,Mexico,Guadalajara,Round of 16,Brazil,Poland,4,0,0,0,0,Brazil,0,19.57272727272727,1,Am,Tropical,1,25.0,Dfb,Continental,0,8.0,1933.2,1721.9,211.3,0.857
+1986,1986-06-17,Mexico,Mexico City,Round of 16,Italy,France,0,2,0,0,0,France,0,19.57272727272727,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,11.5,1820.2,1981.7,-161.4,0.412
+1986,1986-06-17,Mexico,San Nicolás de los Garza,Round of 16,Morocco,West Germany,0,1,0,0,0,West Germany,0,19.57272727272727,1,Csa,Temperate,1,17.0,Cfb,Temperate,0,9.0,1776.3,1836.7,-60.4,0.557
+1986,1986-06-18,Mexico,Querétaro,Round of 16,Denmark,Spain,1,5,0,0,0,Spain,0,19.57272727272727,1,Cfb,Temperate,0,8.0,Csa,Temperate,1,14.0,1929.0,1894.2,34.9,0.685
+1986,1986-06-18,Mexico,Mexico City,Round of 16,England,Paraguay,3,0,0,0,0,England,0,19.57272727272727,1,Cfb,Temperate,0,10.0,Cfa,Temperate,1,23.0,1906.3,1777.8,128.6,0.788
+1986,1986-06-21,Mexico,Guadalajara,Quarter-final,Brazil,France,1,1,1,3,4,France,1,19.57272727272727,1,Am,Tropical,1,25.0,Cfb,Temperate,0,11.5,1949.2,2018.8,-69.6,0.544
+1986,1986-06-21,Mexico,San Nicolás de los Garza,Quarter-final,West Germany,Mexico,0,0,1,4,1,West Germany,1,19.57272727272727,1,Cfb,Temperate,0,9.0,BSh,Arid,1,21.0,1836.7,1840.9,-4.2,0.634
+1986,1986-06-22,Mexico,Mexico City,Quarter-final,Argentina,England,2,1,0,0,0,Argentina,0,19.57272727272727,1,Cfa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1853.6,1928.6,-74.9,0.536
+1986,1986-06-22,Mexico,Puebla,Quarter-final,Spain,Belgium,1,1,1,4,5,Belgium,1,19.57272727272727,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1971.2,1811.4,159.8,0.817
+1986,1986-06-25,Mexico,Mexico City,Semi-final,Argentina,Belgium,2,0,0,0,0,Argentina,0,19.57272727272727,1,Cfa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1881.4,1830.4,51.0,0.705
+1986,1986-06-25,Mexico,Guadalajara,Semi-final,France,West Germany,0,2,0,0,0,West Germany,0,19.57272727272727,1,Cfb,Temperate,0,11.5,Cfb,Temperate,0,9.0,2021.4,1836.7,184.7,0.837
+1986,1986-06-28,Mexico,Puebla,Third place play-off,Belgium,France,2,4,0,0,0,France,0,19.57272727272727,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,11.5,1803.8,1950.7,-146.9,0.433
+1986,1986-06-29,Mexico,Mexico City,Final,Argentina,West Germany,3,2,0,0,0,Argentina,0,19.57272727272727,1,Cfa,Temperate,1,14.0,Cfb,Temperate,0,9.0,1908.0,1836.7,71.3,0.728
+1990,1990-06-08,Italy,Milan,Group Stage,Argentina,Cameroon,0,1,0,0,0,Cameroon,0,21.05,1,Cfa,Temperate,1,14.0,Am,Tropical,1,24.0,1722.9,1674.3,48.6,0.702
+1990,1990-06-09,Italy,Rome,Group Stage,Italy,Austria,1,0,0,0,0,Italy,0,21.05,1,Csa,Temperate,1,14.0,Dfb,Continental,0,7.0,1916.8,1735.9,180.9,0.834
+1990,1990-06-09,Italy,Bari,Group Stage,Soviet Union,Romania,0,2,0,0,0,Romania,0,21.05,1,Dfc,Continental,0,-2.0,Dfb,Continental,0,9.0,1836.7,1855.4,-18.7,0.615
+1990,1990-06-09,Italy,Bologna,Group Stage,United Arab Emirates,Colombia,0,2,0,0,0,Colombia,0,21.05,1,BWh,Arid,1,27.0,Af,Tropical,1,24.0,1565.0,1741.2,-176.2,0.392
+1990,1990-06-10,Italy,Turin,Group Stage,Brazil,Sweden,2,1,0,0,0,Brazil,0,21.05,1,Am,Tropical,1,25.0,Dfc,Continental,0,3.0,1947.3,1917.3,29.9,0.679
+1990,1990-06-10,Italy,Florence,Group Stage,United States,Czechoslovakia,1,5,0,0,0,Czechoslovakia,0,21.05,1,Cfa,Temperate,1,10.0,Dfb,Continental,0,8.0,1588.6,1800.8,-212.3,0.344
+1990,1990-06-10,Italy,Milan,Group Stage,West Germany,Yugoslavia,4,1,0,0,0,West Germany,0,21.05,1,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,1836.7,1827.9,8.8,0.652
+1990,1990-06-11,Italy,Genoa,Group Stage,Costa Rica,Scotland,1,0,0,0,0,Costa Rica,0,21.05,1,Am,Tropical,1,25.0,Cfb,Temperate,0,7.0,1565.8,1682.7,-116.9,0.476
+1990,1990-06-11,Italy,Cagliari,Group Stage,England,Republic of Ireland,1,1,0,0,0,,1,21.05,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,10.0,1895.1,1846.6,48.5,0.702
+1990,1990-06-12,Italy,Verona,Group Stage,Belgium,South Korea,2,0,0,0,0,Belgium,0,21.05,1,Cfb,Temperate,0,10.0,Dwa,Continental,0,11.0,1808.8,1784.8,24.0,0.671
+1990,1990-06-12,Italy,Palermo,Group Stage,Netherlands,Egypt,1,1,0,0,0,,1,21.05,1,Cfb,Temperate,0,10.0,BWh,Arid,1,23.0,1984.9,1702.3,282.5,0.9
+1990,1990-06-13,Italy,Naples,Group Stage,Argentina,Soviet Union,2,0,0,0,0,Argentina,0,21.05,1,Cfa,Temperate,1,14.0,Dfc,Continental,0,-2.0,1680.8,1836.7,-155.9,0.42
+1990,1990-06-13,Italy,Udine,Group Stage,Uruguay,Spain,0,0,0,0,0,,1,21.05,1,Cfa,Temperate,1,16.0,Csa,Temperate,1,14.0,1870.0,1874.9,-4.9,0.634
+1990,1990-06-14,Italy,Bari,Group Stage,Cameroon,Romania,2,1,0,0,0,Cameroon,0,21.05,1,Am,Tropical,1,24.0,Dfb,Continental,0,9.0,1716.4,1918.0,-201.6,0.358
+1990,1990-06-14,Italy,Rome,Group Stage,Italy,United States,1,0,0,0,0,Italy,0,21.05,1,Csa,Temperate,1,14.0,Cfa,Temperate,1,10.0,1926.7,1549.9,376.9,0.94
+1990,1990-06-14,Italy,Bologna,Group Stage,Yugoslavia,Colombia,1,0,0,0,0,Yugoslavia,0,21.05,1,Cfb,Temperate,0,10.0,Af,Tropical,1,24.0,1804.9,1776.5,28.4,0.677
+1990,1990-06-15,Italy,Florence,Group Stage,Austria,Czechoslovakia,0,1,0,0,0,Czechoslovakia,0,21.05,1,Dfb,Continental,0,7.0,Dfb,Continental,0,8.0,1725.9,1839.5,-113.6,0.48
+1990,1990-06-15,Italy,Milan,Group Stage,West Germany,United Arab Emirates,5,1,0,0,0,West Germany,0,21.05,1,Cfb,Temperate,0,9.0,BWh,Arid,1,27.0,1836.7,1529.7,306.9,0.912
+1990,1990-06-16,Italy,Turin,Group Stage,Brazil,Costa Rica,1,0,0,0,0,Brazil,0,21.05,1,Am,Tropical,1,25.0,Am,Tropical,1,25.0,1966.5,1597.3,369.3,0.937
+1990,1990-06-16,Italy,Cagliari,Group Stage,England,Netherlands,0,0,0,0,0,,1,21.05,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,10.0,1883.0,1960.8,-77.9,0.532
+1990,1990-06-16,Italy,Genoa,Group Stage,Sweden,Scotland,1,2,0,0,0,Scotland,0,21.05,1,Dfc,Continental,0,3.0,Cfb,Temperate,0,7.0,1898.1,1651.3,246.8,0.88
+1990,1990-06-17,Italy,Verona,Group Stage,Belgium,Uruguay,3,1,0,0,0,Belgium,0,21.05,1,Cfb,Temperate,0,10.0,Cfa,Temperate,1,16.0,1838.4,1862.0,-23.6,0.608
+1990,1990-06-17,Italy,Palermo,Group Stage,Republic of Ireland,Egypt,0,0,0,0,0,,1,21.05,1,Cfb,Temperate,0,10.0,BWh,Arid,1,23.0,1858.7,1726.4,132.3,0.792
+1990,1990-06-17,Italy,Udine,Group Stage,South Korea,Spain,1,3,0,0,0,Spain,0,21.05,1,Dwa,Continental,0,11.0,Csa,Temperate,1,14.0,1755.2,1882.9,-127.7,0.46
+1990,1990-06-18,Italy,Naples,Group Stage,Argentina,Romania,1,1,0,0,0,,1,21.05,1,Cfa,Temperate,1,14.0,Dfb,Continental,0,9.0,1732.9,1879.5,-146.6,0.433
+1990,1990-06-18,Italy,Bari,Group Stage,Cameroon,Soviet Union,0,4,0,0,0,Soviet Union,0,21.05,1,Am,Tropical,1,24.0,Dfc,Continental,0,-2.0,1754.9,1836.7,-81.8,0.526
+1990,1990-06-19,Italy,Florence,Group Stage,Austria,United States,2,1,0,0,0,Austria,0,21.05,1,Dfb,Continental,0,7.0,Cfa,Temperate,1,10.0,1697.1,1546.2,150.8,0.809
+1990,1990-06-19,Italy,Rome,Group Stage,Italy,Czechoslovakia,2,0,0,0,0,Italy,0,21.05,1,Csa,Temperate,1,14.0,Dfb,Continental,0,8.0,1930.4,1868.3,62.0,0.718
+1990,1990-06-19,Italy,Milan,Group Stage,West Germany,Colombia,1,1,0,0,0,,1,21.05,1,Cfb,Temperate,0,9.0,Af,Tropical,1,24.0,1836.7,1757.1,79.6,0.738
+1990,1990-06-19,Italy,Bologna,Group Stage,Yugoslavia,United Arab Emirates,4,1,0,0,0,Yugoslavia,0,21.05,1,Cfb,Temperate,0,10.0,BWh,Arid,1,27.0,1824.3,1525.0,299.3,0.909
+1990,1990-06-20,Italy,Turin,Group Stage,Brazil,Scotland,1,0,0,0,0,Brazil,0,21.05,1,Am,Tropical,1,25.0,Cfb,Temperate,0,7.0,1970.3,1704.1,266.2,0.892
+1990,1990-06-20,Italy,Genoa,Group Stage,Sweden,Costa Rica,1,2,0,0,0,Costa Rica,0,21.05,1,Dfc,Continental,0,3.0,Am,Tropical,1,25.0,1845.2,1593.5,251.8,0.883
+1990,1990-06-21,Italy,Verona,Group Stage,Belgium,Spain,1,2,0,0,0,Spain,0,21.05,1,Cfb,Temperate,0,10.0,Csa,Temperate,1,14.0,1873.6,1924.3,-50.7,0.57
+1990,1990-06-21,Italy,Cagliari,Group Stage,England,Egypt,1,0,0,0,0,England,0,21.05,1,Cfb,Temperate,0,10.0,BWh,Arid,1,23.0,1881.1,1743.9,137.2,0.797
+1990,1990-06-21,Italy,Palermo,Group Stage,Republic of Ireland,Netherlands,1,1,0,0,0,,1,21.05,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,10.0,1841.2,1962.7,-121.6,0.469
+1990,1990-06-21,Italy,Udine,Group Stage,South Korea,Uruguay,0,1,0,0,0,Uruguay,0,21.05,1,Dwa,Continental,0,11.0,Cfa,Temperate,1,16.0,1713.8,1826.7,-112.9,0.481
+1990,1990-06-23,Italy,Naples,Round of 16,Cameroon,Colombia,2,1,0,0,0,Cameroon,0,21.05,1,Am,Tropical,1,24.0,Af,Tropical,1,24.0,1687.4,1778.9,-91.5,0.512
+1990,1990-06-23,Italy,Bari,Round of 16,Czechoslovakia,Costa Rica,4,1,0,0,0,Czechoslovakia,0,21.05,1,Dfb,Continental,0,8.0,Am,Tropical,1,25.0,1842.9,1646.5,196.4,0.846
+1990,1990-06-24,Italy,Turin,Round of 16,Brazil,Argentina,0,1,0,0,0,Argentina,0,21.05,1,Am,Tropical,1,25.0,Cfa,Temperate,1,14.0,1976.8,1736.9,239.9,0.876
+1990,1990-06-24,Italy,Milan,Round of 16,West Germany,Netherlands,2,1,0,0,0,West Germany,0,21.05,1,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,1836.7,1960.9,-124.2,0.465
+1990,1990-06-25,Italy,Rome,Round of 16,Italy,Uruguay,2,0,0,0,0,Italy,0,21.05,1,Csa,Temperate,1,14.0,Cfa,Temperate,1,16.0,1955.8,1855.6,100.2,0.76
+1990,1990-06-25,Italy,Genoa,Round of 16,Republic of Ireland,Romania,0,0,1,5,4,Republic of Ireland,1,21.05,1,Cfb,Temperate,0,10.0,Dfb,Continental,0,9.0,1843.0,1875.5,-32.5,0.596
+1990,1990-06-26,Italy,Bologna,Round of 16,England,Belgium,1,0,0,0,0,England,0,21.05,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,10.0,1893.3,1839.4,53.9,0.708
+1990,1990-06-26,Italy,Verona,Round of 16,Spain,Yugoslavia,1,2,0,0,0,Yugoslavia,0,21.05,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1958.6,1833.9,124.7,0.785
+1990,1990-06-30,Italy,Florence,Quarter-final,Argentina,Yugoslavia,0,0,1,3,2,Argentina,1,21.05,1,Cfa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1789.5,1881.0,-91.5,0.512
+1990,1990-06-30,Italy,Rome,Quarter-final,Republic of Ireland,Italy,0,1,0,0,0,Italy,0,21.05,1,Cfb,Temperate,0,10.0,Csa,Temperate,1,14.0,1837.3,1977.4,-140.1,0.443
+1990,1990-07-01,Italy,Naples,Quarter-final,Cameroon,England,2,3,0,0,0,England,0,21.05,1,Am,Tropical,1,24.0,Cfb,Temperate,0,10.0,1716.6,1910.8,-194.1,0.368
+1990,1990-07-01,Italy,Milan,Quarter-final,Czechoslovakia,West Germany,0,1,0,0,0,West Germany,0,21.05,1,Dfb,Continental,0,8.0,Cfb,Temperate,0,9.0,1859.0,1836.7,22.4,0.669
+1990,1990-07-03,Italy,Naples,Semi-final,Argentina,Italy,1,1,1,4,3,Argentina,1,21.05,1,Cfa,Temperate,1,14.0,Csa,Temperate,1,14.0,1804.5,1989.4,-184.9,0.38
+1990,1990-07-04,Italy,Turin,Semi-final,West Germany,England,1,1,1,4,3,West Germany,1,21.05,1,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,1836.7,1932.9,-96.2,0.505
+1990,1990-07-07,Italy,Bari,Third place play-off,Italy,England,2,1,0,0,0,Italy,0,21.05,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1969.2,1945.6,23.6,0.671
+1990,1990-07-08,Italy,Rome,Final,West Germany,Argentina,1,0,0,0,0,West Germany,0,21.05,1,Cfb,Temperate,0,9.0,Cfa,Temperate,1,14.0,1836.7,1824.8,11.9,0.656
+1994,1994-06-17,United States,Chicago,Group Stage,Germany,Bolivia,1,0,0,0,0,Germany,0,24.0,1,Cfb,Temperate,0,9.0, Aw,Tropical,1,18.0,1998.2,1649.9,348.3,0.93
+1994,1994-06-17,United States,Dallas,Group Stage,Spain,South Korea,2,2,0,0,0,,1,24.0,1,Csa,Temperate,1,14.0,Dwa,Continental,0,11.0,1850.1,1745.4,104.7,0.765
+1994,1994-06-18,United States,Pasadena,Group Stage,Colombia,Romania,1,3,0,0,0,Romania,0,24.0,1,Af,Tropical,1,24.0,Dfb,Continental,0,9.0,1900.0,1835.5,64.6,0.72
+1994,1994-06-18,United States,East Rutherford,Group Stage,Italy,Republic of Ireland,0,1,0,0,0,Republic of Ireland,0,24.0,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1961.8,1820.4,141.4,0.801
+1994,1994-06-18,United States,Pontiac,Group Stage,United States,Switzerland,1,1,0,0,0,,1,24.0,1,Cfa,Temperate,1,10.0,Cfb,Temperate,0,6.0,1619.3,1880.1,-260.8,0.284
+1994,1994-06-19,United States,Orlando,Group Stage,Belgium,Morocco,1,0,0,0,0,Belgium,0,24.0,1,Cfb,Temperate,0,10.0,Csa,Temperate,1,17.0,1772.2,1741.9,30.3,0.679
+1994,1994-06-19,United States,Pasadena,Group Stage,Cameroon,Sweden,2,2,0,0,0,,1,24.0,1,Am,Tropical,1,24.0,Dfc,Continental,0,3.0,1741.6,1899.1,-157.5,0.418
+1994,1994-06-19,United States,D.C,Group Stage,Norway,Mexico,1,0,0,0,0,Norway,0,24.0,1,Dfc,Continental,0,2.0,BSh,Arid,1,21.0,1854.7,1806.4,48.3,0.701
+1994,1994-06-20,United States,Stanford,Group Stage,Brazil,Russia,2,0,0,0,0,Brazil,0,24.0,1,Am,Tropical,1,25.0,Dfc,Continental,0,-2.0,1930.0,1855.4,74.6,0.732
+1994,1994-06-20,United States,D.C,Group Stage,Netherlands,Saudi Arabia,2,1,0,0,0,Netherlands,0,24.0,1,Cfb,Temperate,0,10.0,BWh,Arid,1,25.0,1958.1,1710.3,247.8,0.881
+1994,1994-06-21,United States,Foxborough,Group Stage,Argentina,Greece,4,0,0,0,0,Argentina,0,24.0,1,Cfa,Temperate,1,14.0,Csa,Temperate,1,16.0,1875.9,1660.3,215.6,0.86
+1994,1994-06-21,United States,Chicago,Group Stage,Germany,Spain,1,1,0,0,0,,1,24.0,1,Cfb,Temperate,0,9.0,Csa,Temperate,1,14.0,2002.5,1834.2,168.2,0.824
+1994,1994-06-21,United States,Dallas,Group Stage,Nigeria,Bulgaria,3,0,0,0,0,Nigeria,0,24.0,1,Aw,Tropical,1,27.0,Cfb,Temperate,0,10.0,1775.8,1752.0,23.9,0.671
+1994,1994-06-22,United States,Pontiac,Group Stage,Romania,Switzerland,1,4,0,0,0,Switzerland,0,24.0,1,Dfb,Continental,0,9.0,Cfb,Temperate,0,6.0,1900.3,1867.2,33.2,0.683
+1994,1994-06-22,United States,Pasadena,Group Stage,United States,Colombia,2,1,0,0,0,United States,0,24.0,1,Cfa,Temperate,1,10.0,Af,Tropical,1,24.0,1632.3,1835.2,-202.9,0.356
+1994,1994-06-23,United States,East Rutherford,Group Stage,Italy,Norway,1,0,0,0,0,Italy,0,24.0,1,Csa,Temperate,1,14.0,Dfc,Continental,0,2.0,1913.8,1872.6,41.2,0.693
+1994,1994-06-23,United States,Foxborough,Group Stage,South Korea,Bolivia,0,0,0,0,0,,1,24.0,1,Dwa,Continental,0,11.0, Aw,Tropical,1,18.0,1761.3,1645.7,115.6,0.776
+1994,1994-06-24,United States,Stanford,Group Stage,Brazil,Cameroon,3,0,0,0,0,Brazil,0,24.0,1,Am,Tropical,1,25.0,Am,Tropical,1,24.0,1954.1,1746.5,207.5,0.855
+1994,1994-06-24,United States,Orlando,Group Stage,Mexico,Republic of Ireland,2,1,0,0,0,Mexico,0,24.0,1,BSh,Arid,1,21.0,Cfb,Temperate,0,10.0,1788.5,1868.4,-80.0,0.529
+1994,1994-06-24,United States,Pontiac,Group Stage,Sweden,Russia,3,1,0,0,0,Sweden,0,24.0,1,Dfc,Continental,0,3.0,Dfc,Continental,0,-2.0,1894.2,1831.3,62.9,0.719
+1994,1994-06-25,United States,Foxborough,Group Stage,Argentina,Nigeria,2,1,0,0,0,Argentina,0,24.0,1,Cfa,Temperate,1,14.0,Aw,Tropical,1,27.0,1891.7,1810.4,81.3,0.74
+1994,1994-06-25,United States,Orlando,Group Stage,Belgium,Netherlands,1,0,0,0,0,Belgium,0,24.0,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,10.0,1791.5,1965.2,-173.7,0.395
+1994,1994-06-25,United States,East Rutherford,Group Stage,Saudi Arabia,Morocco,2,1,0,0,0,Saudi Arabia,0,24.0,1,BWh,Arid,1,25.0,Csa,Temperate,1,17.0,1703.1,1722.7,-19.5,0.614
+1994,1994-06-26,United States,Chicago,Group Stage,Bulgaria,Greece,4,0,0,0,0,Bulgaria,0,24.0,1,Cfb,Temperate,0,10.0,Csa,Temperate,1,16.0,1717.4,1644.6,72.8,0.73
+1994,1994-06-26,United States,Stanford,Group Stage,Switzerland,Colombia,0,2,0,0,0,Colombia,0,24.0,1,Cfb,Temperate,0,6.0,Af,Tropical,1,24.0,1938.8,1796.5,142.3,0.801
+1994,1994-06-26,United States,Pasadena,Group Stage,United States,Romania,0,1,0,0,0,Romania,0,24.0,1,Cfa,Temperate,1,10.0,Dfb,Continental,0,9.0,1670.9,1828.6,-157.7,0.418
+1994,1994-06-27,United States,Chicago,Group Stage,Bolivia,Spain,1,3,0,0,0,Spain,0,24.0,1, Aw,Tropical,1,18.0,Csa,Temperate,1,14.0,1662.3,1853.7,-191.4,0.371
+1994,1994-06-27,United States,Dallas,Group Stage,Germany,South Korea,3,2,0,0,0,Germany,0,24.0,1,Cfb,Temperate,0,9.0,Dwa,Continental,0,11.0,1983.0,1744.7,238.3,0.875
+1994,1994-06-28,United States,Pontiac,Group Stage,Brazil,Sweden,1,1,0,0,0,,1,24.0,1,Am,Tropical,1,25.0,Dfc,Continental,0,3.0,1969.4,1919.5,49.8,0.703
+1994,1994-06-28,United States,D.C,Group Stage,Italy,Mexico,1,1,0,0,0,,1,24.0,1,Csa,Temperate,1,14.0,BSh,Arid,1,21.0,1932.2,1816.7,115.5,0.776
+1994,1994-06-28,United States,East Rutherford,Group Stage,Republic of Ireland,Norway,0,0,0,0,0,,1,24.0,1,Cfb,Temperate,0,10.0,Dfc,Continental,0,2.0,1840.2,1854.2,-14.0,0.621
+1994,1994-06-28,United States,Stanford,Group Stage,Russia,Cameroon,6,1,0,0,0,Russia,0,24.0,1,Dfc,Continental,0,-2.0,Am,Tropical,1,24.0,1806.0,1731.3,74.7,0.732
+1994,1994-06-29,United States,D.C,Group Stage,Belgium,Saudi Arabia,0,1,0,0,0,Saudi Arabia,0,24.0,1,Cfb,Temperate,0,10.0,BWh,Arid,1,25.0,1827.7,1726.3,101.4,0.761
+1994,1994-06-29,United States,Orlando,Group Stage,Morocco,Netherlands,1,2,0,0,0,Netherlands,0,24.0,1,Csa,Temperate,1,17.0,Cfb,Temperate,0,10.0,1699.5,1928.9,-229.4,0.322
+1994,1994-06-30,United States,Dallas,Group Stage,Argentina,Bulgaria,0,2,0,0,0,Bulgaria,0,24.0,1,Cfa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1907.3,1747.8,159.5,0.817
+1994,1994-06-30,United States,Foxborough,Group Stage,Greece,Nigeria,0,2,0,0,0,Nigeria,0,24.0,1,Csa,Temperate,1,16.0,Aw,Tropical,1,27.0,1614.2,1794.8,-180.5,0.386
+1994,1994-07-02,United States,Chicago,Round of 16,Germany,Belgium,3,2,0,0,0,Germany,0,24.0,1,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,1990.5,1782.1,208.5,0.855
+1994,1994-07-02,United States,D.C,Round of 16,Spain,Switzerland,3,0,0,0,0,Spain,0,24.0,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,6.0,1887.1,1866.7,20.4,0.667
+1994,1994-07-03,United States,Pasadena,Round of 16,Romania,Argentina,3,2,0,0,0,Romania,0,24.0,1,Dfb,Continental,0,9.0,Cfa,Temperate,1,14.0,1853.7,1833.8,19.9,0.666
+1994,1994-07-03,United States,Dallas,Round of 16,Saudi Arabia,Sweden,1,3,0,0,0,Sweden,0,24.0,1,BWh,Arid,1,25.0,Dfc,Continental,0,3.0,1772.0,1931.7,-159.7,0.415
+1994,1994-07-04,United States,Stanford,Round of 16,Brazil,United States,1,0,0,0,0,Brazil,0,24.0,1,Am,Tropical,1,25.0,Cfa,Temperate,1,10.0,1957.2,1645.8,311.3,0.914
+1994,1994-07-04,United States,Orlando,Round of 16,Netherlands,Republic of Ireland,2,0,0,0,0,Netherlands,0,24.0,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,10.0,1948.2,1832.9,115.4,0.775
+1994,1994-07-05,United States,East Rutherford,Round of 16,Mexico,Bulgaria,1,1,1,1,3,Bulgaria,1,24.0,1,BSh,Arid,1,21.0,Cfb,Temperate,0,10.0,1833.3,1821.3,12.0,0.656
+1994,1994-07-05,United States,Foxborough,Round of 16,Nigeria,Italy,1,2,0,0,0,Italy,0,24.0,1,Aw,Tropical,1,27.0,Csa,Temperate,1,14.0,1829.5,1915.7,-86.2,0.52
+1994,1994-07-09,United States,Foxborough,Quarter-final,Italy,Spain,2,1,0,0,0,Italy,0,24.0,1,Csa,Temperate,1,14.0,Csa,Temperate,1,14.0,1946.9,1922.1,24.8,0.672
+1994,1994-07-09,United States,Dallas,Quarter-final,Netherlands,Brazil,2,3,0,0,0,Brazil,0,24.0,1,Cfb,Temperate,0,10.0,Am,Tropical,1,25.0,1968.5,1970.9,-2.4,0.637
+1994,1994-07-10,United States,East Rutherford,Quarter-final,Bulgaria,Germany,2,1,0,0,0,Bulgaria,0,24.0,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,9.0,1830.6,1999.2,-168.6,0.403
+1994,1994-07-10,United States,Stanford,Quarter-final,Romania,Sweden,2,2,1,4,5,Sweden,1,24.0,1,Dfb,Continental,0,9.0,Dfc,Continental,0,3.0,1873.7,1969.1,-95.3,0.507
+1994,1994-07-13,United States,East Rutherford,Semi-final,Bulgaria,Italy,1,2,0,0,0,Italy,0,24.0,1,Cfb,Temperate,0,10.0,Csa,Temperate,1,14.0,1866.5,1966.5,-100.0,0.5
+1994,1994-07-13,United States,Pasadena,Semi-final,Sweden,Brazil,0,1,0,0,0,Brazil,0,24.0,1,Dfc,Continental,0,3.0,Am,Tropical,1,25.0,1969.5,2009.1,-39.6,0.586
+1994,1994-07-16,United States,Pasadena,Third place play-off,Sweden,Bulgaria,4,0,0,0,0,Sweden,0,24.0,1,Dfc,Continental,0,3.0,Cfb,Temperate,0,10.0,1934.3,1836.5,97.8,0.757
+1994,1994-07-17,United States,Pasadena,Final,Brazil,Italy,0,0,1,3,2,Brazil,1,24.0,1,Am,Tropical,1,25.0,Csa,Temperate,1,14.0,2044.3,1996.5,47.7,0.701
+1998,1998-06-10,France,Saint-Denis,Group Stage,Brazil,Scotland,2,1,0,0,0,Brazil,0,18.3,0,Am,Tropical,1,25.0,Cfb,Temperate,0,7.0,2082.0,1755.9,326.1,0.921
+1998,1998-06-10,France,Montpellier,Group Stage,Morocco,Norway,2,2,0,0,0,,1,18.3,0,Csa,Temperate,1,17.0,Dfc,Continental,0,2.0,1812.7,1937.0,-124.3,0.465
+1998,1998-06-11,France,Toulouse,Group Stage,Cameroon,Austria,1,1,0,0,0,,1,18.3,0,Am,Tropical,1,24.0,Dfb,Continental,0,7.0,1685.2,1705.6,-20.4,0.613
+1998,1998-06-11,France,Bordeaux,Group Stage,Italy,Chile,2,2,0,0,0,,1,18.3,0,Csa,Temperate,1,14.0,BSk,Arid,1,9.0,1935.6,1806.9,128.7,0.789
+1998,1998-06-12,France,Marseille,Group Stage,France,South Africa,3,0,0,0,0,France,0,18.3,0,Cfb,Temperate,0,11.5,BSh,Arid,1,17.0,1988.4,1669.7,318.6,0.918
+1998,1998-06-12,France,Montpellier,Group Stage,Paraguay,Bulgaria,0,0,0,0,0,,1,18.3,0,Cfa,Temperate,1,23.0,Cfb,Temperate,0,10.0,1731.5,1799.0,-67.5,0.547
+1998,1998-06-12,France,Lens,Group Stage,Saudi Arabia,Denmark,0,1,0,0,0,Denmark,0,18.3,0,BWh,Arid,1,25.0,Cfb,Temperate,0,8.0,1707.1,1843.9,-136.8,0.447
+1998,1998-06-13,France,Saint-Denis,Group Stage,Netherlands,Belgium,0,0,0,0,0,,1,18.3,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,10.0,1957.7,1796.0,161.7,0.819
+1998,1998-06-13,France,Lyon,Group Stage,South Korea,Mexico,1,3,0,0,0,Mexico,0,18.3,0,Dwa,Continental,0,11.0,BSh,Arid,1,21.0,1812.6,1860.8,-48.2,0.574
+1998,1998-06-13,France,Nantes,Group Stage,Spain,Nigeria,2,3,0,0,0,Nigeria,0,18.3,0,Csa,Temperate,1,14.0,Aw,Tropical,1,27.0,2002.8,1742.7,260.0,0.888
+1998,1998-06-14,France,Toulouse,Group Stage,Argentina,Japan,1,0,0,0,0,Argentina,0,18.3,0,Cfa,Temperate,1,14.0,Cfa,Temperate,1,12.0,1886.9,1754.2,132.7,0.792
+1998,1998-06-14,France,Lens,Group Stage,Jamaica,Croatia,1,3,0,0,0,Croatia,0,18.3,0,Aw,Tropical,1,26.0,Cfb,Temperate,0,11.0,1688.8,1860.8,-172.0,0.398
+1998,1998-06-14,France,Saint-Étienne,Group Stage,Yugoslavia,Iran,1,0,0,0,0,Yugoslavia,0,18.3,0,Cfb,Temperate,0,10.0,BWh,Arid,1,18.0,1884.9,1713.1,171.8,0.827
+1998,1998-06-15,France,Marseille,Group Stage,England,Tunisia,2,0,0,0,0,England,0,18.3,0,Cfb,Temperate,0,10.0,BWh,Arid,1,19.0,1951.0,1711.5,239.4,0.876
+1998,1998-06-15,France,Paris,Group Stage,Germany,United States,2,0,0,0,0,Germany,0,18.3,0,Cfb,Temperate,0,9.0,Cfa,Temperate,1,10.0,2050.7,1768.7,282.0,0.9
+1998,1998-06-15,France,Lyon,Group Stage,Romania,Colombia,1,0,0,0,0,Romania,0,18.3,0,Dfb,Continental,0,9.0,Af,Tropical,1,24.0,1845.3,1740.8,104.5,0.764
+1998,1998-06-16,France,Nantes,Group Stage,Brazil,Morocco,3,0,0,0,0,Brazil,0,18.3,0,Am,Tropical,1,25.0,Csa,Temperate,1,17.0,2086.7,1814.8,271.9,0.895
+1998,1998-06-16,France,Bordeaux,Group Stage,Scotland,Norway,1,1,0,0,0,,1,18.3,0,Cfb,Temperate,0,7.0,Dfc,Continental,0,2.0,1751.2,1934.9,-183.7,0.382
+1998,1998-06-17,France,Saint-Étienne,Group Stage,Chile,Austria,1,1,0,0,0,,1,18.3,0,BSk,Arid,1,9.0,Dfb,Continental,0,7.0,1824.2,1712.4,111.9,0.772
+1998,1998-06-17,France,Montpellier,Group Stage,Italy,Cameroon,3,0,0,0,0,Italy,0,18.3,0,Csa,Temperate,1,14.0,Am,Tropical,1,24.0,1918.3,1678.5,239.8,0.876
+1998,1998-06-18,France,Saint-Denis,Group Stage,France,Saudi Arabia,4,0,0,0,0,France,0,18.3,0,Cfb,Temperate,0,11.5,BWh,Arid,1,25.0,1997.0,1680.2,316.8,0.917
+1998,1998-06-18,France,Toulouse,Group Stage,South Africa,Denmark,1,1,0,0,0,,1,18.3,0,BSh,Arid,1,17.0,Cfb,Temperate,0,8.0,1661.1,1870.7,-209.6,0.347
+1998,1998-06-19,France,Paris,Group Stage,Nigeria,Bulgaria,1,0,0,0,0,Nigeria,0,18.3,0,Aw,Tropical,1,27.0,Cfb,Temperate,0,10.0,1796.0,1801.8,-5.8,0.632
+1998,1998-06-19,France,Saint-Étienne,Group Stage,Spain,Paraguay,0,0,0,0,0,,1,18.3,0,Csa,Temperate,1,14.0,Cfa,Temperate,1,23.0,1949.5,1728.7,220.8,0.864
+1998,1998-06-20,France,Bordeaux,Group Stage,Belgium,Mexico,2,2,0,0,0,,1,18.3,0,Cfb,Temperate,0,10.0,BSh,Arid,1,21.0,1815.1,1912.5,-97.3,0.504
+1998,1998-06-20,France,Nantes,Group Stage,Japan,Croatia,0,1,0,0,0,Croatia,0,18.3,0,Cfa,Temperate,1,12.0,Cfb,Temperate,0,11.0,1741.7,1896.6,-154.9,0.422
+1998,1998-06-20,France,Marseille,Group Stage,Netherlands,South Korea,5,0,0,0,0,Netherlands,0,18.3,0,Cfb,Temperate,0,10.0,Dwa,Continental,0,11.0,1938.6,1761.0,177.6,0.832
+1998,1998-06-21,France,Paris,Group Stage,Argentina,Jamaica,5,0,0,0,0,Argentina,0,18.3,0,Cfa,Temperate,1,14.0,Aw,Tropical,1,26.0,1899.3,1653.0,246.3,0.88
+1998,1998-06-21,France,Lens,Group Stage,Germany,Yugoslavia,2,2,0,0,0,,1,18.3,0,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,2059.7,1884.9,174.8,0.829
+1998,1998-06-21,France,Lyon,Group Stage,United States,Iran,1,2,0,0,0,Iran,0,18.3,0,Cfa,Temperate,1,10.0,BWh,Arid,1,18.0,1759.7,1702.1,57.6,0.712
+1998,1998-06-22,France,Montpellier,Group Stage,Colombia,Tunisia,1,0,0,0,0,Colombia,0,18.3,0,Af,Tropical,1,24.0,BWh,Arid,1,19.0,1726.6,1700.4,26.3,0.674
+1998,1998-06-22,France,Toulouse,Group Stage,Romania,England,2,1,0,0,0,Romania,0,18.3,0,Dfb,Continental,0,9.0,Cfb,Temperate,0,10.0,1859.4,1962.2,-102.7,0.496
+1998,1998-06-23,France,Marseille,Group Stage,Brazil,Norway,1,2,0,0,0,Norway,0,18.3,0,Am,Tropical,1,25.0,Dfc,Continental,0,2.0,2097.8,1927.8,170.0,0.826
+1998,1998-06-23,France,Nantes,Group Stage,Chile,Cameroon,1,1,0,0,0,,1,18.3,0,BSk,Arid,1,9.0,Am,Tropical,1,24.0,1807.9,1665.5,142.4,0.801
+1998,1998-06-23,France,Saint-Denis,Group Stage,Italy,Austria,2,1,0,0,0,Italy,0,18.3,0,Csa,Temperate,1,14.0,Dfb,Continental,0,7.0,1931.3,1728.7,202.6,0.851
+1998,1998-06-23,France,Saint-Étienne,Group Stage,Scotland,Morocco,0,3,0,0,0,Morocco,0,18.3,0,Cfb,Temperate,0,7.0,Csa,Temperate,1,17.0,1758.3,1803.8,-45.5,0.578
+1998,1998-06-24,France,Lyon,Group Stage,France,Denmark,2,1,0,0,0,France,0,18.3,0,Cfb,Temperate,0,11.5,Cfb,Temperate,0,8.0,2006.4,1861.5,144.9,0.804
+1998,1998-06-24,France,Toulouse,Group Stage,Nigeria,Paraguay,1,3,0,0,0,Paraguay,0,18.3,0,Aw,Tropical,1,27.0,Cfa,Temperate,1,23.0,1818.1,1750.5,67.6,0.724
+1998,1998-06-24,France,Bordeaux,Group Stage,South Africa,Saudi Arabia,2,2,0,0,0,,1,18.3,0,BSh,Arid,1,17.0,BWh,Arid,1,25.0,1670.3,1670.9,-0.6,0.639
+1998,1998-06-24,France,Lens,Group Stage,Spain,Bulgaria,6,1,0,0,0,Spain,0,18.3,0,Csa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1927.7,1779.7,147.9,0.807
+1998,1998-06-25,France,Paris,Group Stage,Belgium,South Korea,1,1,0,0,0,,1,18.3,0,Cfb,Temperate,0,10.0,Dwa,Continental,0,11.0,1814.9,1740.8,74.1,0.731
+1998,1998-06-25,France,Montpellier,Group Stage,Germany,Iran,2,0,0,0,0,Germany,0,18.3,0,Cfb,Temperate,0,9.0,BWh,Arid,1,18.0,2039.9,1744.8,295.1,0.907
+1998,1998-06-25,France,Saint-Étienne,Group Stage,Netherlands,Mexico,2,2,0,0,0,,1,18.3,0,Cfb,Temperate,0,10.0,BSh,Arid,1,21.0,1958.8,1912.7,46.1,0.699
+1998,1998-06-25,France,Nantes,Group Stage,United States,Yugoslavia,0,1,0,0,0,Yugoslavia,0,18.3,0,Cfa,Temperate,1,10.0,Cfb,Temperate,0,10.0,1717.0,1884.9,-167.9,0.404
+1998,1998-06-26,France,Bordeaux,Group Stage,Argentina,Croatia,1,0,0,0,0,Argentina,0,18.3,0,Cfa,Temperate,1,14.0,Cfb,Temperate,0,11.0,1913.7,1921.9,-8.2,0.629
+1998,1998-06-26,France,Lens,Group Stage,Colombia,England,0,2,0,0,0,England,0,18.3,0,Af,Tropical,1,24.0,Cfb,Temperate,0,10.0,1746.2,1931.9,-185.7,0.379
+1998,1998-06-26,France,Lyon,Group Stage,Japan,Jamaica,1,2,0,0,0,Jamaica,0,18.3,0,Cfa,Temperate,1,12.0,Aw,Tropical,1,26.0,1716.4,1638.6,77.8,0.736
+1998,1998-06-26,France,Saint-Denis,Group Stage,Romania,Tunisia,1,1,0,0,0,,1,18.3,0,Dfb,Continental,0,9.0,BWh,Arid,1,19.0,1889.6,1680.8,208.8,0.855
+1998,1998-06-27,France,Paris,Round of 16,Brazil,Chile,4,1,0,0,0,Brazil,0,18.3,0,Am,Tropical,1,25.0,BSk,Arid,1,9.0,2048.2,1789.8,258.4,0.887
+1998,1998-06-27,France,Marseille,Round of 16,Italy,Norway,1,0,0,0,0,Italy,0,18.3,0,Csa,Temperate,1,14.0,Dfc,Continental,0,2.0,1940.3,1977.3,-37.1,0.59
+1998,1998-06-28,France,Lens,Round of 16,France,Paraguay,1,0,0,0,0,France,0,18.3,0,Cfb,Temperate,0,11.5,Cfa,Temperate,1,23.0,2018.2,1815.7,202.5,0.851
+1998,1998-06-28,France,Saint-Denis,Round of 16,Nigeria,Denmark,1,4,0,0,0,Denmark,0,18.3,0,Aw,Tropical,1,27.0,Cfb,Temperate,0,8.0,1752.9,1849.8,-96.8,0.504
+1998,1998-06-29,France,Montpellier,Round of 16,Germany,Mexico,2,1,0,0,0,Germany,0,18.3,0,Cfb,Temperate,0,9.0,BSh,Arid,1,21.0,2048.3,1924.6,123.7,0.784
+1998,1998-06-29,France,Toulouse,Round of 16,Netherlands,Yugoslavia,2,1,0,0,0,Netherlands,0,18.3,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,10.0,1946.9,1884.9,62.0,0.718
+1998,1998-06-30,France,Saint-Étienne,Round of 16,Argentina,England,2,2,1,4,3,Argentina,1,18.3,0,Cfa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1936.0,1966.0,-30.1,0.599
+1998,1998-06-30,France,Bordeaux,Round of 16,Romania,Croatia,0,1,0,0,0,Croatia,0,18.3,0,Dfb,Continental,0,9.0,Cfb,Temperate,0,11.0,1868.3,1899.7,-31.3,0.597
+1998,1998-07-03,France,Nantes,Quarter-final,Brazil,Denmark,3,2,0,0,0,Brazil,0,18.3,0,Am,Tropical,1,25.0,Cfb,Temperate,0,8.0,2060.1,1902.7,157.4,0.815
+1998,1998-07-03,France,Saint-Denis,Quarter-final,Italy,France,0,0,1,3,4,France,1,18.3,0,Csa,Temperate,1,14.0,Cfb,Temperate,0,11.5,1964.9,2027.1,-62.2,0.554
+1998,1998-07-04,France,Lyon,Quarter-final,Germany,Croatia,0,3,0,0,0,Croatia,0,18.3,0,Cfb,Temperate,0,9.0,Cfb,Temperate,0,11.0,2061.3,1935.5,125.8,0.786
+1998,1998-07-04,France,Marseille,Quarter-final,Netherlands,Argentina,2,1,0,0,0,Netherlands,0,18.3,0,Cfb,Temperate,0,10.0,Cfa,Temperate,1,14.0,1966.9,1930.0,36.9,0.687
+1998,1998-07-07,France,Marseille,Semi-final,Brazil,Netherlands,1,1,1,4,2,Brazil,1,18.3,0,Am,Tropical,1,25.0,Cfb,Temperate,0,10.0,2071.2,1985.6,85.6,0.744
+1998,1998-07-08,France,Saint-Denis,Semi-final,France,Croatia,2,1,0,0,0,France,0,18.3,0,Cfb,Temperate,0,11.5,Cfb,Temperate,0,11.0,2014.1,2018.0,-4.0,0.635
+1998,1998-07-11,France,Paris,Third place play-off,Netherlands,Croatia,1,2,0,0,0,Croatia,0,18.3,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,11.0,2000.3,1996.1,4.2,0.646
+1998,1998-07-12,France,Saint-Denis,Final,Brazil,France,0,3,0,0,0,France,0,18.3,0,Am,Tropical,1,25.0,Cfb,Temperate,0,11.5,2056.5,2036.0,20.6,0.667
+2002,2002-05-31,"South Korea, Japan",Seoul,Group Stage,France,Senegal,0,1,0,0,0,Senegal,0,20.990909090909092,1,Cfb,Temperate,0,11.5,BSh,Arid,1,28.0,2080.4,1776.7,303.7,0.911
+2002,2002-06-01,"South Korea, Japan",Sapporo,Group Stage,Germany,Saudi Arabia,8,0,0,0,0,Germany,0,20.990909090909092,1,Cfb,Temperate,0,9.0,BWh,Arid,1,25.0,1880.9,1756.2,124.8,0.785
+2002,2002-06-01,"South Korea, Japan",Niigata,Group Stage,Republic of Ireland,Cameroon,1,1,0,0,0,,1,20.990909090909092,1,Cfb,Temperate,0,10.0,Am,Tropical,1,24.0,1884.9,1859.0,25.9,0.674
+2002,2002-06-01,"South Korea, Japan",Ulsan,Group Stage,Uruguay,Denmark,1,2,0,0,0,Denmark,0,20.990909090909092,1,Cfa,Temperate,1,16.0,Cfb,Temperate,0,8.0,1836.3,1895.8,-59.5,0.558
+2002,2002-06-02,"South Korea, Japan",Ibaraki,Group Stage,Argentina,Nigeria,1,0,0,0,0,Argentina,0,20.990909090909092,1,Cfa,Temperate,1,14.0,Aw,Tropical,1,27.0,2028.8,1841.2,187.6,0.84
+2002,2002-06-02,"South Korea, Japan",Saitama,Group Stage,England,Sweden,1,1,0,0,0,,1,20.990909090909092,1,Cfb,Temperate,0,10.0,Dfc,Continental,0,3.0,1925.4,1879.4,46.0,0.699
+2002,2002-06-02,"South Korea, Japan",Busan,Group Stage,Paraguay,South Africa,2,2,0,0,0,,1,20.990909090909092,1,Cfa,Temperate,1,23.0,BSh,Arid,1,17.0,1754.0,1702.0,52.0,0.706
+2002,2002-06-02,"South Korea, Japan",Gwangju,Group Stage,Spain,Slovenia,3,1,0,0,0,Spain,0,20.990909090909092,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,9.0,1946.2,1759.8,186.3,0.839
+2002,2002-06-03,"South Korea, Japan",Ulsan,Group Stage,Brazil,Turkey,2,1,0,0,0,Brazil,0,20.990909090909092,1,Am,Tropical,1,25.0,Csa,Temperate,1,12.0,1894.4,1744.9,149.5,0.808
+2002,2002-06-03,"South Korea, Japan",Niigata,Group Stage,Croatia,Mexico,0,1,0,0,0,Mexico,0,20.990909090909092,1,Cfb,Temperate,0,11.0,BSh,Arid,1,21.0,1863.5,1858.6,4.8,0.647
+2002,2002-06-03,"South Korea, Japan",Sapporo,Group Stage,Italy,Ecuador,2,0,0,0,0,Italy,0,20.990909090909092,1,Csa,Temperate,1,14.0,Af,Tropical,1,21.0,1980.8,1763.8,217.0,0.861
+2002,2002-06-04,"South Korea, Japan",Gwangju,Group Stage,China,Costa Rica,0,2,0,0,0,Costa Rica,0,20.990909090909092,1,Cwa,Temperate,1,8.0,Am,Tropical,1,25.0,1745.7,1798.1,-52.4,0.568
+2002,2002-06-04,"South Korea, Japan",Saitama,Group Stage,Japan,Belgium,2,2,0,0,0,,1,20.990909090909092,1,Cfa,Temperate,1,12.0,Cfb,Temperate,0,10.0,1854.4,1856.4,-1.9,0.637
+2002,2002-06-04,"South Korea, Japan",Busan,Group Stage,South Korea,Poland,2,0,0,0,0,South Korea,0,20.990909090909092,1,Dwa,Continental,0,11.0,Dfb,Continental,0,8.0,1799.2,1749.8,49.5,0.703
+2002,2002-06-05,"South Korea, Japan",Ibaraki,Group Stage,Germany,Republic of Ireland,1,1,0,0,0,,1,20.990909090909092,1,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,1911.6,1874.5,37.1,0.688
+2002,2002-06-05,"South Korea, Japan",Kobe,Group Stage,Russia,Tunisia,2,0,0,0,0,Russia,0,20.990909090909092,1,Dfc,Continental,0,-2.0,BWh,Arid,1,19.0,1785.9,1716.5,69.4,0.726
+2002,2002-06-05,"South Korea, Japan",Suwon,Group Stage,United States,Portugal,3,2,0,0,0,United States,0,20.990909090909092,1,Cfa,Temperate,1,10.0,Csa,Temperate,1,15.0,1828.6,1969.4,-140.7,0.442
+2002,2002-06-06,"South Korea, Japan",Saitama,Group Stage,Cameroon,Saudi Arabia,1,0,0,0,0,Cameroon,0,20.990909090909092,1,Am,Tropical,1,24.0,BWh,Arid,1,25.0,1869.4,1725.5,143.9,0.803
+2002,2002-06-06,"South Korea, Japan",Daegu,Group Stage,Denmark,Senegal,1,1,0,0,0,,1,20.990909090909092,1,Cfb,Temperate,0,8.0,BSh,Arid,1,28.0,1929.2,1831.3,97.9,0.758
+2002,2002-06-06,"South Korea, Japan",Busan,Group Stage,France,Uruguay,0,0,0,0,0,,1,20.990909090909092,1,Cfb,Temperate,0,11.5,Cfa,Temperate,1,16.0,2025.7,1802.8,222.9,0.865
+2002,2002-06-07,"South Korea, Japan",Sapporo,Group Stage,Argentina,England,0,1,0,0,0,England,0,20.990909090909092,1,Cfa,Temperate,1,14.0,Cfb,Temperate,0,10.0,2038.4,1913.5,124.9,0.785
+2002,2002-06-07,"South Korea, Japan",Jeonju,Group Stage,Spain,Paraguay,3,1,0,0,0,Spain,0,20.990909090909092,1,Csa,Temperate,1,14.0,Cfa,Temperate,1,23.0,1960.7,1741.7,219.0,0.863
+2002,2002-06-07,"South Korea, Japan",Kobe,Group Stage,Sweden,Nigeria,2,1,0,0,0,Sweden,0,20.990909090909092,1,Dfc,Continental,0,3.0,Aw,Tropical,1,27.0,1891.3,1831.6,59.7,0.715
+2002,2002-06-08,"South Korea, Japan",Seogwipo,Group Stage,Brazil,China,4,0,0,0,0,Brazil,0,20.990909090909092,1,Am,Tropical,1,25.0,Cwa,Temperate,1,8.0,1905.9,1694.5,211.4,0.857
+2002,2002-06-08,"South Korea, Japan",Ibaraki,Group Stage,Italy,Croatia,1,2,0,0,0,Croatia,0,20.990909090909092,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,11.0,1993.3,1824.7,168.6,0.824
+2002,2002-06-08,"South Korea, Japan",Daegu,Group Stage,South Africa,Slovenia,1,0,0,0,0,South Africa,0,20.990909090909092,1,BSh,Arid,1,17.0,Cfb,Temperate,0,9.0,1714.4,1745.3,-30.9,0.598
+2002,2002-06-09,"South Korea, Japan",Incheon,Group Stage,Costa Rica,Turkey,1,1,0,0,0,,1,20.990909090909092,1,Am,Tropical,1,25.0,Csa,Temperate,1,12.0,1849.2,1733.4,115.8,0.776
+2002,2002-06-09,"South Korea, Japan",Yokohama,Group Stage,Japan,Russia,1,0,0,0,0,Japan,0,20.990909090909092,1,Cfa,Temperate,1,12.0,Dfc,Continental,0,-2.0,1846.2,1810.6,35.6,0.686
+2002,2002-06-09,"South Korea, Japan",Miyagi,Group Stage,Mexico,Ecuador,2,1,0,0,0,Mexico,0,20.990909090909092,1,BSh,Arid,1,21.0,Af,Tropical,1,21.0,1897.4,1751.3,146.1,0.805
+2002,2002-06-10,"South Korea, Japan",Jeonju,Group Stage,Portugal,Poland,4,0,0,0,0,Portugal,0,20.990909090909092,1,Csa,Temperate,1,15.0,Dfb,Continental,0,8.0,1935.9,1723.0,212.9,0.858
+2002,2002-06-10,"South Korea, Japan",Daegu,Group Stage,South Korea,United States,1,1,0,0,0,,1,20.990909090909092,1,Dwa,Continental,0,11.0,Cfa,Temperate,1,10.0,1826.0,1862.1,-36.2,0.591
+2002,2002-06-10,"South Korea, Japan",Ōita,Group Stage,Tunisia,Belgium,1,1,0,0,0,,1,20.990909090909092,1,BWh,Arid,1,19.0,Cfb,Temperate,0,10.0,1691.9,1864.6,-172.7,0.397
+2002,2002-06-11,"South Korea, Japan",Shizuoka,Group Stage,Cameroon,Germany,0,2,0,0,0,Germany,0,20.990909090909092,1,Am,Tropical,1,24.0,Cfb,Temperate,0,9.0,1881.2,1900.3,-19.1,0.614
+2002,2002-06-11,"South Korea, Japan",Incheon,Group Stage,Denmark,France,2,0,0,0,0,Denmark,0,20.990909090909092,1,Cfb,Temperate,0,8.0,Cfb,Temperate,0,11.5,1913.8,2003.8,-90.1,0.514
+2002,2002-06-11,"South Korea, Japan",Yokohama,Group Stage,Saudi Arabia,Republic of Ireland,0,3,0,0,0,Republic of Ireland,0,20.990909090909092,1,BWh,Arid,1,25.0,Cfb,Temperate,0,10.0,1713.7,1885.7,-172.1,0.398
+2002,2002-06-11,"South Korea, Japan",Suwon,Group Stage,Senegal,Uruguay,3,3,0,0,0,,1,20.990909090909092,1,BSh,Arid,1,28.0,Cfa,Temperate,1,16.0,1846.8,1824.7,22.0,0.669
+2002,2002-06-12,"South Korea, Japan",Osaka,Group Stage,Nigeria,England,0,0,0,0,0,,1,20.990909090909092,1,Aw,Tropical,1,27.0,Cfb,Temperate,0,10.0,1814.5,1960.6,-146.1,0.434
+2002,2002-06-12,"South Korea, Japan",Seogwipo,Group Stage,Slovenia,Paraguay,1,3,0,0,0,Paraguay,0,20.990909090909092,1,Cfb,Temperate,0,9.0,Cfa,Temperate,1,23.0,1721.2,1729.3,-8.1,0.629
+2002,2002-06-12,"South Korea, Japan",Daejeon,Group Stage,South Africa,Spain,2,3,0,0,0,Spain,0,20.990909090909092,1,BSh,Arid,1,17.0,Csa,Temperate,1,14.0,1738.5,1973.1,-234.6,0.315
+2002,2002-06-12,"South Korea, Japan",Miyagi,Group Stage,Sweden,Argentina,1,1,0,0,0,,1,20.990909090909092,1,Dfc,Continental,0,3.0,Cfa,Temperate,1,14.0,1908.4,1991.3,-82.9,0.525
+2002,2002-06-13,"South Korea, Japan",Suwon,Group Stage,Costa Rica,Brazil,2,5,0,0,0,Brazil,0,20.990909090909092,1,Am,Tropical,1,25.0,Am,Tropical,1,25.0,1832.6,1922.0,-89.3,0.515
+2002,2002-06-13,"South Korea, Japan",Yokohama,Group Stage,Ecuador,Croatia,1,0,0,0,0,Ecuador,0,20.990909090909092,1,Af,Tropical,1,21.0,Cfb,Temperate,0,11.0,1739.6,1874.1,-134.6,0.451
+2002,2002-06-13,"South Korea, Japan",Ōita,Group Stage,Mexico,Italy,1,1,0,0,0,,1,20.990909090909092,1,BSh,Arid,1,21.0,Csa,Temperate,1,14.0,1909.1,1943.9,-34.7,0.593
+2002,2002-06-13,"South Korea, Japan",Seoul,Group Stage,Turkey,China,3,0,0,0,0,Turkey,0,20.990909090909092,1,Csa,Temperate,1,12.0,Cwa,Temperate,1,8.0,1749.9,1678.5,71.5,0.728
+2002,2002-06-14,"South Korea, Japan",Shizuoka,Group Stage,Belgium,Russia,3,2,0,0,0,Belgium,0,20.990909090909092,1,Cfb,Temperate,0,10.0,Dfc,Continental,0,-2.0,1858.4,1791.7,66.7,0.723
+2002,2002-06-14,"South Korea, Japan",Daejeon,Group Stage,Poland,United States,3,1,0,0,0,Poland,0,20.990909090909092,1,Dfb,Continental,0,8.0,Cfa,Temperate,1,10.0,1707.1,1867.6,-160.5,0.414
+2002,2002-06-14,"South Korea, Japan",Incheon,Group Stage,Portugal,South Korea,0,1,0,0,0,South Korea,0,20.990909090909092,1,Csa,Temperate,1,15.0,Dwa,Continental,0,11.0,1951.8,1820.5,131.3,0.791
+2002,2002-06-14,"South Korea, Japan",Osaka,Group Stage,Tunisia,Japan,0,2,0,0,0,Japan,0,20.990909090909092,1,BWh,Arid,1,19.0,Cfa,Temperate,1,12.0,1698.1,1865.0,-167.0,0.405
+2002,2002-06-15,"South Korea, Japan",Niigata,Round of 16,Denmark,England,0,3,0,0,0,England,0,20.990909090909092,1,Cfb,Temperate,0,8.0,Cfb,Temperate,0,10.0,1957.5,1956.6,0.9,0.641
+2002,2002-06-15,"South Korea, Japan",Seogwipo,Round of 16,Germany,Paraguay,1,0,0,0,0,Germany,0,20.990909090909092,1,Cfb,Temperate,0,9.0,Cfa,Temperate,1,23.0,1955.6,1785.9,169.7,0.825
+2002,2002-06-16,"South Korea, Japan",Suwon,Round of 16,Spain,Republic of Ireland,1,1,1,3,2,Spain,1,20.990909090909092,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1992.0,1927.5,64.5,0.72
+2002,2002-06-16,"South Korea, Japan",Ōita,Round of 16,Sweden,Senegal,1,2,0,0,0,Senegal,0,20.990909090909092,1,Dfc,Continental,0,3.0,BSh,Arid,1,28.0,1906.9,1836.6,70.3,0.727
+2002,2002-06-17,"South Korea, Japan",Kobe,Round of 16,Brazil,Belgium,2,0,0,0,0,Brazil,0,20.990909090909092,1,Am,Tropical,1,25.0,Cfb,Temperate,0,10.0,1976.1,1875.0,101.0,0.761
+2002,2002-06-17,"South Korea, Japan",Jeonju,Round of 16,Mexico,United States,0,2,0,0,0,United States,0,20.990909090909092,1,BSh,Arid,1,21.0,Cfa,Temperate,1,10.0,1903.6,1814.8,88.7,0.748
+2002,2002-06-18,"South Korea, Japan",Rifu,Round of 16,Japan,Turkey,0,1,0,0,0,Turkey,0,20.990909090909092,1,Cfa,Temperate,1,12.0,Csa,Temperate,1,12.0,1881.0,1778.4,102.5,0.762
+2002,2002-06-18,"South Korea, Japan",Daejeon,Round of 16,South Korea,Italy,2,1,0,0,0,South Korea,0,20.990909090909092,1,Dwa,Continental,0,11.0,Csa,Temperate,1,14.0,1853.2,1949.4,-96.2,0.505
+2002,2002-06-21,"South Korea, Japan",Fukuroi,Quarter-final,England,Brazil,1,2,0,0,0,Brazil,0,20.990909090909092,1,Cfb,Temperate,0,10.0,Am,Tropical,1,25.0,2024.0,1997.6,26.4,0.674
+2002,2002-06-21,"South Korea, Japan",Ulsan,Quarter-final,Germany,United States,1,0,0,0,0,Germany,0,20.990909090909092,1,Cfb,Temperate,0,9.0,Cfa,Temperate,1,10.0,1966.1,1882.1,84.0,0.743
+2002,2002-06-22,"South Korea, Japan",Osaka,Quarter-final,Senegal,Turkey,0,1,0,0,0,Turkey,0,20.990909090909092,1,BSh,Arid,1,28.0,Csa,Temperate,1,12.0,1880.3,1824.2,56.1,0.711
+2002,2002-06-22,"South Korea, Japan",Gwangju,Quarter-final,Spain,South Korea,0,0,1,3,5,South Korea,1,20.990909090909092,1,Csa,Temperate,1,14.0,Dwa,Continental,0,11.0,1978.8,1882.9,95.9,0.755
+2002,2002-06-25,"South Korea, Japan",Seoul,Semi-final,Germany,South Korea,1,0,0,0,0,Germany,0,20.990909090909092,1,Cfb,Temperate,0,9.0,Dwa,Continental,0,11.0,1981.5,1882.5,99.0,0.759
+2002,2002-06-26,"South Korea, Japan",Saitama,Semi-final,Brazil,Turkey,1,0,0,0,0,Brazil,0,20.990909090909092,1,Am,Tropical,1,25.0,Csa,Temperate,1,12.0,2038.1,1866.8,171.2,0.827
+2002,2002-06-29,"South Korea, Japan",Daegu,Third place play-off,South Korea,Turkey,2,3,0,0,0,Turkey,0,20.990909090909092,1,Dwa,Continental,0,11.0,Csa,Temperate,1,12.0,1852.4,1856.4,-4.0,0.635
+2002,2002-06-30,"South Korea, Japan",Yokohama,Final,Germany,Brazil,0,2,0,0,0,Brazil,0,20.990909090909092,1,Cfb,Temperate,0,9.0,Am,Tropical,1,25.0,2011.6,2048.5,-36.8,0.59
+2006,2006-06-09,Germany,Munich,Group Stage,Germany,Costa Rica,4,2,0,0,0,Germany,0,19.966666666666665,1,Cfb,Temperate,0,9.0,Am,Tropical,1,25.0,1927.1,1735.7,191.3,0.843
+2006,2006-06-09,Germany,Gelsenkirchen,Group Stage,Poland,Ecuador,0,2,0,0,0,Ecuador,0,19.966666666666665,1,Dfb,Continental,0,8.0,Af,Tropical,1,21.0,1841.1,1722.2,118.9,0.779
+2006,2006-06-10,Germany,Hamburg,Group Stage,Argentina,Ivory Coast,2,1,0,0,0,Argentina,0,19.966666666666665,1,Cfa,Temperate,1,14.0,Aw,Tropical,1,26.0,1965.6,1880.8,84.8,0.743
+2006,2006-06-10,Germany,Frankfurt,Group Stage,England,Paraguay,1,0,0,0,0,England,0,19.966666666666665,1,Cfb,Temperate,0,10.0,Cfa,Temperate,1,23.0,1998.1,1816.5,181.5,0.835
+2006,2006-06-10,Germany,Dortmund,Group Stage,Trinidad and Tobago,Sweden,0,0,0,0,0,,1,19.966666666666665,1,Am,Tropical,1,26.0,Dfc,Continental,0,3.0,1655.4,1866.5,-211.1,0.345
+2006,2006-06-11,Germany,Cologne,Group Stage,Angola,Portugal,0,1,0,0,0,Portugal,0,19.966666666666665,1,Aw,Tropical,1,23.0,Csa,Temperate,1,15.0,1648.9,1940.3,-291.4,0.249
+2006,2006-06-11,Germany,Nuremberg,Group Stage,Mexico,Iran,3,1,0,0,0,Mexico,0,19.966666666666665,1,BSh,Arid,1,21.0,BWh,Arid,1,18.0,1846.6,1895.7,-49.1,0.573
+2006,2006-06-11,Germany,Leipzig,Group Stage,Serbia and Montenegro,Netherlands,0,1,0,0,0,Netherlands,0,19.966666666666665,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,10.0,1836.7,2000.4,-163.7,0.409
+2006,2006-06-12,Germany,Kaiserslautern,Group Stage,Australia,Japan,3,1,0,0,0,Australia,0,19.966666666666665,1,BWh,Arid,1,22.0,Cfa,Temperate,1,12.0,1898.8,1838.3,60.6,0.716
+2006,2006-06-12,Germany,Hanover,Group Stage,Italy,Ghana,2,0,0,0,0,Italy,0,19.966666666666665,1,Csa,Temperate,1,14.0,Aw,Tropical,1,27.0,1965.5,1727.4,238.1,0.875
+2006,2006-06-12,Germany,Gelsenkirchen,Group Stage,United States,Czech Republic,0,3,0,0,0,Czech Republic,0,19.966666666666665,1,Cfa,Temperate,1,10.0,Dfb,Continental,0,8.0,1885.3,1997.3,-111.9,0.483
+2006,2006-06-13,Germany,Berlin,Group Stage,Brazil,Croatia,1,0,0,0,0,Brazil,0,19.966666666666665,1,Am,Tropical,1,25.0,Cfb,Temperate,0,11.0,2069.3,1863.9,205.5,0.853
+2006,2006-06-13,Germany,Stuttgart,Group Stage,France,Switzerland,0,0,0,0,0,,1,19.966666666666665,1,Cfb,Temperate,0,11.5,Cfb,Temperate,0,6.0,1990.5,1832.2,158.3,0.816
+2006,2006-06-13,Germany,Frankfurt,Group Stage,South Korea,Togo,2,1,0,0,0,South Korea,0,19.966666666666665,1,Dwa,Continental,0,11.0,Aw,Tropical,1,27.0,1812.5,1627.1,185.3,0.838
+2006,2006-06-14,Germany,Dortmund,Group Stage,Germany,Poland,1,0,0,0,0,Germany,0,19.966666666666665,1,Cfb,Temperate,0,9.0,Dfb,Continental,0,8.0,1941.2,1771.0,170.3,0.826
+2006,2006-06-14,Germany,Leipzig,Group Stage,Spain,Ukraine,4,0,0,0,0,Spain,0,19.966666666666665,1,Csa,Temperate,1,14.0,Dfb,Continental,0,8.0,1992.0,1805.6,186.4,0.839
+2006,2006-06-14,Germany,Munich,Group Stage,Tunisia,Saudi Arabia,2,2,0,0,0,,1,19.966666666666665,1,BWh,Arid,1,19.0,BWh,Arid,1,25.0,1782.4,1620.0,162.4,0.819
+2006,2006-06-15,Germany,Hamburg,Group Stage,Ecuador,Costa Rica,3,0,0,0,0,Ecuador,0,19.966666666666665,1,Af,Tropical,1,21.0,Am,Tropical,1,25.0,1792.3,1721.6,70.7,0.728
+2006,2006-06-15,Germany,Nuremberg,Group Stage,England,Trinidad and Tobago,2,0,0,0,0,England,0,19.966666666666665,1,Cfb,Temperate,0,10.0,Am,Tropical,1,26.0,2008.0,1664.6,343.3,0.928
+2006,2006-06-15,Germany,Berlin,Group Stage,Sweden,Paraguay,1,0,0,0,0,Sweden,0,19.966666666666665,1,Dfc,Continental,0,3.0,Cfa,Temperate,1,23.0,1857.2,1806.6,50.6,0.704
+2006,2006-06-16,Germany,Gelsenkirchen,Group Stage,Argentina,Serbia and Montenegro,6,0,0,0,0,Argentina,0,19.966666666666665,1,Cfa,Temperate,1,14.0,Cfb,Temperate,0,10.0,1981.0,1836.7,144.3,0.803
+2006,2006-06-16,Germany,Hanover,Group Stage,Mexico,Angola,0,0,0,0,0,,1,19.966666666666665,1,BSh,Arid,1,21.0,Aw,Tropical,1,23.0,1885.1,1633.9,251.2,0.883
+2006,2006-06-16,Germany,Stuttgart,Group Stage,Netherlands,Ivory Coast,2,1,0,0,0,Netherlands,0,19.966666666666665,1,Cfb,Temperate,0,10.0,Aw,Tropical,1,26.0,2023.7,1865.4,158.3,0.816
+2006,2006-06-17,Germany,Cologne,Group Stage,Czech Republic,Ghana,0,2,0,0,0,Ghana,0,19.966666666666665,1,Dfb,Continental,0,8.0,Aw,Tropical,1,27.0,2047.9,1716.2,331.8,0.923
+2006,2006-06-17,Germany,Kaiserslautern,Group Stage,Italy,United States,1,1,0,0,0,,1,19.966666666666665,1,Csa,Temperate,1,14.0,Cfa,Temperate,1,10.0,1976.8,1834.6,142.1,0.801
+2006,2006-06-17,Germany,Frankfurt,Group Stage,Portugal,Iran,2,0,0,0,0,Portugal,0,19.966666666666665,1,Csa,Temperate,1,15.0,BWh,Arid,1,18.0,1955.2,1857.3,98.0,0.758
+2006,2006-06-18,Germany,Munich,Group Stage,Brazil,Australia,2,0,0,0,0,Brazil,0,19.966666666666665,1,Am,Tropical,1,25.0,BWh,Arid,1,22.0,2078.1,1924.4,153.7,0.812
+2006,2006-06-18,Germany,Leipzig,Group Stage,France,South Korea,1,1,0,0,0,,1,19.966666666666665,1,Cfb,Temperate,0,11.5,Dwa,Continental,0,11.0,1971.5,1822.2,149.3,0.808
+2006,2006-06-18,Germany,Nuremberg,Group Stage,Japan,Croatia,0,0,0,0,0,,1,19.966666666666665,1,Cfa,Temperate,1,12.0,Cfb,Temperate,0,11.0,1812.7,1855.1,-42.3,0.582
+2006,2006-06-19,Germany,Hamburg,Group Stage,Saudi Arabia,Ukraine,0,4,0,0,0,Ukraine,0,19.966666666666665,1,BWh,Arid,1,25.0,Dfb,Continental,0,8.0,1639.2,1787.5,-148.3,0.431
+2006,2006-06-19,Germany,Stuttgart,Group Stage,Spain,Tunisia,3,1,0,0,0,Spain,0,19.966666666666665,1,Csa,Temperate,1,14.0,BWh,Arid,1,19.0,2010.2,1763.2,246.9,0.881
+2006,2006-06-19,Germany,Dortmund,Group Stage,Togo,Switzerland,0,2,0,0,0,Switzerland,0,19.966666666666665,1,Aw,Tropical,1,27.0,Cfb,Temperate,0,6.0,1617.4,1851.1,-233.7,0.317
+2006,2006-06-20,Germany,Hanover,Group Stage,Costa Rica,Poland,1,2,0,0,0,Poland,0,19.966666666666665,1,Am,Tropical,1,25.0,Dfb,Continental,0,8.0,1693.0,1760.5,-67.5,0.547
+2006,2006-06-20,Germany,Berlin,Group Stage,Ecuador,Germany,0,3,0,0,0,Germany,0,19.966666666666665,1,Af,Tropical,1,21.0,Cfb,Temperate,0,9.0,1820.9,1951.7,-130.8,0.456
+2006,2006-06-20,Germany,Kaiserslautern,Group Stage,Paraguay,Trinidad and Tobago,2,0,0,0,0,Paraguay,0,19.966666666666665,1,Cfa,Temperate,1,23.0,Am,Tropical,1,26.0,1788.9,1658.1,130.7,0.791
+2006,2006-06-20,Germany,Cologne,Group Stage,Sweden,England,2,2,0,0,0,,1,19.966666666666665,1,Dfc,Continental,0,3.0,Cfb,Temperate,0,10.0,1874.9,2014.5,-139.5,0.443
+2006,2006-06-21,Germany,Leipzig,Group Stage,Iran,Angola,1,1,0,0,0,,1,19.966666666666665,1,BWh,Arid,1,18.0,Aw,Tropical,1,23.0,1835.5,1656.9,178.6,0.833
+2006,2006-06-21,Germany,Munich,Group Stage,Ivory Coast,Serbia and Montenegro,3,2,0,0,0,Ivory Coast,0,19.966666666666665,1,Aw,Tropical,1,26.0,Cfb,Temperate,0,10.0,1854.3,1836.7,17.7,0.663
+2006,2006-06-21,Germany,Frankfurt,Group Stage,Netherlands,Argentina,0,0,0,0,0,,1,19.966666666666665,1,Cfb,Temperate,0,10.0,Cfa,Temperate,1,14.0,2034.8,2001.9,32.8,0.682
+2006,2006-06-21,Germany,Gelsenkirchen,Group Stage,Portugal,Mexico,2,1,0,0,0,Portugal,0,19.966666666666665,1,Csa,Temperate,1,15.0,BSh,Arid,1,21.0,1977.1,1862.1,115.0,0.775
+2006,2006-06-22,Germany,Stuttgart,Group Stage,Croatia,Australia,2,2,0,0,0,,1,19.966666666666665,1,Cfb,Temperate,0,11.0,BWh,Arid,1,22.0,1860.0,1907.5,-47.5,0.575
+2006,2006-06-22,Germany,Hamburg,Group Stage,Czech Republic,Italy,0,2,0,0,0,Italy,0,19.966666666666665,1,Dfb,Continental,0,8.0,Csa,Temperate,1,14.0,1964.9,1958.7,6.2,0.648
+2006,2006-06-22,Germany,Nuremberg,Group Stage,Ghana,United States,2,1,0,0,0,Ghana,0,19.966666666666665,1,Aw,Tropical,1,27.0,Cfa,Temperate,1,10.0,1799.2,1852.7,-53.5,0.567
+2006,2006-06-22,Germany,Dortmund,Group Stage,Japan,Brazil,1,4,0,0,0,Brazil,0,19.966666666666665,1,Cfa,Temperate,1,12.0,Am,Tropical,1,25.0,1807.8,2095.1,-287.3,0.254
+2006,2006-06-23,Germany,Kaiserslautern,Group Stage,Saudi Arabia,Spain,0,1,0,0,0,Spain,0,19.966666666666665,1,BWh,Arid,1,25.0,Csa,Temperate,1,14.0,1590.7,2020.9,-430.2,0.13
+2006,2006-06-23,Germany,Hanover,Group Stage,Switzerland,South Korea,2,0,0,0,0,Switzerland,0,19.966666666666665,1,Cfb,Temperate,0,6.0,Dwa,Continental,0,11.0,1879.6,1840.7,38.9,0.69
+2006,2006-06-23,Germany,Cologne,Group Stage,Togo,France,0,2,0,0,0,France,0,19.966666666666665,1,Aw,Tropical,1,27.0,Cfb,Temperate,0,11.5,1588.9,1953.1,-364.1,0.179
+2006,2006-06-23,Germany,Berlin,Group Stage,Ukraine,Tunisia,1,0,0,0,0,Ukraine,0,19.966666666666665,1,Dfb,Continental,0,8.0,BWh,Arid,1,19.0,1835.9,1752.5,83.5,0.742
+2006,2006-06-24,Germany,Leipzig,Round of 16,Argentina,Mexico,2,1,0,0,0,Argentina,0,19.966666666666665,1,Cfa,Temperate,1,14.0,BSh,Arid,1,21.0,2012.9,1848.6,164.3,0.821
+2006,2006-06-24,Germany,Munich,Round of 16,Germany,Sweden,2,0,0,0,0,Germany,0,19.966666666666665,1,Cfb,Temperate,0,9.0,Dfc,Continental,0,3.0,1973.7,1878.3,95.3,0.755
+2006,2006-06-25,Germany,Stuttgart,Round of 16,England,Ecuador,1,0,0,0,0,England,0,19.966666666666665,1,Cfb,Temperate,0,10.0,Af,Tropical,1,21.0,2011.1,1798.9,212.2,0.858
+2006,2006-06-25,Germany,Nuremberg,Round of 16,Portugal,Netherlands,1,0,0,0,0,Portugal,0,19.966666666666665,1,Csa,Temperate,1,15.0,Cfb,Temperate,0,10.0,1990.5,2023.8,-33.3,0.595
+2006,2006-06-26,Germany,Kaiserslautern,Round of 16,Italy,Australia,1,0,0,0,0,Italy,0,19.966666666666665,1,Csa,Temperate,1,14.0,BWh,Arid,1,22.0,2017.0,1912.0,105.1,0.765
+2006,2006-06-26,Germany,Cologne,Round of 16,Switzerland,Ukraine,0,0,1,0,3,Ukraine,1,19.966666666666665,1,Cfb,Temperate,0,6.0,Dfb,Continental,0,8.0,1907.5,1851.4,56.1,0.711
+2006,2006-06-27,Germany,Dortmund,Round of 16,Brazil,Ghana,3,0,0,0,0,Brazil,0,19.966666666666665,1,Am,Tropical,1,25.0,Aw,Tropical,1,27.0,2121.8,1825.2,296.5,0.907
+2006,2006-06-27,Germany,Hanover,Round of 16,Spain,France,1,3,0,0,0,France,0,19.966666666666665,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,11.5,2028.7,1969.2,59.5,0.715
+2006,2006-06-30,Germany,Berlin,Quarter-final,Germany,Argentina,1,1,1,4,2,Germany,1,19.966666666666665,1,Cfb,Temperate,0,9.0,Cfa,Temperate,1,14.0,1995.7,2023.6,-27.9,0.602
+2006,2006-06-30,Germany,Hamburg,Quarter-final,Italy,Ukraine,3,0,0,0,0,Italy,0,19.966666666666665,1,Csa,Temperate,1,14.0,Dfb,Continental,0,8.0,2031.1,1864.1,167.1,0.823
+2006,2006-07-01,Germany,Frankfurt,Quarter-final,Brazil,France,0,1,0,0,0,France,0,19.966666666666665,1,Am,Tropical,1,25.0,Cfb,Temperate,0,11.5,2131.5,2033.5,97.9,0.758
+2006,2006-07-01,Germany,Gelsenkirchen,Quarter-final,England,Portugal,0,0,1,1,3,Portugal,1,19.966666666666665,1,Cfb,Temperate,0,10.0,Csa,Temperate,1,15.0,2019.6,2014.9,4.7,0.646
+2006,2006-07-04,Germany,Dortmund,Semi-final,Germany,Italy,0,2,0,0,0,Italy,0,19.966666666666665,1,Cfb,Temperate,0,9.0,Csa,Temperate,1,14.0,1989.6,2049.7,-60.1,0.557
+2006,2006-07-05,Germany,Munich,Semi-final,Portugal,France,0,1,0,0,0,France,0,19.966666666666665,1,Csa,Temperate,1,15.0,Cfb,Temperate,0,11.5,2023.6,2079.0,-55.3,0.564
+2006,2006-07-08,Germany,Stuttgart,Third place play-off,Germany,Portugal,3,1,0,0,0,Germany,0,19.966666666666665,1,Cfb,Temperate,0,9.0,Csa,Temperate,1,15.0,1939.5,1989.8,-50.3,0.571
+2006,2006-07-09,Germany,Berlin,Final,Italy,France,1,1,1,5,3,Italy,1,19.966666666666665,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,11.5,2099.8,2112.8,-13.0,0.623
+2010,2010-06-11,South Africa,Johannesburg,Group Stage,South Africa,Mexico,1,1,0,0,0,,1,11.177777777777775,0,BSh,Arid,1,17.0,BSh,Arid,1,21.0,1703.6,1942.9,-239.4,0.31
+2010,2010-06-11,South Africa,Cape Town,Group Stage,Uruguay,France,0,0,0,0,0,,1,11.177777777777775,0,Cfa,Temperate,1,16.0,Cfb,Temperate,0,11.5,1904.3,1876.9,27.4,0.676
+2010,2010-06-12,South Africa,Johannesburg,Group Stage,Argentina,Nigeria,1,0,0,0,0,Argentina,0,11.177777777777775,0,Cfa,Temperate,1,14.0,Aw,Tropical,1,27.0,1962.9,1808.2,154.7,0.812
+2010,2010-06-12,South Africa,Rustenburg,Group Stage,England,United States,1,1,0,0,0,,1,11.177777777777775,0,Cfb,Temperate,0,10.0,Cfa,Temperate,1,10.0,2044.9,1834.5,210.4,0.857
+2010,2010-06-12,South Africa,Port Elizabeth,Group Stage,South Korea,Greece,2,0,0,0,0,South Korea,0,11.177777777777775,0,Dwa,Continental,0,11.0,Csa,Temperate,1,16.0,1882.8,1728.7,154.2,0.812
+2010,2010-06-13,South Africa,Polokwane,Group Stage,Algeria,Slovenia,0,1,0,0,0,Slovenia,0,11.177777777777775,0,BWh,Arid,1,22.0,Cfb,Temperate,0,9.0,1632.5,1714.7,-82.2,0.526
+2010,2010-06-13,South Africa,Durban,Group Stage,Germany,Australia,4,0,0,0,0,Germany,0,11.177777777777775,0,Cfb,Temperate,0,9.0,BWh,Arid,1,22.0,1971.9,1845.8,126.1,0.786
+2010,2010-06-13,South Africa,Pretoria,Group Stage,Serbia,Ghana,0,1,0,0,0,Ghana,0,11.177777777777775,0,Cfb,Temperate,0,10.0,Aw,Tropical,1,27.0,1904.0,1755.4,148.6,0.807
+2010,2010-06-14,South Africa,Cape Town,Group Stage,Italy,Paraguay,1,1,0,0,0,,1,11.177777777777775,0,Csa,Temperate,1,14.0,Cfa,Temperate,1,23.0,1951.1,1807.2,144.0,0.803
+2010,2010-06-14,South Africa,Bloemfontein,Group Stage,Japan,Cameroon,1,0,0,0,0,Japan,0,11.177777777777775,0,Cfa,Temperate,1,12.0,Am,Tropical,1,24.0,1742.6,1780.8,-38.2,0.588
+2010,2010-06-14,South Africa,Johannesburg,Group Stage,Netherlands,Denmark,2,0,0,0,0,Netherlands,0,11.177777777777775,0,Cfb,Temperate,0,10.0,Cfb,Temperate,0,8.0,2048.3,1781.4,266.9,0.892
+2010,2010-06-15,South Africa,Johannesburg,Group Stage,Brazil,North Korea,2,1,0,0,0,Brazil,0,11.177777777777775,0,Am,Tropical,1,25.0,Dwa,Continental,0,8.0,2181.6,1632.7,548.9,0.977
+2010,2010-06-15,South Africa,Port Elizabeth,Group Stage,Ivory Coast,Portugal,0,0,0,0,0,,1,11.177777777777775,0,Aw,Tropical,1,26.0,Csa,Temperate,1,15.0,1831.3,1898.8,-67.5,0.547
+2010,2010-06-15,South Africa,Rustenburg,Group Stage,New Zealand,Slovakia,1,1,0,0,0,,1,11.177777777777775,0,Cfb,Temperate,0,11.0,Dfb,Continental,0,8.0,1683.4,1695.9,-12.5,0.623
+2010,2010-06-16,South Africa,Nelspruit,Group Stage,Honduras,Chile,0,1,0,0,0,Chile,0,11.177777777777775,0,Am,Tropical,1,24.0,BSk,Arid,1,9.0,1780.1,1950.1,-170.0,0.401
+2010,2010-06-16,South Africa,Pretoria,Group Stage,South Africa,Uruguay,0,3,0,0,0,Uruguay,0,11.177777777777775,0,BSh,Arid,1,17.0,Cfa,Temperate,1,16.0,1715.0,1893.8,-178.8,0.389
+2010,2010-06-16,South Africa,Durban,Group Stage,Spain,Switzerland,0,1,0,0,0,Switzerland,0,11.177777777777775,0,Csa,Temperate,1,14.0,Cfb,Temperate,0,6.0,2174.4,1766.7,407.7,0.949
+2010,2010-06-17,South Africa,Johannesburg,Group Stage,Argentina,South Korea,4,1,0,0,0,Argentina,0,11.177777777777775,0,Cfa,Temperate,1,14.0,Dwa,Continental,0,11.0,1974.2,1899.8,74.4,0.732
+2010,2010-06-17,South Africa,Polokwane,Group Stage,France,Mexico,0,2,0,0,0,Mexico,0,11.177777777777775,0,Cfb,Temperate,0,11.5,BSh,Arid,1,21.0,1887.5,1931.5,-44.0,0.58
+2010,2010-06-17,South Africa,Bloemfontein,Group Stage,Greece,Nigeria,2,1,0,0,0,Greece,0,11.177777777777775,0,Csa,Temperate,1,16.0,Aw,Tropical,1,27.0,1711.8,1797.0,-85.2,0.521
+2010,2010-06-18,South Africa,Cape Town,Group Stage,England,Algeria,0,0,0,0,0,,1,11.177777777777775,0,Cfb,Temperate,0,10.0,BWh,Arid,1,22.0,2023.5,1600.9,422.5,0.953
+2010,2010-06-18,South Africa,Port Elizabeth,Group Stage,Germany,Serbia,0,1,0,0,0,Serbia,0,11.177777777777775,0,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,1995.9,1855.6,140.3,0.8
+2010,2010-06-18,South Africa,Johannesburg,Group Stage,Slovenia,United States,2,2,0,0,0,,1,11.177777777777775,0,Cfb,Temperate,0,9.0,Cfa,Temperate,1,10.0,1746.2,1855.9,-109.6,0.486
+2010,2010-06-19,South Africa,Pretoria,Group Stage,Cameroon,Denmark,1,2,0,0,0,Denmark,0,11.177777777777775,0,Am,Tropical,1,24.0,Cfb,Temperate,0,8.0,1756.1,1771.7,-15.6,0.619
+2010,2010-06-19,South Africa,Rustenburg,Group Stage,Ghana,Australia,1,1,0,0,0,,1,11.177777777777775,0,Aw,Tropical,1,27.0,BWh,Arid,1,22.0,1803.8,1821.7,-17.9,0.616
+2010,2010-06-19,South Africa,Durban,Group Stage,Netherlands,Japan,1,0,0,0,0,Netherlands,0,11.177777777777775,0,Cfb,Temperate,0,10.0,Cfa,Temperate,1,12.0,2058.0,1767.3,290.7,0.905
+2010,2010-06-20,South Africa,Johannesburg,Group Stage,Brazil,Ivory Coast,3,1,0,0,0,Brazil,0,11.177777777777775,0,Am,Tropical,1,25.0,Aw,Tropical,1,26.0,2183.0,1828.5,354.5,0.932
+2010,2010-06-20,South Africa,Nelspruit,Group Stage,Italy,New Zealand,1,1,0,0,0,,1,11.177777777777775,0,Csa,Temperate,1,14.0,Cfb,Temperate,0,11.0,1933.0,1676.0,257.0,0.886
+2010,2010-06-20,South Africa,Bloemfontein,Group Stage,Slovakia,Paraguay,0,2,0,0,0,Paraguay,0,11.177777777777775,0,Dfb,Continental,0,8.0,Cfa,Temperate,1,23.0,1703.3,1825.3,-122.1,0.468
+2010,2010-06-21,South Africa,Port Elizabeth,Group Stage,Chile,Switzerland,1,0,0,0,0,Chile,0,11.177777777777775,0,BSk,Arid,1,9.0,Cfb,Temperate,0,6.0,1974.1,1823.6,150.5,0.809
+2010,2010-06-21,South Africa,Cape Town,Group Stage,Portugal,North Korea,7,0,0,0,0,Portugal,0,11.177777777777775,0,Csa,Temperate,1,15.0,Dwa,Continental,0,8.0,1901.6,1631.3,270.3,0.894
+2010,2010-06-21,South Africa,Johannesburg,Group Stage,Spain,Honduras,2,0,0,0,0,Spain,0,11.177777777777775,0,Csa,Temperate,1,14.0,Am,Tropical,1,24.0,2117.5,1756.1,361.4,0.934
+2010,2010-06-22,South Africa,Bloemfontein,Group Stage,France,South Africa,1,2,0,0,0,South Africa,0,11.177777777777775,0,Cfb,Temperate,0,11.5,BSh,Arid,1,17.0,1835.3,1674.2,161.1,0.818
+2010,2010-06-22,South Africa,Polokwane,Group Stage,Greece,Argentina,0,2,0,0,0,Argentina,0,11.177777777777775,0,Csa,Temperate,1,16.0,Cfa,Temperate,1,14.0,1740.5,2002.3,-261.8,0.283
+2010,2010-06-22,South Africa,Rustenburg,Group Stage,Mexico,Uruguay,0,1,0,0,0,Uruguay,0,11.177777777777775,0,BSh,Arid,1,21.0,Cfa,Temperate,1,16.0,1983.7,1934.6,49.1,0.702
+2010,2010-06-22,South Africa,Durban,Group Stage,Nigeria,South Korea,2,2,0,0,0,,1,11.177777777777775,0,Aw,Tropical,1,27.0,Dwa,Continental,0,11.0,1768.2,1871.6,-103.4,0.495
+2010,2010-06-23,South Africa,Nelspruit,Group Stage,Australia,Serbia,2,1,0,0,0,Australia,0,11.177777777777775,0,BWh,Arid,1,22.0,Cfb,Temperate,0,10.0,1828.7,1903.6,-74.9,0.536
+2010,2010-06-23,South Africa,Johannesburg,Group Stage,Ghana,Germany,0,1,0,0,0,Germany,0,11.177777777777775,0,Aw,Tropical,1,27.0,Cfb,Temperate,0,9.0,1796.9,1948.0,-151.1,0.427
+2010,2010-06-23,South Africa,Port Elizabeth,Group Stage,Slovenia,England,0,1,0,0,0,England,0,11.177777777777775,0,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,1747.1,1996.3,-249.2,0.298
+2010,2010-06-23,South Africa,Pretoria,Group Stage,United States,Algeria,1,0,0,0,0,United States,0,11.177777777777775,0,Cfa,Temperate,1,10.0,BWh,Arid,1,22.0,1855.0,1628.1,226.9,0.868
+2010,2010-06-24,South Africa,Cape Town,Group Stage,Cameroon,Netherlands,1,2,0,0,0,Netherlands,0,11.177777777777775,0,Am,Tropical,1,24.0,Cfb,Temperate,0,10.0,1718.9,2063.7,-344.8,0.196
+2010,2010-06-24,South Africa,Rustenburg,Group Stage,Denmark,Japan,1,3,0,0,0,Japan,0,11.177777777777775,0,Cfb,Temperate,0,8.0,Cfa,Temperate,1,12.0,1808.8,1761.6,47.3,0.7
+2010,2010-06-24,South Africa,Polokwane,Group Stage,Paraguay,New Zealand,0,0,0,0,0,,1,11.177777777777775,0,Cfa,Temperate,1,23.0,Cfb,Temperate,0,11.0,1867.5,1699.1,168.3,0.824
+2010,2010-06-24,South Africa,Johannesburg,Group Stage,Slovakia,Italy,3,2,0,0,0,Slovakia,0,11.177777777777775,0,Dfb,Continental,0,8.0,Csa,Temperate,1,14.0,1661.1,1909.8,-248.7,0.298
+2010,2010-06-25,South Africa,Pretoria,Group Stage,Chile,Spain,1,2,0,0,0,Spain,0,11.177777777777775,0,BSk,Arid,1,9.0,Csa,Temperate,1,14.0,1985.6,2123.4,-137.8,0.446
+2010,2010-06-25,South Africa,Nelspruit,Group Stage,North Korea,Ivory Coast,0,3,0,0,0,Ivory Coast,0,11.177777777777775,0,Dwa,Continental,0,8.0,Aw,Tropical,1,26.0,1617.0,1822.3,-205.3,0.353
+2010,2010-06-25,South Africa,Durban,Group Stage,Portugal,Brazil,0,0,0,0,0,,1,11.177777777777775,0,Csa,Temperate,1,15.0,Am,Tropical,1,25.0,1915.9,2189.1,-273.2,0.27
+2010,2010-06-25,South Africa,Bloemfontein,Group Stage,Switzerland,Honduras,0,0,0,0,0,,1,11.177777777777775,0,Cfb,Temperate,0,6.0,Am,Tropical,1,24.0,1812.1,1750.1,62.0,0.718
+2010,2010-06-26,South Africa,Rustenburg,Round of 16,United States,Ghana,1,2,0,0,0,Ghana,0,11.177777777777775,0,Cfa,Temperate,1,10.0,Aw,Tropical,1,27.0,1863.0,1771.3,91.7,0.751
+2010,2010-06-26,South Africa,Port Elizabeth,Round of 16,Uruguay,South Korea,2,1,0,0,0,Uruguay,0,11.177777777777775,0,Cfa,Temperate,1,16.0,Dwa,Continental,0,11.0,1976.7,1871.3,105.4,0.765
+2010,2010-06-27,South Africa,Johannesburg,Round of 16,Argentina,Mexico,3,1,0,0,0,Argentina,0,11.177777777777775,0,Cfa,Temperate,1,14.0,BSh,Arid,1,21.0,2027.7,1941.5,86.2,0.745
+2010,2010-06-27,South Africa,Bloemfontein,Round of 16,Germany,England,4,1,0,0,0,Germany,0,11.177777777777775,0,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,1973.6,2014.1,-40.6,0.585
+2010,2010-06-28,South Africa,Johannesburg,Round of 16,Brazil,Chile,3,0,0,0,0,Brazil,0,11.177777777777775,0,Am,Tropical,1,25.0,BSk,Arid,1,9.0,2175.3,1958.8,216.5,0.861
+2010,2010-06-28,South Africa,Durban,Round of 16,Netherlands,Slovakia,2,1,0,0,0,Netherlands,0,11.177777777777775,0,Cfb,Temperate,0,10.0,Dfb,Continental,0,8.0,2075.5,1703.2,372.3,0.938
+2010,2010-06-29,South Africa,Pretoria,Round of 16,Paraguay,Japan,0,0,1,5,3,Paraguay,1,11.177777777777775,0,Cfa,Temperate,1,23.0,Cfa,Temperate,1,12.0,1848.0,1824.6,23.5,0.67
+2010,2010-06-29,South Africa,Cape Town,Round of 16,Spain,Portugal,1,0,0,0,0,Spain,0,11.177777777777775,0,Csa,Temperate,1,14.0,Csa,Temperate,1,15.0,2150.1,1929.7,220.4,0.863
+2010,2010-07-02,South Africa,Port Elizabeth,Quarter-final,Netherlands,Brazil,2,1,0,0,0,Netherlands,0,11.177777777777775,0,Cfb,Temperate,0,10.0,Am,Tropical,1,25.0,2079.2,2189.9,-110.7,0.485
+2010,2010-07-02,South Africa,Johannesburg,Quarter-final,Uruguay,Ghana,1,1,1,4,2,Uruguay,1,11.177777777777775,0,Cfa,Temperate,1,16.0,Aw,Tropical,1,27.0,1990.8,1816.3,174.5,0.829
+2010,2010-07-03,South Africa,Cape Town,Quarter-final,Argentina,Germany,0,4,0,0,0,Germany,0,11.177777777777775,0,Cfa,Temperate,1,14.0,Cfb,Temperate,0,9.0,2050.7,2017.2,33.5,0.683
+2010,2010-07-03,South Africa,Johannesburg,Quarter-final,Paraguay,Spain,0,1,0,0,0,Spain,0,11.177777777777775,0,Cfa,Temperate,1,23.0,Csa,Temperate,1,14.0,1837.8,2158.3,-320.5,0.219
+2010,2010-07-06,South Africa,Cape Town,Semi-final,Uruguay,Netherlands,2,3,0,0,0,Netherlands,0,11.177777777777775,0,Cfa,Temperate,1,16.0,Cfb,Temperate,0,10.0,1971.0,2110.1,-139.1,0.444
+2010,2010-07-07,South Africa,Durban,Semi-final,Germany,Spain,0,1,0,0,0,Spain,0,11.177777777777775,0,Cfb,Temperate,0,9.0,Csa,Temperate,1,14.0,2094.1,2171.5,-77.4,0.532
+2010,2010-07-10,South Africa,Port Elizabeth,Third place play-off,Uruguay,Germany,2,3,0,0,0,Germany,0,11.177777777777775,0,Cfa,Temperate,1,16.0,Cfb,Temperate,0,9.0,1944.4,2062.1,-117.7,0.475
+2010,2010-07-11,South Africa,Johannesburg,Final,Netherlands,Spain,0,1,0,0,0,Spain,0,11.177777777777775,0,Cfb,Temperate,0,10.0,Csa,Temperate,1,14.0,2136.8,2203.4,-66.7,0.548
+2014,2014-06-12,Brazil,São Paulo,Group Stage,Brazil,Croatia,3,1,0,0,0,Brazil,0,21.425,1,Am,Tropical,1,25.0,Cfb,Temperate,0,11.0,2196.9,1858.0,338.9,0.926
+2014,2014-06-13,Brazil,Cuiabá,Group Stage,Chile,Australia,3,1,0,0,0,Chile,0,21.425,1,BSk,Arid,1,9.0,BWh,Arid,1,22.0,1997.4,1787.8,209.6,0.856
+2014,2014-06-13,Brazil,Natal,Group Stage,Mexico,Cameroon,1,0,0,0,0,Mexico,0,21.425,1,BSh,Arid,1,21.0,Am,Tropical,1,24.0,1883.1,1762.7,120.4,0.781
+2014,2014-06-13,Brazil,Salvador,Group Stage,Spain,Netherlands,1,5,0,0,0,Netherlands,0,21.425,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,10.0,2147.2,1994.6,152.6,0.811
+2014,2014-06-14,Brazil,Belo Horizonte,Group Stage,Colombia,Greece,3,0,0,0,0,Colombia,0,21.425,1,Af,Tropical,1,24.0,Csa,Temperate,1,16.0,1992.8,1863.6,129.2,0.789
+2014,2014-06-14,Brazil,Manaus,Group Stage,England,Italy,1,2,0,0,0,Italy,0,21.425,1,Cfb,Temperate,0,10.0,Csa,Temperate,1,14.0,1972.8,1914.9,57.9,0.713
+2014,2014-06-14,Brazil,Recife,Group Stage,Ivory Coast,Japan,2,1,0,0,0,Ivory Coast,0,21.425,1,Aw,Tropical,1,26.0,Cfa,Temperate,1,12.0,1885.0,1867.8,17.2,0.663
+2014,2014-06-14,Brazil,Fortaleza,Group Stage,Uruguay,Costa Rica,1,3,0,0,0,Costa Rica,0,21.425,1,Cfa,Temperate,1,16.0,Am,Tropical,1,25.0,1992.6,1755.3,237.3,0.875
+2014,2014-06-15,Brazil,Rio de Janeiro,Group Stage,Argentina,Bosnia and Herzegovina,2,1,0,0,0,Argentina,0,21.425,1,Cfa,Temperate,1,14.0,Cfb,Temperate,0,10.0,2078.7,1835.3,243.4,0.878
+2014,2014-06-15,Brazil,Porto Alegre,Group Stage,France,Honduras,3,0,0,0,0,France,0,21.425,1,Cfb,Temperate,0,11.5,Am,Tropical,1,24.0,1959.2,1714.5,244.7,0.879
+2014,2014-06-15,Brazil,Brasília,Group Stage,Switzerland,Ecuador,2,1,0,0,0,Switzerland,0,21.425,1,Cfb,Temperate,0,6.0,Af,Tropical,1,21.0,1894.7,1914.4,-19.8,0.614
+2014,2014-06-16,Brazil,Salvador,Group Stage,Germany,Portugal,4,0,0,0,0,Germany,0,21.425,1,Cfb,Temperate,0,9.0,Csa,Temperate,1,15.0,2098.3,2002.5,95.7,0.755
+2014,2014-06-16,Brazil,Natal,Group Stage,Ghana,United States,1,2,0,0,0,United States,0,21.425,1,Aw,Tropical,1,27.0,Cfa,Temperate,1,10.0,1801.5,1930.7,-129.1,0.458
+2014,2014-06-16,Brazil,Curitiba,Group Stage,Iran,Nigeria,0,0,0,0,0,,1,21.425,1,BWh,Arid,1,18.0,Aw,Tropical,1,27.0,1804.5,1831.3,-26.8,0.604
+2014,2014-06-17,Brazil,Belo Horizonte,Group Stage,Belgium,Algeria,2,1,0,0,0,Belgium,0,21.425,1,Cfb,Temperate,0,10.0,BWh,Arid,1,22.0,1906.2,1743.7,162.5,0.819
+2014,2014-06-17,Brazil,Fortaleza,Group Stage,Brazil,Mexico,0,0,0,0,0,,1,21.425,1,Am,Tropical,1,25.0,BSh,Arid,1,21.0,2203.6,1896.2,307.3,0.913
+2014,2014-06-17,Brazil,Cuiabá,Group Stage,Russia,South Korea,1,1,0,0,0,,1,21.425,1,Dfc,Continental,0,-2.0,Dwa,Continental,0,11.0,1893.4,1769.5,123.9,0.784
+2014,2014-06-18,Brazil,Porto Alegre,Group Stage,Australia,Netherlands,2,3,0,0,0,Netherlands,0,21.425,1,BWh,Arid,1,22.0,Cfb,Temperate,0,10.0,1774.9,2085.8,-310.9,0.229
+2014,2014-06-18,Brazil,Manaus,Group Stage,Cameroon,Croatia,0,4,0,0,0,Croatia,0,21.425,1,Am,Tropical,1,24.0,Cfb,Temperate,0,11.0,1749.5,1851.3,-101.8,0.497
+2014,2014-06-18,Brazil,Rio de Janeiro,Group Stage,Spain,Chile,0,2,0,0,0,Chile,0,21.425,1,Csa,Temperate,1,14.0,BSk,Arid,1,9.0,2056.0,2010.4,45.6,0.698
+2014,2014-06-19,Brazil,Brasília,Group Stage,Colombia,Ivory Coast,2,1,0,0,0,Colombia,0,21.425,1,Af,Tropical,1,24.0,Aw,Tropical,1,26.0,2014.9,1905.2,109.7,0.77
+2014,2014-06-19,Brazil,Natal,Group Stage,Japan,Greece,0,0,0,0,0,,1,21.425,1,Cfa,Temperate,1,12.0,Csa,Temperate,1,16.0,1847.5,1841.4,6.1,0.648
+2014,2014-06-19,Brazil,São Paulo,Group Stage,Uruguay,England,2,1,0,0,0,Uruguay,0,21.425,1,Cfa,Temperate,1,16.0,Cfb,Temperate,0,10.0,1913.9,1930.0,-16.2,0.618
+2014,2014-06-20,Brazil,Curitiba,Group Stage,Honduras,Ecuador,1,2,0,0,0,Ecuador,0,21.425,1,Am,Tropical,1,24.0,Af,Tropical,1,21.0,1701.8,1891.3,-189.4,0.374
+2014,2014-06-20,Brazil,Recife,Group Stage,Italy,Costa Rica,0,1,0,0,0,Costa Rica,0,21.425,1,Csa,Temperate,1,14.0,Am,Tropical,1,25.0,1957.7,1834.0,123.7,0.784
+2014,2014-06-20,Brazil,Salvador,Group Stage,Switzerland,France,2,5,0,0,0,France,0,21.425,1,Cfb,Temperate,0,6.0,Cfb,Temperate,0,11.5,1917.8,1971.9,-54.0,0.566
+2014,2014-06-21,Brazil,Belo Horizonte,Group Stage,Argentina,Iran,1,0,0,0,0,Argentina,0,21.425,1,Cfa,Temperate,1,14.0,BWh,Arid,1,18.0,2086.0,1798.3,287.7,0.903
+2014,2014-06-21,Brazil,Fortaleza,Group Stage,Germany,Ghana,2,2,0,0,0,,1,21.425,1,Cfb,Temperate,0,9.0,Aw,Tropical,1,27.0,2125.8,1774.0,351.7,0.931
+2014,2014-06-21,Brazil,Cuiabá,Group Stage,Nigeria,Bosnia and Herzegovina,1,0,0,0,0,Nigeria,0,21.425,1,Aw,Tropical,1,27.0,Cfb,Temperate,0,10.0,1837.5,1828.0,9.5,0.653
+2014,2014-06-22,Brazil,Rio de Janeiro,Group Stage,Belgium,Russia,1,0,0,0,0,Belgium,0,21.425,1,Cfb,Temperate,0,10.0,Dfc,Continental,0,-2.0,1917.1,1876.4,40.7,0.692
+2014,2014-06-22,Brazil,Porto Alegre,Group Stage,South Korea,Algeria,2,4,0,0,0,Algeria,0,21.425,1,Dwa,Continental,0,11.0,BWh,Arid,1,22.0,1786.5,1732.9,53.6,0.708
+2014,2014-06-22,Brazil,Manaus,Group Stage,United States,Portugal,2,2,0,0,0,,1,21.425,1,Cfa,Temperate,1,10.0,Csa,Temperate,1,15.0,1958.1,1975.0,-16.8,0.617
+2014,2014-06-23,Brazil,Curitiba,Group Stage,Australia,Spain,0,3,0,0,0,Spain,0,21.425,1,BWh,Arid,1,22.0,Csa,Temperate,1,14.0,1761.1,1993.2,-232.1,0.319
+2014,2014-06-23,Brazil,Brasília,Group Stage,Cameroon,Brazil,1,4,0,0,0,Brazil,0,21.425,1,Am,Tropical,1,24.0,Am,Tropical,1,25.0,1693.6,2178.8,-485.2,0.098
+2014,2014-06-23,Brazil,Recife,Group Stage,Croatia,Mexico,1,3,0,0,0,Mexico,0,21.425,1,Cfb,Temperate,0,11.0,BSh,Arid,1,21.0,1907.3,1921.0,-13.7,0.622
+2014,2014-06-23,Brazil,São Paulo,Group Stage,Netherlands,Chile,2,0,0,0,0,Netherlands,0,21.425,1,Cfb,Temperate,0,10.0,BSk,Arid,1,9.0,2099.5,2073.2,26.3,0.674
+2014,2014-06-24,Brazil,Belo Horizonte,Group Stage,Costa Rica,England,0,0,0,0,0,,1,21.425,1,Am,Tropical,1,25.0,Cfb,Temperate,0,10.0,1881.0,1907.1,-26.1,0.605
+2014,2014-06-24,Brazil,Fortaleza,Group Stage,Greece,Ivory Coast,2,1,0,0,0,Greece,0,21.425,1,Csa,Temperate,1,16.0,Aw,Tropical,1,26.0,1850.3,1891.4,-41.1,0.584
+2014,2014-06-24,Brazil,Natal,Group Stage,Italy,Uruguay,0,1,0,0,0,Uruguay,0,21.425,1,Csa,Temperate,1,14.0,Cfa,Temperate,1,16.0,1910.7,1936.8,-26.1,0.605
+2014,2014-06-24,Brazil,Cuiabá,Group Stage,Japan,Colombia,1,4,0,0,0,Colombia,0,21.425,1,Cfa,Temperate,1,12.0,Af,Tropical,1,24.0,1838.6,2028.8,-190.1,0.373
+2014,2014-06-25,Brazil,Salvador,Group Stage,Bosnia and Herzegovina,Iran,3,1,0,0,0,Bosnia and Herzegovina,0,21.425,1,Cfb,Temperate,0,10.0,BWh,Arid,1,18.0,1807.2,1792.5,14.7,0.659
+2014,2014-06-25,Brazil,Rio de Janeiro,Group Stage,Ecuador,France,0,0,0,0,0,,1,21.425,1,Af,Tropical,1,21.0,Cfb,Temperate,0,11.5,1913.7,2031.3,-117.6,0.475
+2014,2014-06-25,Brazil,Manaus,Group Stage,Honduras,Switzerland,0,3,0,0,0,Switzerland,0,21.425,1,Am,Tropical,1,24.0,Cfb,Temperate,0,6.0,1679.4,1858.4,-179.0,0.388
+2014,2014-06-25,Brazil,Porto Alegre,Group Stage,Nigeria,Argentina,2,3,0,0,0,Argentina,0,21.425,1,Aw,Tropical,1,27.0,Cfa,Temperate,1,14.0,1858.4,2091.8,-233.5,0.317
+2014,2014-06-26,Brazil,Curitiba,Group Stage,Algeria,Russia,1,1,0,0,0,,1,21.425,1,BWh,Arid,1,22.0,Dfc,Continental,0,-2.0,1796.6,1857.9,-61.3,0.555
+2014,2014-06-26,Brazil,Brasília,Group Stage,Portugal,Ghana,2,1,0,0,0,Portugal,0,21.425,1,Csa,Temperate,1,15.0,Aw,Tropical,1,27.0,1982.0,1799.9,182.1,0.835
+2014,2014-06-26,Brazil,São Paulo,Group Stage,South Korea,Belgium,0,1,0,0,0,Belgium,0,21.425,1,Dwa,Continental,0,11.0,Cfb,Temperate,0,10.0,1722.8,1935.5,-212.7,0.343
+2014,2014-06-26,Brazil,Recife,Group Stage,United States,Germany,0,1,0,0,0,Germany,0,21.425,1,Cfa,Temperate,1,10.0,Cfb,Temperate,0,9.0,1951.1,2099.9,-148.8,0.43
+2014,2014-06-28,Brazil,Belo Horizonte,Round of 16,Brazil,Chile,1,1,1,3,2,Brazil,1,21.425,1,Am,Tropical,1,25.0,BSk,Arid,1,9.0,2182.3,2043.9,138.4,0.798
+2014,2014-06-28,Brazil,Rio de Janeiro,Round of 16,Colombia,Uruguay,2,0,0,0,0,Colombia,0,21.425,1,Af,Tropical,1,24.0,Cfa,Temperate,1,16.0,2067.9,1973.0,94.9,0.754
+2014,2014-06-29,Brazil,Recife,Round of 16,Costa Rica,Greece,1,1,1,5,3,Costa Rica,1,21.425,1,Am,Tropical,1,25.0,Csa,Temperate,1,16.0,1874.7,1875.3,-0.5,0.639
+2014,2014-06-29,Brazil,Fortaleza,Round of 16,Netherlands,Mexico,2,1,0,0,0,Netherlands,0,21.425,1,Cfb,Temperate,0,10.0,BSh,Arid,1,21.0,2128.9,1976.9,151.9,0.81
+2014,2014-06-30,Brazil,Brasília,Round of 16,France,Nigeria,2,0,0,0,0,France,0,21.425,1,Cfb,Temperate,0,11.5,Aw,Tropical,1,27.0,2029.8,1839.4,190.4,0.842
+2014,2014-06-30,Brazil,Porto Alegre,Round of 16,Germany,Algeria,2,1,0,0,0,Germany,0,21.425,1,Cfb,Temperate,0,9.0,BWh,Arid,1,22.0,2125.7,1793.3,332.5,0.923
+2014,2014-07-01,Brazil,São Paulo,Round of 16,Argentina,Switzerland,1,0,0,0,0,Argentina,0,21.425,1,Cfa,Temperate,1,14.0,Cfb,Temperate,0,6.0,2110.9,1899.2,211.6,0.857
+2014,2014-07-01,Brazil,Salvador,Round of 16,Belgium,United States,2,1,0,0,0,Belgium,0,21.425,1,Cfb,Temperate,0,10.0,Cfa,Temperate,1,10.0,1956.1,1925.3,30.8,0.68
+2014,2014-07-04,Brazil,Fortaleza,Quarter-final,Brazil,Colombia,2,1,0,0,0,Brazil,0,21.425,1,Am,Tropical,1,25.0,Af,Tropical,1,24.0,2164.4,2090.0,74.4,0.732
+2014,2014-07-04,Brazil,Rio de Janeiro,Quarter-final,France,Germany,0,1,0,0,0,Germany,0,21.425,1,Cfb,Temperate,0,11.5,Cfb,Temperate,0,9.0,2044.0,2130.3,-86.3,0.52
+2014,2014-07-05,Brazil,Brasília,Quarter-final,Argentina,Belgium,1,0,0,0,0,Argentina,0,21.425,1,Cfa,Temperate,1,14.0,Cfb,Temperate,0,10.0,2119.4,1975.3,144.1,0.803
+2014,2014-07-05,Brazil,Salvador,Quarter-final,Netherlands,Costa Rica,0,0,1,4,3,Netherlands,1,21.425,1,Cfb,Temperate,0,10.0,Am,Tropical,1,25.0,2140.3,1866.4,273.9,0.896
+2014,2014-07-08,Brazil,Belo Horizonte,Semi-final,Brazil,Germany,1,7,0,0,0,Germany,0,21.425,1,Am,Tropical,1,25.0,Cfb,Temperate,0,9.0,2180.5,2161.5,19.0,0.665
+2014,2014-07-09,Brazil,São Paulo,Semi-final,Netherlands,Argentina,0,0,1,2,4,Argentina,1,21.425,1,Cfb,Temperate,0,10.0,Cfa,Temperate,1,14.0,2116.5,2131.2,-14.7,0.62
+2014,2014-07-12,Brazil,Brasília,Third place play-off,Brazil,Netherlands,0,3,0,0,0,Netherlands,0,21.425,1,Am,Tropical,1,25.0,Cfb,Temperate,0,10.0,2095.8,2109.3,-13.5,0.622
+2014,2014-07-13,Brazil,Rio de Janeiro,Final,Germany,Argentina,1,0,0,0,0,Germany,0,21.425,1,Cfb,Temperate,0,9.0,Cfa,Temperate,1,14.0,2246.3,2138.4,107.8,0.768
+2018,2018-06-14,Russia,Moscow,Group Stage,Russia,Saudi Arabia,5,0,0,0,0,Russia,0,21.59090909090909,1,Dfc,Continental,0,-2.0,BWh,Arid,1,25.0,1739.2,1697.4,41.8,0.693
+2018,2018-06-15,Russia,Yekaterinburg,Group Stage,Egypt,Uruguay,0,1,0,0,0,Uruguay,0,21.59090909090909,1,BWh,Arid,1,23.0,Cfa,Temperate,1,16.0,1743.8,1959.7,-215.9,0.339
+2018,2018-06-15,Russia,Saint Petersburg,Group Stage,Morocco,Iran,0,1,0,0,0,Iran,0,21.59090909090909,1,Csa,Temperate,1,17.0,BWh,Arid,1,18.0,1863.2,1890.0,-26.8,0.604
+2018,2018-06-15,Russia,Sochi,Group Stage,Portugal,Spain,3,3,0,0,0,,1,21.59090909090909,1,Csa,Temperate,1,15.0,Csa,Temperate,1,14.0,2000.7,2116.3,-115.7,0.478
+2018,2018-06-16,Russia,Moscow,Group Stage,Argentina,Iceland,1,1,0,0,0,,1,21.59090909090909,1,Cfa,Temperate,1,14.0,Cfc,Temperate,0,2.0,2043.9,1827.2,216.7,0.861
+2018,2018-06-16,Russia,Kaliningrad,Group Stage,Croatia,Nigeria,2,0,0,0,0,Croatia,0,21.59090909090909,1,Cfb,Temperate,0,11.0,Aw,Tropical,1,27.0,1928.0,1747.8,180.2,0.834
+2018,2018-06-16,Russia,Kazan,Group Stage,France,Australia,2,1,0,0,0,France,0,21.59090909090909,1,Cfb,Temperate,0,11.5,BWh,Arid,1,22.0,2039.8,1839.9,199.9,0.849
+2018,2018-06-16,Russia,Saransk,Group Stage,Peru,Denmark,0,1,0,0,0,Denmark,0,21.59090909090909,1,BWh,Arid,1,20.0,Cfb,Temperate,0,8.0,2034.7,1899.8,134.9,0.794
+2018,2018-06-17,Russia,Rostov-on-Don,Group Stage,Brazil,Switzerland,1,1,0,0,0,,1,21.59090909090909,1,Am,Tropical,1,25.0,Cfb,Temperate,0,6.0,2231.1,1956.0,275.1,0.897
+2018,2018-06-17,Russia,Samara,Group Stage,Costa Rica,Serbia,0,1,0,0,0,Serbia,0,21.59090909090909,1,Am,Tropical,1,25.0,Cfb,Temperate,0,10.0,1840.3,1817.8,22.5,0.669
+2018,2018-06-17,Russia,Moscow,Group Stage,Germany,Mexico,0,1,0,0,0,Mexico,0,21.59090909090909,1,Cfb,Temperate,0,9.0,BSh,Arid,1,21.0,2089.0,1907.8,181.2,0.835
+2018,2018-06-18,Russia,Sochi,Group Stage,Belgium,Panama,3,0,0,0,0,Belgium,0,21.59090909090909,1,Cfb,Temperate,0,10.0,Am,Tropical,1,26.0,2002.2,1764.3,237.9,0.875
+2018,2018-06-18,Russia,Nizhny Novgorod,Group Stage,Sweden,South Korea,1,0,0,0,0,Sweden,0,21.59090909090909,1,Dfc,Continental,0,3.0,Dwa,Continental,0,11.0,1843.0,1757.1,85.9,0.745
+2018,2018-06-18,Russia,Volgograd,Group Stage,Tunisia,England,1,2,0,0,0,England,0,21.59090909090909,1,BWh,Arid,1,19.0,Cfb,Temperate,0,10.0,1794.4,2016.6,-222.3,0.331
+2018,2018-06-19,Russia,Saransk,Group Stage,Colombia,Japan,1,2,0,0,0,Japan,0,21.59090909090909,1,Af,Tropical,1,24.0,Cfa,Temperate,1,12.0,2008.9,1767.8,241.0,0.877
+2018,2018-06-19,Russia,Moscow,Group Stage,Poland,Senegal,1,2,0,0,0,Senegal,0,21.59090909090909,1,Dfb,Continental,0,8.0,BSh,Arid,1,28.0,1888.0,1870.3,17.8,0.663
+2018,2018-06-19,Russia,Saint Petersburg,Group Stage,Russia,Egypt,3,1,0,0,0,Russia,0,21.59090909090909,1,Dfc,Continental,0,-2.0,BWh,Arid,1,23.0,1776.0,1723.4,52.6,0.706
+2018,2018-06-20,Russia,Kazan,Group Stage,Iran,Spain,0,1,0,0,0,Spain,0,21.59090909090909,1,BWh,Arid,1,18.0,Csa,Temperate,1,14.0,1926.2,2115.0,-188.8,0.375
+2018,2018-06-20,Russia,Moscow,Group Stage,Portugal,Morocco,1,0,0,0,0,Portugal,0,21.59090909090909,1,Csa,Temperate,1,15.0,Csa,Temperate,1,17.0,2002.0,1827.0,175.1,0.83
+2018,2018-06-20,Russia,Rostov-on-Don,Group Stage,Uruguay,Saudi Arabia,1,0,0,0,0,Uruguay,0,21.59090909090909,1,Cfa,Temperate,1,16.0,BWh,Arid,1,25.0,1980.0,1660.6,319.4,0.918
+2018,2018-06-21,Russia,Nizhny Novgorod,Group Stage,Argentina,Croatia,0,3,0,0,0,Croatia,0,21.59090909090909,1,Cfa,Temperate,1,14.0,Cfb,Temperate,0,11.0,2022.3,1943.0,79.3,0.737
+2018,2018-06-21,Russia,Samara,Group Stage,Denmark,Australia,1,1,0,0,0,,1,21.59090909090909,1,Cfb,Temperate,0,8.0,BWh,Arid,1,22.0,1947.5,1830.8,116.6,0.777
+2018,2018-06-21,Russia,Yekaterinburg,Group Stage,France,Peru,1,0,0,0,0,France,0,21.59090909090909,1,Cfb,Temperate,0,11.5,BWh,Arid,1,20.0,2048.8,1987.0,61.8,0.717
+2018,2018-06-22,Russia,Saint Petersburg,Group Stage,Brazil,Costa Rica,2,0,0,0,0,Brazil,0,21.59090909090909,1,Am,Tropical,1,25.0,Am,Tropical,1,25.0,2207.3,1800.2,407.1,0.949
+2018,2018-06-22,Russia,Volgograd,Group Stage,Nigeria,Iceland,2,0,0,0,0,Nigeria,0,21.59090909090909,1,Aw,Tropical,1,27.0,Cfc,Temperate,0,2.0,1732.9,1848.9,-116.0,0.477
+2018,2018-06-22,Russia,Kaliningrad,Group Stage,Serbia,Switzerland,1,2,0,0,0,Switzerland,0,21.59090909090909,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,6.0,1858.0,1979.8,-121.8,0.469
+2018,2018-06-23,Russia,Moscow,Group Stage,Belgium,Tunisia,5,2,0,0,0,Belgium,0,21.59090909090909,1,Cfb,Temperate,0,10.0,BWh,Arid,1,19.0,2015.3,1774.5,240.8,0.877
+2018,2018-06-23,Russia,Sochi,Group Stage,Germany,Sweden,2,1,0,0,0,Germany,0,21.59090909090909,1,Cfb,Temperate,0,9.0,Dfc,Continental,0,3.0,2039.0,1858.3,180.6,0.834
+2018,2018-06-23,Russia,Rostov-on-Don,Group Stage,South Korea,Mexico,1,2,0,0,0,Mexico,0,21.59090909090909,1,Dwa,Continental,0,11.0,BSh,Arid,1,21.0,1741.8,1957.9,-216.1,0.339
+2018,2018-06-24,Russia,Nizhny Novgorod,Group Stage,England,Panama,6,1,0,0,0,England,0,21.59090909090909,1,Cfb,Temperate,0,10.0,Am,Tropical,1,26.0,2036.5,1751.1,285.4,0.902
+2018,2018-06-24,Russia,Yekaterinburg,Group Stage,Japan,Senegal,2,2,0,0,0,,1,21.59090909090909,1,Cfa,Temperate,1,12.0,BSh,Arid,1,28.0,1820.5,1910.1,-89.6,0.515
+2018,2018-06-24,Russia,Kazan,Group Stage,Poland,Colombia,0,3,0,0,0,Colombia,0,21.59090909090909,1,Dfb,Continental,0,8.0,Af,Tropical,1,24.0,1848.2,1956.3,-108.1,0.488
+2018,2018-06-25,Russia,Saransk,Group Stage,Iran,Portugal,1,1,0,0,0,,1,21.59090909090909,1,BWh,Arid,1,18.0,Csa,Temperate,1,15.0,1903.7,2012.2,-108.5,0.488
+2018,2018-06-25,Russia,Volgograd,Group Stage,Saudi Arabia,Egypt,2,1,0,0,0,Saudi Arabia,0,21.59090909090909,1,BWh,Arid,1,25.0,BWh,Arid,1,23.0,1655.7,1697.0,-41.3,0.584
+2018,2018-06-25,Russia,Kaliningrad,Group Stage,Spain,Morocco,2,2,0,0,0,,1,21.59090909090909,1,Csa,Temperate,1,14.0,Csa,Temperate,1,17.0,2137.5,1816.7,320.8,0.919
+2018,2018-06-25,Russia,Samara,Group Stage,Uruguay,Russia,3,0,0,0,0,Uruguay,0,21.59090909090909,1,Cfa,Temperate,1,16.0,Dfc,Continental,0,-2.0,1985.0,1802.4,182.5,0.836
+2018,2018-06-26,Russia,Sochi,Group Stage,Australia,Peru,0,2,0,0,0,Peru,0,21.59090909090909,1,BWh,Arid,1,22.0,BWh,Arid,1,20.0,1847.4,1970.1,-122.6,0.467
+2018,2018-06-26,Russia,Moscow,Group Stage,Denmark,France,0,0,0,0,0,,1,21.59090909090909,1,Cfb,Temperate,0,8.0,Cfb,Temperate,0,11.5,1930.9,2065.8,-134.9,0.45
+2018,2018-06-26,Russia,Rostov-on-Don,Group Stage,Iceland,Croatia,1,2,0,0,0,Croatia,0,21.59090909090909,1,Cfc,Temperate,0,2.0,Cfb,Temperate,0,11.0,1801.8,2020.4,-218.6,0.336
+2018,2018-06-26,Russia,Saint Petersburg,Group Stage,Nigeria,Argentina,1,2,0,0,0,Argentina,0,21.59090909090909,1,Aw,Tropical,1,27.0,Cfa,Temperate,1,14.0,1779.9,1944.9,-164.9,0.408
+2018,2018-06-27,Russia,Yekaterinburg,Group Stage,Mexico,Sweden,0,3,0,0,0,Sweden,0,21.59090909090909,1,BSh,Arid,1,21.0,Dfc,Continental,0,3.0,1978.2,1848.4,129.9,0.79
+2018,2018-06-27,Russia,Moscow,Group Stage,Serbia,Brazil,0,2,0,0,0,Brazil,0,21.59090909090909,1,Cfb,Temperate,0,10.0,Am,Tropical,1,25.0,1829.8,2211.9,-382.1,0.165
+2018,2018-06-27,Russia,Kazan,Group Stage,South Korea,Germany,2,0,0,0,0,South Korea,0,21.59090909090909,1,Dwa,Continental,0,11.0,Cfb,Temperate,0,9.0,1721.5,2048.9,-327.5,0.213
+2018,2018-06-27,Russia,Nizhny Novgorod,Group Stage,Switzerland,Costa Rica,2,2,0,0,0,,1,21.59090909090909,1,Cfb,Temperate,0,6.0,Am,Tropical,1,25.0,2007.9,1795.5,212.3,0.858
+2018,2018-06-28,Russia,Kaliningrad,Group Stage,England,Belgium,0,1,0,0,0,Belgium,0,21.59090909090909,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,10.0,2048.3,2028.2,20.0,0.666
+2018,2018-06-28,Russia,Volgograd,Group Stage,Japan,Poland,0,1,0,0,0,Poland,0,21.59090909090909,1,Cfa,Temperate,1,12.0,Dfb,Continental,0,8.0,1819.6,1796.9,22.6,0.67
+2018,2018-06-28,Russia,Saransk,Group Stage,Panama,Tunisia,1,2,0,0,0,Tunisia,0,21.59090909090909,1,Am,Tropical,1,26.0,BWh,Arid,1,19.0,1739.4,1761.6,-22.2,0.61
+2018,2018-06-28,Russia,Samara,Group Stage,Senegal,Colombia,0,1,0,0,0,Colombia,0,21.59090909090909,1,BSh,Arid,1,28.0,Af,Tropical,1,24.0,1911.0,2007.6,-96.6,0.505
+2018,2018-06-30,Russia,Kazan,Round of 16,France,Argentina,4,3,0,0,0,France,0,21.59090909090909,1,Cfb,Temperate,0,11.5,Cfa,Temperate,1,14.0,2062.8,1969.3,93.5,0.753
+2018,2018-06-30,Russia,Sochi,Round of 16,Uruguay,Portugal,2,1,0,0,0,Uruguay,0,21.59090909090909,1,Cfa,Temperate,1,16.0,Csa,Temperate,1,15.0,2025.2,2011.5,13.7,0.658
+2018,2018-07-01,Russia,Nizhny Novgorod,Round of 16,Croatia,Denmark,1,1,1,3,2,Croatia,1,21.59090909090909,1,Cfb,Temperate,0,11.0,Cfb,Temperate,0,8.0,2040.5,1933.9,106.7,0.767
+2018,2018-07-01,Russia,Moscow,Round of 16,Spain,Russia,1,1,1,3,4,Russia,1,21.59090909090909,1,Csa,Temperate,1,14.0,Dfc,Continental,0,-2.0,2112.4,1762.2,350.2,0.93
+2018,2018-07-02,Russia,Rostov-on-Don,Round of 16,Belgium,Japan,3,2,0,0,0,Belgium,0,21.59090909090909,1,Cfb,Temperate,0,10.0,Cfa,Temperate,1,12.0,2068.2,1779.4,288.8,0.904
+2018,2018-07-02,Russia,Samara,Round of 16,Brazil,Mexico,2,0,0,0,0,Brazil,0,21.59090909090909,1,Am,Tropical,1,25.0,BSh,Arid,1,21.0,2226.7,1895.3,331.4,0.923
+2018,2018-07-03,Russia,Moscow,Round of 16,Colombia,England,1,1,1,3,4,England,1,21.59090909090909,1,Af,Tropical,1,24.0,Cfb,Temperate,0,10.0,2037.9,2008.3,29.6,0.678
+2018,2018-07-03,Russia,Saint Petersburg,Round of 16,Sweden,Switzerland,1,0,0,0,0,Sweden,0,21.59090909090909,1,Dfc,Continental,0,3.0,Cfb,Temperate,0,6.0,1931.3,1986.4,-55.1,0.564
+2018,2018-07-06,Russia,Kazan,Quarter-final,Brazil,Belgium,1,2,0,0,0,Belgium,0,21.59090909090909,1,Am,Tropical,1,25.0,Cfb,Temperate,0,10.0,2233.7,2074.0,159.7,0.817
+2018,2018-07-06,Russia,Nizhny Novgorod,Quarter-final,Uruguay,France,0,2,0,0,0,France,0,21.59090909090909,1,Cfa,Temperate,1,16.0,Cfb,Temperate,0,11.5,2045.7,2077.6,-31.9,0.597
+2018,2018-07-07,Russia,Sochi,Quarter-final,Russia,Croatia,2,2,1,3,4,Croatia,1,21.59090909090909,1,Dfc,Continental,0,-2.0,Cfb,Temperate,0,11.0,1780.7,2024.5,-243.9,0.304
+2018,2018-07-07,Russia,Samara,Quarter-final,Sweden,England,0,2,0,0,0,England,0,21.59090909090909,1,Dfc,Continental,0,3.0,Cfb,Temperate,0,10.0,1957.5,2019.0,-61.5,0.555
+2018,2018-07-10,Russia,Saint Petersburg,Semi-final,France,Belgium,1,0,0,0,0,France,0,21.59090909090909,1,Cfb,Temperate,0,11.5,Cfb,Temperate,0,10.0,2131.3,2123.0,8.3,0.651
+2018,2018-07-11,Russia,Moscow,Semi-final,Croatia,England,2,1,0,0,0,Croatia,0,21.59090909090909,1,Cfb,Temperate,0,11.0,Cfb,Temperate,0,10.0,2012.8,2069.0,-56.2,0.563
+2018,2018-07-14,Russia,Saint Petersburg,Third place play-off,Belgium,England,2,0,0,0,0,Belgium,0,21.59090909090909,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,10.0,2102.1,2042.7,59.3,0.715
+2018,2018-07-15,Russia,Moscow,Final,France,Croatia,4,2,0,0,0,France,0,21.59090909090909,1,Cfb,Temperate,0,11.5,Cfb,Temperate,0,11.0,2152.3,2039.0,113.2,0.773
+2022,2022-11-20,Qatar,Al Khor,Group Stage,Qatar,Ecuador,0,2,0,0,0,Ecuador,0,23.18,1,BWh,Arid,1,27.0,Af,Tropical,1,21.0,1771.8,1922.0,-150.2,0.428
+2022,2022-11-21,Qatar,Al Rayyan,Group Stage,England,Iran,6,2,0,0,0,England,0,23.18,1,Cfb,Temperate,0,10.0,BWh,Arid,1,18.0,2005.9,1888.3,117.5,0.778
+2022,2022-11-21,Qatar,Doha,Group Stage,Senegal,Netherlands,0,2,0,0,0,Netherlands,0,23.18,1,BSh,Arid,1,28.0,Cfb,Temperate,0,10.0,1831.0,2098.7,-267.7,0.276
+2022,2022-11-21,Qatar,Al Rayyan,Group Stage,United States,Wales,1,1,0,0,0,,1,23.18,1,Cfa,Temperate,1,10.0,Cfb,Temperate,0,9.0,1906.4,1844.6,61.8,0.717
+2022,2022-11-22,Qatar,Lusail,Group Stage,Argentina,Saudi Arabia,1,2,0,0,0,Saudi Arabia,0,23.18,1,Cfa,Temperate,1,14.0,BWh,Arid,1,25.0,2201.5,1731.1,470.4,0.964
+2022,2022-11-22,Qatar,Al Rayyan,Group Stage,Denmark,Tunisia,0,0,0,0,0,,1,23.18,1,Cfb,Temperate,0,8.0,BWh,Arid,1,19.0,2046.6,1850.2,196.4,0.846
+2022,2022-11-22,Qatar,Al Wakrah,Group Stage,France,Australia,4,1,0,0,0,France,0,23.18,1,Cfb,Temperate,0,11.5,BWh,Arid,1,22.0,2059.7,1834.1,225.6,0.867
+2022,2022-11-22,Qatar,Doha,Group Stage,Mexico,Poland,0,0,0,0,0,,1,23.18,1,BSh,Arid,1,21.0,Dfb,Continental,0,8.0,1854.9,1879.0,-24.0,0.608
+2022,2022-11-23,Qatar,Al Rayyan,Group Stage,Belgium,Canada,1,0,0,0,0,Belgium,0,23.18,1,Cfb,Temperate,0,10.0,Dfc,Continental,0,-4.0,2063.1,1889.8,173.3,0.828
+2022,2022-11-23,Qatar,Al Rayyan,Group Stage,Germany,Japan,1,2,0,0,0,Japan,0,23.18,1,Cfb,Temperate,0,9.0,Cfa,Temperate,1,12.0,2034.8,1886.5,148.3,0.807
+2022,2022-11-23,Qatar,Al Khor,Group Stage,Morocco,Croatia,0,0,0,0,0,,1,23.18,1,Csa,Temperate,1,17.0,Cfb,Temperate,0,11.0,1866.7,1983.6,-117.0,0.476
+2022,2022-11-23,Qatar,Doha,Group Stage,Spain,Costa Rica,7,0,0,0,0,Spain,0,23.18,1,Csa,Temperate,1,14.0,Am,Tropical,1,25.0,2128.0,1850.8,277.2,0.898
+2022,2022-11-24,Qatar,Lusail,Group Stage,Brazil,Serbia,2,0,0,0,0,Brazil,0,23.18,1,Am,Tropical,1,25.0,Cfb,Temperate,0,10.0,2240.8,1971.0,269.9,0.894
+2022,2022-11-24,Qatar,Doha,Group Stage,Portugal,Ghana,3,2,0,0,0,Portugal,0,23.18,1,Csa,Temperate,1,15.0,Aw,Tropical,1,27.0,2073.5,1723.8,349.7,0.93
+2022,2022-11-24,Qatar,Al Wakrah,Group Stage,Switzerland,Cameroon,1,0,0,0,0,Switzerland,0,23.18,1,Cfb,Temperate,0,6.0,Am,Tropical,1,24.0,1957.8,1711.3,246.5,0.88
+2022,2022-11-24,Qatar,Al Rayyan,Group Stage,Uruguay,South Korea,0,0,0,0,0,,1,23.18,1,Cfa,Temperate,1,16.0,Dwa,Continental,0,11.0,2035.0,1890.7,144.3,0.803
+2022,2022-11-25,Qatar,Al Khor,Group Stage,England,United States,0,0,0,0,0,,1,23.18,1,Cfb,Temperate,0,10.0,Cfa,Temperate,1,10.0,2030.9,1893.4,137.5,0.797
+2022,2022-11-25,Qatar,Al Rayyan,Group Stage,Netherlands,Ecuador,1,1,0,0,0,,1,23.18,1,Cfb,Temperate,0,10.0,Af,Tropical,1,21.0,2123.5,1960.6,163.0,0.82
+2022,2022-11-25,Qatar,Doha,Group Stage,Qatar,Senegal,1,3,0,0,0,Senegal,0,23.18,1,BWh,Arid,1,27.0,BSh,Arid,1,28.0,1733.2,1806.2,-72.9,0.539
+2022,2022-11-25,Qatar,Al Rayyan,Group Stage,Wales,Iran,0,2,0,0,0,Iran,0,23.18,1,Cfb,Temperate,0,9.0,BWh,Arid,1,18.0,1857.6,1863.3,-5.7,0.632
+2022,2022-11-26,Qatar,Lusail,Group Stage,Argentina,Mexico,2,0,0,0,0,Argentina,0,23.18,1,Cfa,Temperate,1,14.0,BSh,Arid,1,21.0,2143.7,1848.5,295.2,0.907
+2022,2022-11-26,Qatar,Doha,Group Stage,France,Denmark,2,1,0,0,0,France,0,23.18,1,Cfb,Temperate,0,11.5,Cfb,Temperate,0,8.0,2073.7,2025.8,47.9,0.701
+2022,2022-11-26,Qatar,Al Rayyan,Group Stage,Poland,Saudi Arabia,2,0,0,0,0,Poland,0,23.18,1,Dfb,Continental,0,8.0,BWh,Arid,1,25.0,1885.4,1788.9,96.5,0.756
+2022,2022-11-26,Qatar,Al Wakrah,Group Stage,Tunisia,Australia,0,1,0,0,0,Australia,0,23.18,1,BWh,Arid,1,19.0,BWh,Arid,1,22.0,1871.0,1820.1,50.8,0.704
+2022,2022-11-27,Qatar,Doha,Group Stage,Belgium,Morocco,0,2,0,0,0,Morocco,0,23.18,1,Cfb,Temperate,0,10.0,Csa,Temperate,1,17.0,2073.4,1868.1,205.3,0.853
+2022,2022-11-27,Qatar,Al Rayyan,Group Stage,Croatia,Canada,4,1,0,0,0,Croatia,0,23.18,1,Cfb,Temperate,0,11.0,Dfc,Continental,0,-4.0,1982.2,1879.5,102.6,0.763
+2022,2022-11-27,Qatar,Al Rayyan,Group Stage,Japan,Costa Rica,0,1,0,0,0,Costa Rica,0,23.18,1,Cfa,Temperate,1,12.0,Am,Tropical,1,25.0,1934.9,1837.0,97.9,0.758
+2022,2022-11-27,Qatar,Al Khor,Group Stage,Spain,Germany,1,1,0,0,0,,1,23.18,1,Csa,Temperate,1,14.0,Cfb,Temperate,0,9.0,2141.8,1986.4,155.4,0.813
+2022,2022-11-28,Qatar,Doha,Group Stage,Brazil,Switzerland,1,0,0,0,0,Brazil,0,23.18,1,Am,Tropical,1,25.0,Cfb,Temperate,0,6.0,2250.4,1965.0,285.4,0.902
+2022,2022-11-28,Qatar,Al Wakrah,Group Stage,Cameroon,Serbia,3,3,0,0,0,,1,23.18,1,Am,Tropical,1,24.0,Cfb,Temperate,0,10.0,1704.1,1961.4,-257.3,0.288
+2022,2022-11-28,Qatar,Lusail,Group Stage,Portugal,Uruguay,2,0,0,0,0,Portugal,0,23.18,1,Csa,Temperate,1,15.0,Cfa,Temperate,1,16.0,2077.7,2016.8,60.9,0.716
+2022,2022-11-28,Qatar,Al Rayyan,Group Stage,South Korea,Ghana,2,3,0,0,0,Ghana,0,23.18,1,Dwa,Continental,0,11.0,Aw,Tropical,1,27.0,1908.9,1719.6,189.3,0.841
+2022,2022-11-29,Qatar,Al Rayyan,Group Stage,Ecuador,Senegal,1,2,0,0,0,Senegal,0,23.18,1,Af,Tropical,1,21.0,BSh,Arid,1,28.0,1979.7,1854.7,125.1,0.785
+2022,2022-11-29,Qatar,Doha,Group Stage,Iran,United States,0,1,0,0,0,United States,0,23.18,1,BWh,Arid,1,18.0,Cfa,Temperate,1,10.0,1920.3,1911.2,9.1,0.652
+2022,2022-11-29,Qatar,Al Khor,Group Stage,Netherlands,Qatar,2,0,0,0,0,Netherlands,0,23.18,1,Cfb,Temperate,0,10.0,BWh,Arid,1,27.0,2104.4,1684.7,419.6,0.952
+2022,2022-11-29,Qatar,Al Rayyan,Group Stage,Wales,England,0,3,0,0,0,England,0,23.18,1,Cfb,Temperate,0,9.0,Cfb,Temperate,0,10.0,1800.7,2013.1,-212.3,0.344
+2022,2022-11-30,Qatar,Al Wakrah,Group Stage,Australia,Denmark,1,0,0,0,0,Australia,0,23.18,1,BWh,Arid,1,22.0,Cfb,Temperate,0,8.0,1862.4,2007.9,-145.5,0.435
+2022,2022-11-30,Qatar,Doha,Group Stage,Poland,Argentina,0,2,0,0,0,Argentina,0,23.18,1,Dfb,Continental,0,8.0,Cfa,Temperate,1,14.0,1907.4,2152.1,-244.7,0.303
+2022,2022-11-30,Qatar,Lusail,Group Stage,Saudi Arabia,Mexico,1,2,0,0,0,Mexico,0,23.18,1,BWh,Arid,1,25.0,BSh,Arid,1,21.0,1767.0,1840.1,-73.1,0.539
+2022,2022-11-30,Qatar,Al Rayyan,Group Stage,Tunisia,France,1,0,0,0,0,Tunisia,0,23.18,1,BWh,Arid,1,19.0,Cfb,Temperate,0,11.5,1828.7,2091.6,-262.9,0.281
+2022,2022-12-01,Qatar,Doha,Group Stage,Canada,Morocco,1,2,0,0,0,Morocco,0,23.18,1,Dfc,Continental,0,-4.0,Csa,Temperate,1,17.0,1854.6,1944.9,-90.3,0.514
+2022,2022-12-01,Qatar,Al Khor,Group Stage,Costa Rica,Germany,2,4,0,0,0,Germany,0,23.18,1,Am,Tropical,1,25.0,Cfb,Temperate,0,9.0,1882.5,2005.2,-122.7,0.467
+2022,2022-12-01,Qatar,Al Rayyan,Group Stage,Croatia,Belgium,0,0,0,0,0,,1,23.18,1,Cfb,Temperate,0,11.0,Cfb,Temperate,0,10.0,2007.1,1996.7,10.4,0.654
+2022,2022-12-01,Qatar,Al Rayyan,Group Stage,Japan,Spain,2,1,0,0,0,Japan,0,23.18,1,Cfa,Temperate,1,12.0,Csa,Temperate,1,14.0,1889.5,2123.0,-233.6,0.317
+2022,2022-12-02,Qatar,Lusail,Group Stage,Cameroon,Brazil,1,0,0,0,0,Cameroon,0,23.18,1,Am,Tropical,1,24.0,Am,Tropical,1,25.0,1716.9,2256.3,-539.4,0.074
+2022,2022-12-02,Qatar,Al Wakrah,Group Stage,Ghana,Uruguay,0,2,0,0,0,Uruguay,0,23.18,1,Aw,Tropical,1,27.0,Cfa,Temperate,1,16.0,1770.1,1991.3,-221.2,0.332
+2022,2022-12-02,Qatar,Doha,Group Stage,Serbia,Switzerland,2,3,0,0,0,Switzerland,0,23.18,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,6.0,1948.7,1959.1,-10.4,0.626
+2022,2022-12-02,Qatar,Al Rayyan,Group Stage,South Korea,Portugal,2,1,0,0,0,South Korea,0,23.18,1,Dwa,Continental,0,11.0,Csa,Temperate,1,15.0,1858.4,2103.3,-244.8,0.303
+2022,2022-12-03,Qatar,Al Rayyan,Round of 16,Argentina,Australia,2,1,0,0,0,Argentina,0,23.18,1,Cfa,Temperate,1,14.0,BWh,Arid,1,22.0,2179.4,1896.3,283.1,0.901
+2022,2022-12-03,Qatar,Al Rayyan,Round of 16,Netherlands,United States,3,1,0,0,0,Netherlands,0,23.18,1,Cfb,Temperate,0,10.0,Cfa,Temperate,1,10.0,2116.7,1950.3,166.4,0.823
+2022,2022-12-04,Qatar,Al Khor,Round of 16,England,Senegal,3,0,0,0,0,England,0,23.18,1,Cfb,Temperate,0,10.0,BSh,Arid,1,28.0,2049.1,1901.8,147.4,0.806
+2022,2022-12-04,Qatar,Doha,Round of 16,France,Poland,3,1,0,0,0,France,0,23.18,1,Cfb,Temperate,0,11.5,Dfb,Continental,0,8.0,2048.5,1880.1,168.4,0.824
+2022,2022-12-05,Qatar,Doha,Round of 16,Brazil,South Korea,4,1,0,0,0,Brazil,0,23.18,1,Am,Tropical,1,25.0,Dwa,Continental,0,11.0,2200.7,1900.3,300.5,0.909
+2022,2022-12-05,Qatar,Al Wakrah,Round of 16,Japan,Croatia,1,1,1,1,3,Croatia,1,23.18,1,Cfa,Temperate,1,12.0,Cfb,Temperate,0,11.0,1930.5,1997.9,-67.4,0.547
+2022,2022-12-06,Qatar,Al Rayyan,Round of 16,Morocco,Spain,0,0,1,3,0,Morocco,1,23.18,1,Csa,Temperate,1,17.0,Csa,Temperate,1,14.0,1975.7,2082.0,-106.3,0.491
+2022,2022-12-06,Qatar,Lusail,Round of 16,Portugal,Switzerland,6,1,0,0,0,Portugal,0,23.18,1,Csa,Temperate,1,15.0,Cfb,Temperate,0,6.0,2061.4,1996.7,64.8,0.721
+2022,2022-12-09,Qatar,Al Rayyan,Quarter-final,Croatia,Brazil,1,1,1,4,2,Croatia,1,23.18,1,Cfb,Temperate,0,11.0,Am,Tropical,1,25.0,2000.7,2210.2,-209.6,0.347
+2022,2022-12-09,Qatar,Lusail,Quarter-final,Netherlands,Argentina,2,2,1,3,4,Argentina,1,23.18,1,Cfb,Temperate,0,10.0,Cfa,Temperate,1,14.0,2132.7,2185.3,-52.6,0.568
+2022,2022-12-10,Qatar,Al Khor,Quarter-final,England,France,1,2,0,0,0,France,0,23.18,1,Cfb,Temperate,0,10.0,Cfb,Temperate,0,11.5,2069.5,2064.3,5.2,0.647
+2022,2022-12-10,Qatar,Doha,Quarter-final,Morocco,Portugal,1,0,0,0,0,Morocco,0,23.18,1,Csa,Temperate,1,17.0,Csa,Temperate,1,15.0,1976.3,2094.9,-118.7,0.473
+2022,2022-12-13,Qatar,Lusail,Semi-final,Argentina,Croatia,3,0,0,0,0,Argentina,0,23.18,1,Cfa,Temperate,1,14.0,Cfb,Temperate,0,11.0,2189.4,2009.8,179.5,0.833
+2022,2022-12-14,Qatar,Al Khor,Semi-final,France,Morocco,2,0,0,0,0,France,0,23.18,1,Cfb,Temperate,0,11.5,Csa,Temperate,1,17.0,2103.1,2007.9,95.3,0.755
+2022,2022-12-17,Qatar,Al Rayyan,Third place play-off,Croatia,Morocco,2,1,0,0,0,Croatia,0,23.18,1,Cfb,Temperate,0,11.0,Csa,Temperate,1,17.0,1992.3,1985.8,6.5,0.649
+2022,2022-12-18,Qatar,Lusail,Final,Argentina,France,3,3,1,4,2,Argentina,1,23.18,1,Cfa,Temperate,1,14.0,Cfb,Temperate,0,11.5,2206.9,2125.2,81.7,0.74
