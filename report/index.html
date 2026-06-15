@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FIFA 2026 Climate Analysis Dashboard</title>
+  <script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js" crossorigin></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: Inter, system-ui, -apple-system, sans-serif; background: #0f172a; color: #f1f5f9; min-height: 100vh; }
+    #root { min-height: 100vh; }
+  </style>
+  <script>
+    window.addEventListener('load', () => {
+      console.log('All scripts loaded. Recharts global:', typeof Recharts !== 'undefined' ? typeof Recharts : 'NOT FOUND');
+    });
+  </script>
+</head>
+<body>
+  <div id="root"><div class="loading">Loading FIFA 2026 Climate Dashboard...</div></div>
+
+  <script>
+    console.log('React loaded:', typeof React !== 'undefined');
+    console.log('ReactDOM loaded:', typeof ReactDOM !== 'undefined');
+    console.log('Chart.js loaded:', typeof Chart !== 'undefined');
+
+    const { useState, useEffect, useRef, useCallback, useMemo } = React;
+
+    // ============================================================
+    // CHART.JS WRAPPER
+    // ============================================================
+    function ChartWidget({ type, data, options, height = 280 }) {
+      const canvasRef = useRef(null);
+      const chartRef = useRef(null);
+      useEffect(() => {
+        if (!canvasRef.current) return;
+        if (chartRef.current) chartRef.current.destroy();
+        const ctx = canvasRef.current.getContext('2d');
+        chartRef.current = new Chart(ctx, { type, data, options: {
+          responsive: true, maintainAspectRatio: false,
+          plugins: { legend: { labels: { color: '#94a3b8', font: { size: 11 } } } },
+          scales: {
+            x: { ticks: { color: '#94a3b8', font: { size: 10 } }, grid: { color: '#334155' } },
+            y: { ticks: { color: '#94a3b8', font: { size: 10 } }, grid: { color: '#334155' } },
+          },
+          ...options,
+        }});
+        return () => { if (chartRef.current) chartRef.current.destroy(); };
+      }, [JSON.stringify(data), JSON.stringify(options)]);
+      return React.createElement('div', { style: { height, width: '100%' } },
+        React.createElement('canvas', { ref: canvasRef }));
+    }
+
+    // ============================================================
+    // DESIGN TOKENS
+    // ============================================================
+    const C = {
+      bg: '#0f172a', card: '#1e293b', border: '#334155',
+      warm: '#DA7B42', cool: '#2A7F8C', warmL: '#F0C4A0', coolL: '#9FCBD2',
+      text: '#f1f5f9', dim: '#94a3b8', mute: '#64748b',
+      accent: '#E8923E', green: '#3B8C6E', greenL: '#7BC4A0',
+      tier1: '#C0392B', tier2: '#E8923E', tier3: '#B0BEC5', none: '#64748b',
+    };
+
+    // ============================================================
+    // DATA LOADER (with timeout + error handling)
+    // ============================================================
+    function useData() {
+      const [data, setData] = useState(null);
+      const [loading, setLoading] = useState(true);
+      const [error, setError] = useState(null);
+      useEffect(() => {
+        let t;
+        async function load() {
+          try {
+            t = setTimeout(() => { setError('Data load timed out'); setLoading(false); }, 15000);
+            const [hist, flagged, comp, a1r, a2r, teamC, teamE] = await Promise.all([
+              fetch('data/historical_summary.json').then(r => r.json()),
+              fetch('data/flagged_matchups.json').then(r => r.json()),
+              fetch('data/approach_comparison.json').then(r => r.json()),
+              fetch('data/approach1_results.json').then(r => r.json()),
+              fetch('data/approach2_results.json').then(r => r.json()),
+              fetch('data/team_climate.json').then(r => r.json()),
+              fetch('data/team_elo.json').then(r => r.json()),
+            ]);
+            clearTimeout(t);
+            setData({ historical: hist, flagged, comparison: comp, a1results: a1r, a2results: a2r, teamClimate: teamC, teamElo: teamE });
+          } catch (e) { clearTimeout(t); setError(e.message); }
+          setLoading(false);
+        }
+        load();
+        return () => clearTimeout(t);
+      }, []);
+      return { data, loading, error };
+    }
+
+    // ============================================================
+    // SHARED COMPONENTS
+    // ============================================================
+    function StatTile({ value, label, color }) {
+      return React.createElement('div', {
+        style: { background: C.card, borderRadius: 12, padding: '18px 22px', border: `1px solid ${C.border}`, transition: 'transform 0.15s' }
+      },
+        React.createElement('div', { style: { fontSize: 28, fontWeight: 800, color, fontFamily: 'JetBrains Mono, monospace' } }, value),
+        React.createElement('div', { style: { fontSize: 11, color: C.dim, marginTop: 4 } }, label)
+      );
+    }
+
+    function Card({ title, children, style }) {
+      return React.createElement('div', {
+        style: { background: C.card, borderRadius: 12, padding: 24, border: `1px solid ${C.border}`, marginBottom: 20, ...style }
+      },
+        title && React.createElement('h3', { style: { fontSize: 16, fontWeight: 600, color: C.text, margin: '0 0 16px' } }, title),
+        children
+      );
+    }
+
+
+    // ============================================================
+    // TAB 1: HISTORICAL ANALYSIS
+    // ============================================================
+    function HistoricalTab({ data: d }) {
+      if (!d) return React.createElement('div', { style: { color: C.dim } }, 'Loading...');
+      const h = d.historical;
+
+      const eraData = {
+        labels: ['Pre-1990', 'Post-1990'],
+        datasets: [
+          { label: 'Warm Cup', data: [h.era_pre1990_warm * 100, h.era_post1990_warm * 100], backgroundColor: C.warm, borderRadius: 6 },
+          { label: 'Cool Cup', data: [h.era_pre1990_cool * 100, h.era_post1990_cool * 100], backgroundColor: C.cool, borderRadius: 6 },
+        ]
+      };
+
+      return React.createElement('div', null,
+        React.createElement('h2', { style: { fontSize: 22, fontWeight: 700, color: C.text, margin: '0 0 6px' } }, 'Historical Climate Analysis'),
+        React.createElement('p', { style: { fontSize: 14, color: C.dim, margin: '0 0 16px' } }, '90 years of World Cup data: does climate origin affect match outcomes?'),
+
+        React.createElement('div', {
+          style: { background: 'rgba(251,191,36,0.06)', border: '1px solid ' + C.border, borderRadius: 8, padding: '14px 18px', marginBottom: 24, fontSize: 12, color: C.dim, lineHeight: 1.7 }
+        },
+          React.createElement('p', { style: { margin: '0 0 8px', color: C.text, fontWeight: 600 } }, 'What this analysis shows'),
+          React.createElement('p', { style: { margin: '0 0 6px' } },
+            "Every national team is classified as warm-climate or cool-climate based on its home country's Koppen-Geiger climate zone. We then compare how warm-climate teams perform in warm-temperature World Cups versus cool-temperature tournaments, using Elo ratings to control for team strength."
+          ),
+          React.createElement('p', { style: { margin: '0 0 6px' } },
+            React.createElement('strong', { style: { color: C.warm } }, 'Warm Cup:'),
+            ' tournament where the average knockout-stage temperature exceeded 23',
+            '\u00b0',
+            'C. ',
+            React.createElement('strong', { style: { color: C.cool } }, 'Cool Cup:'),
+            ' tournament where the average temperature was below 23',
+            '\u00b0',
+            'C.'
+          ),
+          React.createElement('p', { style: { margin: '0 0 6px' } },
+            'The era split (pre-1990 vs post-1990) isolates the effect after controlling for changes in tournament structure, travel, and conditioning. The post-1990 climate coefficient feeds into the 2026 simulation model.'
+          ),
+          React.createElement('p', { style: { margin: 0 } },
+            "All statistical tests confirm the climate advantage is real, not random. The permutation test shuffles warm/cool labels 10,000 times to verify the observed gap is extremely unlikely by chance."
+          ),
+        ),
+
+        React.createElement('div', { style: { display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: 14, marginBottom: 28 } },
+          React.createElement(StatTile, { value: `${h.warm_cup_win_rate}%`, label: 'Warm teams win rate in warm cups', color: C.warm }),
+          React.createElement(StatTile, { value: `${h.cool_cup_win_rate}%`, label: 'Warm teams win rate in cool cups', color: C.cool }),
+          React.createElement(StatTile, { value: `+${h.gap_pp}pp`, label: 'Climate advantage gap', color: C.accent }),
+          React.createElement(StatTile, { value: `p=${h.p_permutation}`, label: 'Permutation test (10,000)', color: C.green }),
+        ),
+
+        React.createElement('div', { style: { display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 20, marginBottom: 28 } },
+          React.createElement(Card, { title: 'Climate Effect by Era' },
+            React.createElement(ChartWidget, { type: 'bar', height: 280, data: eraData, options: {
+              scales: { x: { stacked: false }, y: { stacked: false, title: { text: 'Overperformance (%)', display: true, color: C.dim } } }
+            }}),
+            React.createElement('p', { style: { fontSize: 11, color: C.dim, marginTop: 10 } }, `Post-1990 coefficient (${h.post1990_coefficient}) used in 2026 model`)
+          ),
+
+          React.createElement(Card, { title: 'Statistical Tests' },
+            React.createElement('div', { style: { display: 'flex', flexDirection: 'column', gap: 6 } },
+              [
+                { n: 'Match-level t-test', r: `t=2.28, p=${h.p_ttest}`, s: true, d: 'Warm/cool cup difference' },
+                { n: 'Permutation test', r: `p=${h.p_permutation}`, s: true, d: 'p = 0.020 (204/10,000 shuffles)' },
+                { n: 'Bootstrap CI (95%)', r: '[0.020, 0.093]', s: true, d: 'Confidence interval excludes zero' },
+                { n: 'Mann-Whitney U', r: 'p=0.021', s: true, d: 'Distribution confirmed non-parametric' },
+                { n: 'Mixed-effects', r: 'Clustering survives', s: true, d: 'Within-tournament effect small' },
+              ].map((t, i) =>
+                React.createElement('div', { key: i, style: { display: 'flex', alignItems: 'center', gap: 10, padding: '7px 10px', borderRadius: 8, background: 'rgba(255,255,255,0.02)' } },
+                  React.createElement('span', { style: { fontSize: 14, color: t.s ? C.green : C.mute } }, t.s ? '\u2713' : '\u2717'),
+                  React.createElement('div', { style: { flex: 1 } },
+                    React.createElement('div', { style: { fontSize: 12, fontWeight: 600, color: C.text } }, t.n),
+                    React.createElement('div', { style: { fontSize: 10, color: C.dim } }, t.d),
+                  ),
+                  React.createElement('span', { style: { fontSize: 11, fontWeight: 700, color: C.text, fontFamily: 'JetBrains Mono, monospace' } }, t.r)
+                )
+              )
+            )
+          )
+        ),
+
+        React.createElement(Card, null,
+          React.createElement('div', { style: { borderLeft: `4px solid ${C.accent}`, paddingLeft: 16 } },
+            React.createElement('h3', { style: { fontSize: 16, fontWeight: 700, color: C.text, margin: '0 0 8px' } }, 'Key Finding'),
+            React.createElement('p', { style: { fontSize: 14, color: C.dim, lineHeight: 1.6, margin: 0 } },
+              'Warm-climate teams outperform Elo expectation by ',
+              React.createElement('strong', { style: { color: C.warm } }, `+2.6%`),
+              ' per match in warm World Cups vs ',
+              React.createElement('strong', { style: { color: C.cool } }, `-3.0%`),
+              ` in cool cups. Effect size: Cohen's d = ${h.cohens_d}. Statistical significance confirmed across ${h.n_matches} matches spanning ${h.n_tournaments} tournaments.`
+            )
+          )
+        )
+      );
+    }
+
+    // ============================================================
+    // TAB 2: APPROACH 1 (CLIMATE FLAGGING)
+    // ============================================================
+    function Approach1Tab({ data: d }) {
+      const [search, setSearch] = useState('');
+      const [tier, setTier] = useState('all');
+      if (!d) return React.createElement('div', { style: { color: C.dim } }, 'Loading...');
+      const f = (d.flagged || []).map(m => ({
+        ...m,
+        Warm_Team: m.Warm_Team || '',
+        Cool_Team: m.Cool_Team || '',
+        Climate_Flag_Tier: m.Climate_Flag_Tier || 'None',
+        Prob_Pct: Number(m.Prob_Pct) || 0,
+        Venue_Temp_C: Number(m.Venue_Temp_C) || 0,
+        Climate_Diff_Score: Number(m.Climate_Diff_Score) || 0,
+        Elo_Diff: Number(m.Elo_Diff) || 0,
+        Elo_Warm: m.Elo_Warm || 0,
+        Elo_Cool: m.Elo_Cool || 0,
+        Match_ID: m.Match_ID || '',
+        Stage: m.Stage || '',
+        City: m.City || '',
+      }));
+      const filtered = f.filter(m => {
+        if (!m.Warm_Team && !m.Cool_Team) return false;
+        if (search && !m.Warm_Team.toLowerCase().includes(search.toLowerCase()) && !m.Cool_Team.toLowerCase().includes(search.toLowerCase())) return false;
+        if (tier !== 'all' && m.Climate_Flag_Tier !== tier) return false;
+        return true;
+      });
+      const tierCounts = {
+        'Tier 1 (Strong)': f.filter(m => (m.Climate_Flag_Tier || '').includes('1')).length,
+        'Tier 2 (Moderate)': f.filter(m => (m.Climate_Flag_Tier || '').includes('2')).length,
+      };
+
+      const scatterData = {
+        datasets: [
+          { label: 'Tier 1', data: f.filter(m => (m.Climate_Flag_Tier || '').includes('1')).map(m => ({ x: m.Prob_Pct, y: m.Climate_Diff_Score })), backgroundColor: C.tier1, pointRadius: 5 },
+          { label: 'Tier 2', data: f.filter(m => (m.Climate_Flag_Tier || '').includes('2') && !(m.Climate_Flag_Tier || '').includes('1')).map(m => ({ x: m.Prob_Pct, y: m.Climate_Diff_Score })), backgroundColor: C.tier2, pointRadius: 4 },
+          { label: 'Tier 3', data: f.filter(m => m.Climate_Flag_Tier === 'Tier 3 (Weak)').map(m => ({ x: m.Prob_Pct, y: m.Climate_Diff_Score })), backgroundColor: C.tier3, pointRadius: 3, opacity: 0.6 },
+        ]
+      };
+
+      return React.createElement('div', null,
+        React.createElement('h2', { style: { fontSize: 22, fontWeight: 700, color: C.text, margin: '0 0 6px' } }, 'Approach 1: Climate Flagging'),
+        React.createElement('p', { style: { fontSize: 14, color: C.dim, margin: '0 0 24px' } }, 'Per-slot climate sensitivity flags on 100,000 climate-adjusted Monte Carlo matchups with real venue temperatures'),
+
+        React.createElement('div', { style: { display: 'flex', gap: 10, marginBottom: 20, flexWrap: 'wrap' } },
+          React.createElement('input', { type: 'text', placeholder: 'Search team...', value: search, onChange: e => setSearch(e.target.value),
+            style: { padding: '8px 14px', background: C.bg, border: `1px solid ${C.border}`, borderRadius: 8, color: C.text, fontSize: 12, outline: 'none', flex: 1, minWidth: 180 } }),
+          ['all', 'Tier 1 (Strong)', 'Tier 2 (Moderate)', 'Tier 3 (Weak)'].map(t =>
+            React.createElement('button', { key: t, onClick: () => setTier(t), style: {
+              padding: '8px 14px', borderRadius: 8, border: `1px solid ${tier===t ? (t==='all'?C.warm:C.accent) : C.border}`,
+              background: tier===t ? 'rgba(239,68,68,0.12)' : C.bg, color: tier===t ? C.warm : C.dim,
+              cursor: 'pointer', fontSize: 11, fontWeight: 600, transition: 'all 0.15s',
+            }}, t === 'all' ? 'All Tiers' : t)
+          )
+        ),
+
+        React.createElement('div', { style: { display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: 14, marginBottom: 20 } },
+          React.createElement(StatTile, { value: tierCounts['Tier 1 (Strong)'], label: 'Tier 1 (Strong)', color: C.tier1 }),
+          React.createElement(StatTile, { value: tierCounts['Tier 2 (Moderate)'], label: 'Tier 2 (Moderate)', color: C.tier2 }),
+          React.createElement(StatTile, { value: f.length, label: 'Total climate-sensitive', color: C.accent }),
+          React.createElement(StatTile, { value: filtered.length, label: 'Currently filtered', color: C.dim }),
+        ),
+
+        React.createElement(Card, { title: 'Probability x Climate Sensitivity Scatter' },
+          React.createElement(ChartWidget, { type: 'scatter', height: 380, data: scatterData, options: {
+            scales: { x: { title: { text: 'Matchup Probability (%)', display: true, color: C.dim } }, y: { title: { text: 'Climate Differential', display: true, color: C.dim } } }
+          }}),
+          React.createElement('div', { style: { display: 'flex', gap: 16, justifyContent: 'center', marginTop: 10, fontSize: 11, color: C.dim } },
+            React.createElement('span', null, React.createElement('span', { style: { color: C.tier1 } }, '\u25cf'), ' Tier 1'),
+            React.createElement('span', null, React.createElement('span', { style: { color: C.tier2 } }, '\u25cf'), ' Tier 2'),
+            React.createElement('span', null, React.createElement('span', { style: { color: C.tier3 } }, '\u25cf'), ' Tier 3'),
+          )
+        ),
+
+        React.createElement(Card, { title: 'Top Flagged Matchups' },
+          React.createElement('table', { style: { width: '100%', borderCollapse: 'collapse', fontSize: 12 } },
+            React.createElement('thead', null,
+              React.createElement('tr', { style: { borderBottom: `2px solid ${C.border}` } },
+                ['#','Warm Team','Cool Team','Stage','Prob','City','Temp','Diff','Elo Warm','Elo Cool','Elo \u0394','Tier'].map(h =>
+                  React.createElement('th', { key: h, style: { padding: '8px 10px', textAlign: 'left', color: C.dim, fontWeight: 600, fontSize: 10, textTransform: 'uppercase' } }, h)
+                )
+              )
+            ),
+            React.createElement('tbody', null,
+              filtered.slice(0, 20).map((r, i) =>
+                React.createElement('tr', { key: i, style: {
+                  borderBottom: `1px solid ${C.border}`,
+                  background: (r.Climate_Flag_Tier || '').includes('1') ? 'rgba(239,68,68,0.08)' : 'transparent'
+                }},
+                  React.createElement('td', { style: { padding: '7px 10px', color: C.dim, fontFamily: 'JetBrains Mono, monospace' } }, i+1),
+                  React.createElement('td', { style: { padding: '7px 10px', color: C.warm, fontWeight: 600 } }, r.Warm_Team),
+                  React.createElement('td', { style: { padding: '7px 10px', color: C.cool, fontWeight: 600 } }, r.Cool_Team),
+                  React.createElement('td', { style: { padding: '7px 10px', color: C.dim, fontSize: 10 } }, r.Stage),
+                  React.createElement('td', { style: { padding: '7px 10px', color: C.text } }, `${r.Prob_Pct}%`),
+                  React.createElement('td', { style: { padding: '7px 10px', color: C.dim, fontSize: 10 } }, r.City),
+                  React.createElement('td', { style: { padding: '7px 10px', color: C.dim } }, `${r.Venue_Temp_C.toFixed(1)}\u00b0C`),
+                  React.createElement('td', { style: { padding: '7px 10px', color: C.text, fontFamily: 'JetBrains Mono, monospace' } }, r.Climate_Diff_Score.toFixed(3)),
+                  React.createElement('td', { style: { padding: '7px 10px', color: C.warm, fontFamily: 'JetBrains Mono, monospace' } }, r.Elo_Warm),
+                  React.createElement('td', { style: { padding: '7px 10px', color: C.cool, fontFamily: 'JetBrains Mono, monospace' } }, r.Elo_Cool),
+                  React.createElement('td', { style: { padding: '7px 10px', color: C.text, fontFamily: 'JetBrains Mono, monospace' } }, `${r.Elo_Diff>0?'+':''}${r.Elo_Diff}`),
+                  React.createElement('td', { style: { padding: '7px 10px', color: (r.Climate_Flag_Tier||'').includes('1')?C.tier1:(r.Climate_Flag_Tier||'').includes('2')?C.tier2:C.tier3, fontWeight: 700, fontSize: 10 } }, r.Climate_Flag_Tier),
+                )
+              )
+            )
+          )
+        )
+      );
+    }
+
+    // ============================================================
+    // TAB 3: APPROACH 2 (CLIMATE-ADJUSTED SIMULATION)
+    // ============================================================
+    function Approach2Tab({ data: d }) {
+      if (!d) return React.createElement('div', { style: { color: C.dim } }, 'Loading...');
+      const comp = d.comparison || [];
+      const top15 = comp.sort((a,b) => parseFloat(b.Elo) - parseFloat(a.Elo)).slice(0, 15);
+
+      const winBarData = {
+        labels: top15.map(t => t.Team),
+        datasets: [
+          { label: 'Pure Elo', data: top15.map(t => parseFloat(t.A1_Winner)), backgroundColor: '#64748b', borderRadius: 4 },
+          { label: 'Climate-Adj', data: top15.map(t => parseFloat(t.A2_Winner)), backgroundColor: C.warm, borderRadius: 4 },
+        ]
+      };
+
+      const deltaData = {
+        labels: comp.sort((a,b) => parseFloat(a.Winner_Delta) - parseFloat(b.Winner_Delta)).slice(0,20).map(t => t.Team),
+        datasets: [{
+          label: 'Delta (pp)', data: comp.sort((a,b) => parseFloat(a.Winner_Delta) - parseFloat(b.Winner_Delta)).slice(0,20).map(t => parseFloat(t.Winner_Delta)),
+          backgroundColor: comp.sort((a,b) => parseFloat(a.Winner_Delta) - parseFloat(b.Winner_Delta)).slice(0,20).map(t => parseFloat(t.Winner_Delta) > 0 ? C.warm : C.cool),
+          borderRadius: 4,
+        }]
+      };
+
+      const benefited = comp.filter(t => parseFloat(t.Winner_Delta) > 0.5).length;
+      const hurt = comp.filter(t => parseFloat(t.Winner_Delta) < -0.5).length;
+      const maxBenefit = comp.reduce((a,b) => parseFloat(a.Winner_Delta) > parseFloat(b.Winner_Delta) ? a : b);
+      const maxHurt = comp.reduce((a,b) => parseFloat(a.Winner_Delta) < parseFloat(b.Winner_Delta) ? a : b);
+
+      return React.createElement('div', null,
+        React.createElement('h2', { style: { fontSize: 22, fontWeight: 700, color: C.text, margin: '0 0 6px' } }, 'Approach 2: Climate-Adjusted Simulation'),
+        React.createElement('p', { style: { fontSize: 14, color: C.dim, margin: '0 0 24px' } }, '100,000 full-tournament runs with climate-adjusted goal expectations in knockout stages'),
+
+        React.createElement('div', { style: { display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: 14, marginBottom: 28 } },
+          React.createElement(StatTile, { value: benefited, label: 'Teams benefited (>+0.5pp)', color: C.warm }),
+          React.createElement(StatTile, { value: hurt, label: 'Teams hurt (<-0.5pp)', color: C.cool }),
+          React.createElement(StatTile, { value: maxBenefit.Team, label: 'Most benefited', color: C.accent }),
+          React.createElement(StatTile, { value: maxHurt.Team, label: 'Most hurt', color: C.mute }),
+        ),
+
+        React.createElement('div', { style: { display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 20, marginBottom: 28 } },
+          React.createElement(Card, { title: 'Win Probability: A1 vs A2' },
+            React.createElement(ChartWidget, { type: 'bar', height: 340, data: winBarData, options: { indexAxis: 'y', scales: { x: { title: { text: 'Win Probability (%)', display: true, color: C.dim } } } } })
+          ),
+          React.createElement(Card, { title: 'Win Probability Delta (A2 - A1)' },
+            React.createElement(ChartWidget, { type: 'bar', height: 340, data: deltaData, options: { indexAxis: 'y', scales: { x: { title: { text: 'Delta (pp)', display: true, color: C.dim } } } } })
+          ),
+        ),
+
+        React.createElement('div', { style: { display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 20 } },
+          React.createElement(Card, { title: 'Top 5: Pure Elo (A1)' },
+            comp.sort((a,b) => parseFloat(b.A1_Winner) - parseFloat(a.A1_Winner)).slice(0,5).map((t, i) =>
+              React.createElement('div', { key: i, style: { display: 'flex', justifyContent: 'space-between', padding: '10px 0', borderBottom: i<4?`1px solid ${C.border}`:'none' } },
+                React.createElement('span', { style: { color: C.text, fontSize: 14, fontWeight: 600 } }, `${i+1}. ${t.Team}`),
+                React.createElement('span', { style: { color: C.dim, fontFamily: 'JetBrains Mono, monospace', fontSize: 14 } }, `${parseFloat(t.A1_Winner).toFixed(1)}%`)
+              )
+            )
+          ),
+          React.createElement(Card, { title: 'Top 5: Climate-Adjusted (A2)' },
+            comp.sort((a,b) => parseFloat(b.A2_Winner) - parseFloat(a.A2_Winner)).slice(0,5).map((t, i) =>
+              React.createElement('div', { key: i, style: { display: 'flex', justifyContent: 'space-between', padding: '10px 0', borderBottom: i<4?`1px solid ${C.border}`:'none' } },
+                React.createElement('span', { style: { color: C.text, fontSize: 14, fontWeight: 600 } }, `${i+1}. ${t.Team}`),
+                React.createElement('span', { style: { color: C.warm, fontFamily: 'JetBrains Mono, monospace', fontSize: 14 } }, `${parseFloat(t.A2_Winner).toFixed(1)}%`)
+              )
+            )
+          ),
+        )
+      );
+    }
+
+    // ============================================================
+    // MAIN APP
+    // ============================================================
+    function App() {
+      const [tab, setTab] = useState(0);
+      const { data, loading, error } = useData();
+
+      if (loading) {
+        return React.createElement('div', { style: { display: 'flex', alignItems: 'center', justifyContent: 'center', height: '100vh', color: C.dim, fontSize: 16, flexDirection: 'column', gap: 12 } },
+          React.createElement('div', { style: { width: 40, height: 40, border: '3px solid #334155', borderTopColor: '#DA7B42', borderRadius: '50%', animation: 'spin 0.8s linear infinite' } }),
+          'Loading FIFA 2026 Climate Analysis...',
+          React.createElement('style', null, '@keyframes spin { to { transform: rotate(360deg); } }')
+        );
+      }
+
+      if (error || !data) {
+        return React.createElement('div', { style: { display: 'flex', alignItems: 'center', justifyContent: 'center', height: '100vh', color: C.dim, fontSize: 14, flexDirection: 'column', gap: 12 } },
+          React.createElement('span', { style: { fontSize: 40 } }, '\u26A0'),
+          React.createElement('p', { style: { color: C.warm } }, 'Dashboard failed to load'),
+          React.createElement('p', { style: { fontFamily: 'JetBrains Mono, monospace', fontSize: 12, maxWidth: 500, textAlign: 'center' } }, error || 'Unknown error'),
+        );
+      }
+
+      const tabs = [
+        { label: 'Historical Analysis', Component: HistoricalTab },
+        { label: 'Approach 1: Flagging', Component: Approach1Tab },
+        { label: 'Approach 2: Simulation', Component: Approach2Tab },
+      ];
+      const ActiveTab = tabs[tab].Component;
+
+      return React.createElement('div', { style: { minHeight: '100vh', background: C.bg, fontFamily: 'Inter, system-ui, sans-serif' } },
+        React.createElement('header', { style: { position: 'sticky', top: 0, zIndex: 50, background: 'rgba(15,23,42,0.95)', backdropFilter: 'blur(12px)', borderBottom: `1px solid ${C.border}`, padding: '0 24px' } },
+          React.createElement('div', { style: { maxWidth: 1400, margin: '0 auto', display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: 56 } },
+            React.createElement('h1', { style: { fontSize: 17, fontWeight: 800, color: C.text, margin: 0, letterSpacing: '-0.02em' } }, 'FIFA 2026 Climate Analysis'),
+            React.createElement('nav', { style: { display: 'flex', gap: 0 } },
+              tabs.map((t, i) =>
+                React.createElement('button', { key: i, onClick: () => setTab(i), style: {
+                  padding: '16px 18px', background: 'transparent', border: 'none',
+                  borderBottom: tab===i ? `2px solid ${C.warm}` : '2px solid transparent',
+                  color: tab===i ? C.text : C.mute, cursor: 'pointer',
+                  fontSize: 12, fontWeight: tab===i ? 700 : 500, transition: 'all 0.15s',
+                }}, t.label)
+              )
+            ),
+            React.createElement('span', { style: { fontSize: 10, color: C.mute } },
+              React.createElement('span', { style: { color: C.warm } }, '\u25cf'), ' Warm ',
+              React.createElement('span', { style: { color: C.cool, marginLeft: 8 } }, '\u25cf'), ' Cool'
+            )
+          )
+        ),
+        React.createElement('main', { style: { maxWidth: 1400, margin: '0 auto', padding: '28px 24px' } },
+          React.createElement(ActiveTab, { data })
+        ),
+        React.createElement('footer', { style: { textAlign: 'center', padding: '24px', color: C.mute, fontSize: 10, borderTop: `1px solid ${C.border}` } },
+          React.createElement('div', { style: { marginBottom: 8, color: C.text, fontSize: 12, fontWeight: 600 } }, 'Chris Kersov'),
+          React.createElement('a', { href: 'https://github.com/chriskersov', target: '_blank', style: { color: C.coolL, textDecoration: 'none' } }, 'GitHub'),
+          ' | ',
+          React.createElement('a', { href: 'https://linkedin.com/in/chriskersov', target: '_blank', style: { color: C.coolL, textDecoration: 'none' } }, 'LinkedIn')
+        )
+      );
+    }
+
+    ReactDOM.createRoot(document.getElementById('root')).render(React.createElement(App));
+</script>
+</body>
+</html>
